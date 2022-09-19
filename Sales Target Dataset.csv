@@ -1,0 +1,4604 @@
+Category,Order Date,Sales Target,Segment
+Office Supplies,1/4/2011,14.97,Consumer
+Office Supplies,1/5/2011,299.58,Home Office
+Office Supplies,1/6/2011,20.9,Consumer
+Furniture,1/7/2011,"2,316.44",Home Office
+Office Supplies,1/7/2011,16.91,Consumer
+Office Supplies,1/7/2011,13.93,Corporate
+Office Supplies,1/7/2011,698.84,Home Office
+Technology,1/7/2011,"1,067.58",Home Office
+Furniture,1/8/2011,81.33,Consumer
+Office Supplies,1/8/2011,11.06,Consumer
+Office Supplies,1/10/2011,8.69,Consumer
+Technology,1/10/2011,28.7,Consumer
+Furniture,1/11/2011,47.27,Corporate
+Office Supplies,1/11/2011,2.51,Corporate
+Furniture,1/12/2011,8.75,Consumer
+Furniture,1/14/2011,791.95,Consumer
+Office Supplies,1/14/2011,"1,386.60",Consumer
+Office Supplies,1/14/2011,570.06,Corporate
+Technology,1/14/2011,595,Corporate
+Furniture,1/15/2011,65.68,Corporate
+Technology,1/16/2011,143.95,Consumer
+Furniture,1/17/2011,109.31,Consumer
+Office Supplies,1/17/2011,49.15,Consumer
+Technology,1/17/2011,111.78,Consumer
+Office Supplies,1/19/2011,66.16,Corporate
+Furniture,1/20/2011,157.88,Consumer
+Office Supplies,1/20/2011,183.33,Consumer
+Furniture,1/21/2011,"1,243.89",Consumer
+Office Supplies,1/21/2011,537.63,Consumer
+Office Supplies,1/21/2011,67.19,Corporate
+Technology,1/21/2011,748.93,Consumer
+Furniture,1/22/2011,24.74,Consumer
+Office Supplies,1/24/2011,39.58,Consumer
+Furniture,1/27/2011,123.51,Corporate
+Furniture,1/27/2011,65.46,Home Office
+Office Supplies,1/27/2011,10.25,Corporate
+Office Supplies,1/27/2011,531.3,Home Office
+Technology,1/27/2011,343.33,Home Office
+Furniture,1/28/2011,359.64,Consumer
+Office Supplies,1/28/2011,86.18,Consumer
+Office Supplies,1/29/2011,3.34,Consumer
+Office Supplies,1/31/2011,262.15,Consumer
+Furniture,2/1/2011,308.11,Consumer
+Technology,2/2/2011,506.41,Consumer
+Office Supplies,2/3/2011,18.52,Consumer
+Office Supplies,2/3/2011,10.74,Home Office
+Technology,2/3/2011,175.53,Consumer
+Office Supplies,2/4/2011,105.85,Consumer
+Office Supplies,2/5/2011,15.01,Corporate
+Office Supplies,2/5/2011,121.82,Home Office
+Office Supplies,2/7/2011,9.67,Consumer
+Office Supplies,2/7/2011,13.35,Corporate
+Technology,2/7/2011,260.58,Corporate
+Office Supplies,2/8/2011,71.46,Corporate
+Technology,2/8/2011,108.44,Corporate
+Furniture,2/9/2011,12.81,Home Office
+Furniture,2/12/2011,"1,534.55",Consumer
+Office Supplies,2/12/2011,143.01,Consumer
+Technology,2/12/2011,241.48,Consumer
+Furniture,2/13/2011,112.72,Consumer
+Office Supplies,2/15/2011,15.53,Consumer
+Office Supplies,2/15/2011,352.64,Corporate
+Technology,2/15/2011,259.17,Corporate
+Office Supplies,2/16/2011,18.16,Corporate
+Office Supplies,2/17/2011,8.59,Consumer
+Office Supplies,2/18/2011,49.87,Consumer
+Furniture,2/19/2011,22.39,Consumer
+Office Supplies,2/19/2011,11.61,Consumer
+Furniture,2/21/2011,18.69,Corporate
+Office Supplies,2/21/2011,12.05,Home Office
+Technology,2/21/2011,68.54,Corporate
+Office Supplies,2/22/2011,8.67,Consumer
+Office Supplies,2/23/2011,19.44,Consumer
+Office Supplies,2/24/2011,12.5,Home Office
+Office Supplies,2/25/2011,59.57,Consumer
+Office Supplies,2/28/2011,21.01,Consumer
+Furniture,3/1/2011,"1,247.28",Consumer
+Furniture,3/1/2011,545.34,Home Office
+Office Supplies,3/1/2011,260.03,Consumer
+Office Supplies,3/1/2011,18.87,Home Office
+Technology,3/1/2011,5.41,Home Office
+Office Supplies,3/2/2011,3.39,Corporate
+Office Supplies,3/2/2011,43.46,Home Office
+Technology,3/2/2011,137.59,Corporate
+Furniture,3/3/2011,557.45,Consumer
+Furniture,3/3/2011,287.33,Corporate
+Office Supplies,3/3/2011,200.15,Consumer
+Office Supplies,3/3/2011,53.81,Corporate
+Office Supplies,3/3/2011,142.02,Home Office
+Technology,3/3/2011,9.49,Home Office
+Office Supplies,3/4/2011,314.88,Consumer
+Office Supplies,3/5/2011,216.57,Consumer
+Technology,3/5/2011,446.37,Consumer
+Furniture,3/7/2011,49.2,Consumer
+Furniture,3/7/2011,982.55,Corporate
+Office Supplies,3/7/2011,226.97,Consumer
+Office Supplies,3/7/2011,207.51,Corporate
+Office Supplies,3/7/2011,115.18,Home Office
+Office Supplies,3/10/2011,749.38,Consumer
+Furniture,3/11/2011,7.65,Consumer
+Office Supplies,3/11/2011,123.54,Consumer
+Office Supplies,3/11/2011,177.87,Corporate
+Technology,3/11/2011,645.77,Corporate
+Furniture,3/14/2011,"1,219.71",Home Office
+Office Supplies,3/14/2011,217.22,Consumer
+Office Supplies,3/14/2011,12.27,Corporate
+Office Supplies,3/14/2011,98.51,Home Office
+Technology,3/14/2011,77,Consumer
+Technology,3/14/2011,523.17,Home Office
+Furniture,3/15/2011,42.95,Consumer
+Office Supplies,3/15/2011,302.33,Consumer
+Technology,3/16/2011,514.39,Home Office
+Furniture,3/17/2011,"3,395.84",Corporate
+Office Supplies,3/17/2011,250.34,Consumer
+Office Supplies,3/17/2011,361.22,Corporate
+Furniture,3/18/2011,"1,535.57",Home Office
+Office Supplies,3/18/2011,"1,771.20",Home Office
+Technology,3/18/2011,"25,729.34",Home Office
+Furniture,3/19/2011,21.51,Corporate
+Office Supplies,3/19/2011,65.81,Corporate
+Technology,3/19/2011,444.79,Corporate
+Furniture,3/21/2011,216.14,Consumer
+Office Supplies,3/21/2011,79.2,Consumer
+Office Supplies,3/21/2011,311.63,Corporate
+Technology,3/21/2011,"3,079.94",Corporate
+Furniture,3/22/2011,314.35,Corporate
+Office Supplies,3/22/2011,79.16,Consumer
+Office Supplies,3/22/2011,76.58,Corporate
+Office Supplies,3/23/2011,330.1,Consumer
+Technology,3/23/2011,622.89,Consumer
+Furniture,3/24/2011,37.24,Consumer
+Office Supplies,3/24/2011,22.91,Consumer
+Furniture,3/25/2011,341.11,Consumer
+Office Supplies,3/25/2011,42.19,Consumer
+Technology,3/25/2011,45.93,Consumer
+Office Supplies,3/26/2011,15.94,Consumer
+Office Supplies,3/26/2011,33.17,Corporate
+Technology,3/26/2011,83.67,Corporate
+Furniture,3/28/2011,"1,101.79",Consumer
+Furniture,3/28/2011,327.28,Home Office
+Office Supplies,3/28/2011,6.55,Consumer
+Technology,3/28/2011,314.47,Home Office
+Furniture,3/29/2011,917.57,Consumer
+Furniture,3/30/2011,211.84,Consumer
+Furniture,3/30/2011,113.3,Home Office
+Office Supplies,3/30/2011,184.32,Consumer
+Office Supplies,3/30/2011,65.08,Corporate
+Office Supplies,3/30/2011,342.43,Home Office
+Technology,3/30/2011,219.19,Home Office
+Furniture,3/31/2011,"1,193.02",Consumer
+Office Supplies,3/31/2011,827.43,Consumer
+Office Supplies,3/31/2011,1.98,Corporate
+Technology,3/31/2011,77.58,Consumer
+Office Supplies,4/1/2011,46.22,Consumer
+Office Supplies,4/1/2011,62.95,Corporate
+Furniture,4/2/2011,181.23,Corporate
+Office Supplies,4/2/2011,242.5,Consumer
+Technology,4/2/2011,892.44,Consumer
+Office Supplies,4/3/2011,12.16,Corporate
+Technology,4/3/2011,237.85,Corporate
+Furniture,4/4/2011,5.36,Consumer
+Office Supplies,4/4/2011,87.3,Consumer
+Office Supplies,4/4/2011,277.58,Corporate
+Office Supplies,4/4/2011,17.2,Home Office
+Technology,4/4/2011,95.98,Corporate
+Office Supplies,4/5/2011,832.26,Consumer
+Office Supplies,4/5/2011,"4,795.22",Corporate
+Office Supplies,4/5/2011,54.37,Home Office
+Technology,4/5/2011,31.6,Corporate
+Furniture,4/6/2011,763.05,Corporate
+Furniture,4/6/2011,157.86,Home Office
+Office Supplies,4/6/2011,240.97,Corporate
+Office Supplies,4/6/2011,9.69,Home Office
+Technology,4/6/2011,307.16,Corporate
+Technology,4/6/2011,108.61,Home Office
+Furniture,4/7/2011,9.14,Consumer
+Office Supplies,4/7/2011,119.28,Corporate
+Office Supplies,4/7/2011,51.9,Home Office
+Technology,4/7/2011,535.46,Corporate
+Technology,4/7/2011,198.96,Home Office
+Furniture,4/8/2011,161.78,Consumer
+Furniture,4/8/2011,"1,167.28",Corporate
+Furniture,4/8/2011,108.56,Home Office
+Office Supplies,4/8/2011,19.24,Corporate
+Office Supplies,4/8/2011,43.82,Home Office
+Technology,4/8/2011,339.97,Home Office
+Office Supplies,4/11/2011,109.39,Consumer
+Technology,4/11/2011,928.22,Consumer
+Technology,4/11/2011,720.43,Home Office
+Furniture,4/12/2011,311.58,Corporate
+Office Supplies,4/12/2011,33.7,Consumer
+Office Supplies,4/12/2011,57.77,Corporate
+Technology,4/12/2011,"1,437.78",Corporate
+Office Supplies,4/13/2011,547.64,Corporate
+Office Supplies,4/13/2011,8.46,Home Office
+Technology,4/13/2011,76.24,Corporate
+Furniture,4/15/2011,163.35,Home Office
+Office Supplies,4/15/2011,91.99,Home Office
+Office Supplies,4/16/2011,38.68,Corporate
+Furniture,4/18/2011,304.38,Consumer
+Office Supplies,4/18/2011,166.9,Consumer
+Technology,4/18/2011,443.71,Consumer
+Furniture,4/19/2011,76.14,Home Office
+Office Supplies,4/19/2011,140.97,Consumer
+Furniture,4/20/2011,"1,326.17",Consumer
+Office Supplies,4/20/2011,38.11,Consumer
+Office Supplies,4/21/2011,16.19,Consumer
+Office Supplies,4/21/2011,828.84,Corporate
+Office Supplies,4/22/2011,257.75,Corporate
+Furniture,4/23/2011,614.33,Home Office
+Office Supplies,4/23/2011,2.35,Corporate
+Office Supplies,4/23/2011,51.32,Home Office
+Furniture,4/25/2011,"1,772.39",Home Office
+Office Supplies,4/25/2011,313.19,Home Office
+Technology,4/25/2011,287.26,Consumer
+Furniture,4/26/2011,216.46,Corporate
+Office Supplies,4/26/2011,16.82,Corporate
+Office Supplies,4/26/2011,34.68,Home Office
+Office Supplies,4/28/2011,731.15,Corporate
+Technology,4/28/2011,"1,629.56",Consumer
+Technology,4/28/2011,159.98,Corporate
+Furniture,4/29/2011,63.17,Consumer
+Furniture,4/29/2011,578.43,Corporate
+Office Supplies,4/29/2011,15.79,Consumer
+Office Supplies,4/29/2011,104.92,Corporate
+Technology,4/29/2011,19.98,Consumer
+Office Supplies,4/30/2011,"1,030.98",Consumer
+Technology,4/30/2011,51.14,Consumer
+Office Supplies,5/2/2011,24.83,Consumer
+Technology,5/2/2011,422.39,Consumer
+Office Supplies,5/3/2011,47.5,Consumer
+Office Supplies,5/3/2011,23.5,Home Office
+Furniture,5/4/2011,24.99,Consumer
+Furniture,5/4/2011,10.47,Corporate
+Office Supplies,5/4/2011,90.11,Consumer
+Office Supplies,5/4/2011,61.72,Corporate
+Furniture,5/5/2011,124.03,Consumer
+Office Supplies,5/5/2011,37.7,Consumer
+Office Supplies,5/5/2011,80.53,Corporate
+Office Supplies,5/6/2011,267.18,Home Office
+Furniture,5/7/2011,959.91,Consumer
+Office Supplies,5/7/2011,23.05,Consumer
+Technology,5/8/2011,"1,619.97",Consumer
+Office Supplies,5/9/2011,147.6,Corporate
+Technology,5/9/2011,228.7,Consumer
+Furniture,5/10/2011,521.8,Consumer
+Office Supplies,5/10/2011,222.23,Consumer
+Technology,5/10/2011,"1,416.58",Consumer
+Furniture,5/11/2011,61.48,Consumer
+Furniture,5/11/2011,"1,031.02",Corporate
+Office Supplies,5/11/2011,33.4,Corporate
+Office Supplies,5/11/2011,124.49,Home Office
+Technology,5/11/2011,195.48,Consumer
+Furniture,5/12/2011,639.32,Consumer
+Furniture,5/13/2011,296.22,Corporate
+Office Supplies,5/13/2011,59.94,Consumer
+Office Supplies,5/13/2011,7.92,Corporate
+Office Supplies,5/13/2011,417.62,Home Office
+Technology,5/13/2011,151.47,Consumer
+Furniture,5/14/2011,341.97,Corporate
+Furniture,5/16/2011,204.93,Corporate
+Technology,5/16/2011,50.2,Consumer
+Office Supplies,5/17/2011,85.26,Home Office
+Furniture,5/18/2011,126.85,Consumer
+Office Supplies,5/18/2011,17.33,Consumer
+Technology,5/18/2011,725.21,Consumer
+Office Supplies,5/19/2011,81.54,Consumer
+Furniture,5/20/2011,130.67,Corporate
+Office Supplies,5/20/2011,128.25,Corporate
+Technology,5/20/2011,20.99,Corporate
+Furniture,5/21/2011,93.76,Consumer
+Office Supplies,5/21/2011,78.34,Consumer
+Office Supplies,5/21/2011,"2,634.45",Corporate
+Office Supplies,5/21/2011,788.13,Home Office
+Technology,5/21/2011,624.15,Corporate
+Technology,5/22/2011,168.26,Consumer
+Office Supplies,5/23/2011,295.43,Consumer
+Technology,5/23/2011,50.22,Consumer
+Office Supplies,5/24/2011,108.14,Consumer
+Furniture,5/25/2011,27.56,Consumer
+Office Supplies,5/25/2011,87.51,Consumer
+Furniture,5/26/2011,561.67,Consumer
+Furniture,5/26/2011,316.83,Corporate
+Office Supplies,5/26/2011,116.02,Consumer
+Office Supplies,5/26/2011,44.04,Home Office
+Technology,5/26/2011,302.7,Corporate
+Furniture,5/27/2011,510.41,Corporate
+Office Supplies,5/27/2011,15.19,Consumer
+Office Supplies,5/27/2011,355.73,Corporate
+Technology,5/27/2011,"1,298.44",Consumer
+Office Supplies,5/28/2011,138.33,Consumer
+Technology,5/28/2011,87.56,Corporate
+Furniture,5/30/2011,312.8,Consumer
+Office Supplies,5/30/2011,76.7,Consumer
+Office Supplies,5/30/2011,308.81,Corporate
+Technology,5/30/2011,"1,160.30",Corporate
+Technology,5/31/2011,781.44,Consumer
+Furniture,6/1/2011,20.2,Consumer
+Furniture,6/1/2011,"2,141.99",Home Office
+Office Supplies,6/1/2011,193.88,Corporate
+Office Supplies,6/1/2011,"1,808.25",Home Office
+Technology,6/1/2011,890.75,Consumer
+Furniture,6/2/2011,62.32,Home Office
+Office Supplies,6/2/2011,347.23,Consumer
+Office Supplies,6/2/2011,61.6,Home Office
+Technology,6/2/2011,218.37,Consumer
+Furniture,6/3/2011,496.58,Consumer
+Office Supplies,6/3/2011,156.06,Consumer
+Office Supplies,6/3/2011,15.13,Home Office
+Furniture,6/4/2011,458.45,Consumer
+Office Supplies,6/4/2011,16.65,Consumer
+Office Supplies,6/4/2011,17.36,Home Office
+Furniture,6/6/2011,"1,090.94",Corporate
+Office Supplies,6/6/2011,126.84,Consumer
+Office Supplies,6/6/2011,161.68,Corporate
+Office Supplies,6/6/2011,99.24,Home Office
+Furniture,6/7/2011,236.66,Consumer
+Office Supplies,6/7/2011,13.46,Corporate
+Furniture,6/8/2011,614.83,Consumer
+Furniture,6/8/2011,158.43,Corporate
+Office Supplies,6/8/2011,"1,745.36",Consumer
+Furniture,6/9/2011,"2,908.67",Consumer
+Furniture,6/9/2011,38.15,Corporate
+Office Supplies,6/9/2011,167.72,Consumer
+Office Supplies,6/9/2011,91.37,Corporate
+Office Supplies,6/9/2011,76,Home Office
+Technology,6/9/2011,"1,891.32",Consumer
+Technology,6/9/2011,70.54,Home Office
+Office Supplies,6/10/2011,481.72,Corporate
+Office Supplies,6/13/2011,13.79,Corporate
+Furniture,6/14/2011,208.68,Home Office
+Furniture,6/15/2011,960.71,Corporate
+Office Supplies,6/15/2011,39.1,Consumer
+Office Supplies,6/15/2011,8.48,Corporate
+Furniture,6/16/2011,693.19,Consumer
+Office Supplies,6/16/2011,102.04,Consumer
+Furniture,6/17/2011,6.68,Consumer
+Office Supplies,6/17/2011,"3,312.83",Consumer
+Technology,6/17/2011,62.67,Consumer
+Technology,6/18/2011,132.81,Consumer
+Furniture,6/20/2011,183.41,Consumer
+Office Supplies,6/20/2011,"1,005.35",Consumer
+Technology,6/20/2011,564.55,Consumer
+Furniture,6/21/2011,116.63,Consumer
+Office Supplies,6/21/2011,271.28,Consumer
+Technology,6/21/2011,"4,043.01",Consumer
+Furniture,6/22/2011,"1,003.51",Consumer
+Office Supplies,6/22/2011,698.86,Consumer
+Technology,6/22/2011,293.51,Consumer
+Office Supplies,6/23/2011,21.96,Consumer
+Technology,6/23/2011,75.15,Consumer
+Furniture,6/24/2011,4.02,Consumer
+Furniture,6/25/2011,470.23,Corporate
+Office Supplies,6/25/2011,73.67,Corporate
+Technology,6/25/2011,248.12,Corporate
+Furniture,6/27/2011,85.98,Consumer
+Office Supplies,6/27/2011,318.45,Consumer
+Technology,6/27/2011,223.96,Consumer
+Furniture,6/28/2011,"1,081.05",Consumer
+Office Supplies,6/28/2011,394.8,Consumer
+Office Supplies,6/28/2011,6.44,Corporate
+Office Supplies,6/29/2011,41.08,Consumer
+Office Supplies,6/30/2011,712.79,Consumer
+Office Supplies,6/30/2011,80.43,Corporate
+Office Supplies,7/1/2011,23.1,Corporate
+Technology,7/1/2011,593.2,Corporate
+Office Supplies,7/2/2011,5.19,Consumer
+Technology,7/2/2011,78.42,Consumer
+Office Supplies,7/4/2011,34.44,Consumer
+Office Supplies,7/4/2011,178.47,Corporate
+Furniture,7/5/2011,253.68,Corporate
+Office Supplies,7/5/2011,579.16,Consumer
+Office Supplies,7/5/2011,15.45,Corporate
+Office Supplies,7/5/2011,191.82,Home Office
+Technology,7/5/2011,475.17,Consumer
+Furniture,7/6/2011,464.13,Home Office
+Technology,7/6/2011,498.39,Consumer
+Furniture,7/7/2011,205.01,Consumer
+Furniture,7/8/2011,55.58,Consumer
+Furniture,7/8/2011,522.59,Corporate
+Office Supplies,7/8/2011,180.97,Corporate
+Furniture,7/9/2011,127.02,Home Office
+Office Supplies,7/9/2011,22.74,Corporate
+Office Supplies,7/9/2011,102.82,Home Office
+Furniture,7/11/2011,900.73,Corporate
+Office Supplies,7/11/2011,81.66,Consumer
+Office Supplies,7/11/2011,182.02,Corporate
+Technology,7/11/2011,651.92,Consumer
+Technology,7/11/2011,184.11,Corporate
+Furniture,7/12/2011,120.67,Consumer
+Furniture,7/12/2011,768.19,Corporate
+Furniture,7/12/2011,543.1,Home Office
+Office Supplies,7/12/2011,47.59,Consumer
+Office Supplies,7/12/2011,7.1,Corporate
+Office Supplies,7/12/2011,320.71,Home Office
+Technology,7/12/2011,21.46,Consumer
+Technology,7/12/2011,258.5,Home Office
+Furniture,7/13/2011,309.07,Corporate
+Furniture,7/14/2011,29.75,Consumer
+Office Supplies,7/14/2011,89.7,Consumer
+Office Supplies,7/14/2011,16.68,Corporate
+Office Supplies,7/14/2011,64.55,Home Office
+Technology,7/14/2011,37.48,Consumer
+Technology,7/14/2011,41.33,Home Office
+Office Supplies,7/15/2011,5.62,Corporate
+Technology,7/15/2011,2.7,Corporate
+Furniture,7/18/2011,279.87,Home Office
+Office Supplies,7/18/2011,15.02,Consumer
+Furniture,7/19/2011,76.91,Corporate
+Office Supplies,7/19/2011,25.68,Corporate
+Office Supplies,7/19/2011,6.71,Home Office
+Technology,7/19/2011,334.78,Corporate
+Furniture,7/20/2011,42.59,Consumer
+Furniture,7/20/2011,858.38,Home Office
+Office Supplies,7/20/2011,260.44,Consumer
+Office Supplies,7/20/2011,482.02,Corporate
+Office Supplies,7/20/2011,298.29,Home Office
+Technology,7/20/2011,41.1,Corporate
+Furniture,7/21/2011,"1,818.96",Corporate
+Office Supplies,7/21/2011,164.18,Corporate
+Technology,7/21/2011,37.06,Consumer
+Furniture,7/22/2011,772.62,Consumer
+Office Supplies,7/22/2011,305.87,Consumer
+Office Supplies,7/22/2011,20.27,Home Office
+Technology,7/22/2011,171.18,Consumer
+Office Supplies,7/23/2011,17.92,Consumer
+Office Supplies,7/23/2011,44.77,Corporate
+Technology,7/23/2011,"1,506.78",Consumer
+Technology,7/23/2011,914.04,Corporate
+Furniture,7/25/2011,68.57,Consumer
+Office Supplies,7/25/2011,"8,735.85",Consumer
+Office Supplies,7/25/2011,21.78,Home Office
+Furniture,7/26/2011,799.92,Consumer
+Office Supplies,7/26/2011,"2,145.29",Consumer
+Technology,7/26/2011,"1,453.53",Consumer
+Technology,7/26/2011,108.57,Corporate
+Office Supplies,7/27/2011,314.7,Corporate
+Technology,7/27/2011,204.68,Consumer
+Furniture,7/28/2011,128.59,Consumer
+Office Supplies,7/28/2011,68.96,Consumer
+Furniture,7/30/2011,"1,190.02",Corporate
+Furniture,8/1/2011,47.66,Corporate
+Office Supplies,8/1/2011,19.55,Consumer
+Office Supplies,8/1/2011,152.42,Corporate
+Office Supplies,8/1/2011,5.06,Home Office
+Office Supplies,8/2/2011,778.57,Home Office
+Technology,8/2/2011,18.23,Home Office
+Furniture,8/3/2011,203.44,Consumer
+Office Supplies,8/3/2011,181.18,Consumer
+Office Supplies,8/3/2011,83.72,Home Office
+Office Supplies,8/4/2011,"1,553.47",Consumer
+Office Supplies,8/4/2011,376.17,Corporate
+Technology,8/4/2011,403.96,Consumer
+Technology,8/4/2011,263.08,Corporate
+Furniture,8/5/2011,704.97,Consumer
+Furniture,8/5/2011,"1,178.68",Corporate
+Office Supplies,8/5/2011,178.17,Consumer
+Office Supplies,8/5/2011,100.99,Corporate
+Technology,8/5/2011,14.23,Consumer
+Technology,8/5/2011,142.79,Corporate
+Technology,8/6/2011,273.41,Consumer
+Furniture,8/8/2011,519.95,Consumer
+Furniture,8/8/2011,47.95,Home Office
+Office Supplies,8/8/2011,454.45,Consumer
+Office Supplies,8/8/2011,207.93,Home Office
+Technology,8/8/2011,"1,637.40",Consumer
+Technology,8/8/2011,909.47,Home Office
+Office Supplies,8/9/2011,"2,018.12",Consumer
+Office Supplies,8/9/2011,16.95,Corporate
+Office Supplies,8/9/2011,22.34,Home Office
+Technology,8/9/2011,164.11,Corporate
+Technology,8/9/2011,"1,375.85",Home Office
+Furniture,8/11/2011,11.61,Consumer
+Office Supplies,8/11/2011,461.23,Consumer
+Furniture,8/12/2011,80.31,Consumer
+Office Supplies,8/12/2011,13.48,Consumer
+Office Supplies,8/12/2011,198.17,Corporate
+Office Supplies,8/12/2011,268.93,Home Office
+Technology,8/12/2011,"1,154.47",Consumer
+Technology,8/12/2011,173.23,Home Office
+Furniture,8/15/2011,193.18,Consumer
+Office Supplies,8/15/2011,660.6,Consumer
+Furniture,8/16/2011,725.13,Consumer
+Office Supplies,8/17/2011,166.8,Corporate
+Technology,8/17/2011,339.96,Corporate
+Furniture,8/19/2011,600.49,Consumer
+Furniture,8/19/2011,318.16,Corporate
+Office Supplies,8/19/2011,103.45,Consumer
+Office Supplies,8/19/2011,410.22,Corporate
+Furniture,8/20/2011,379.23,Consumer
+Furniture,8/20/2011,440.21,Corporate
+Office Supplies,8/20/2011,834.57,Corporate
+Office Supplies,8/22/2011,19.96,Consumer
+Office Supplies,8/22/2011,3.99,Home Office
+Furniture,8/23/2011,3.67,Consumer
+Office Supplies,8/23/2011,351.84,Consumer
+Office Supplies,8/23/2011,52.05,Corporate
+Office Supplies,8/23/2011,17.88,Home Office
+Technology,8/23/2011,140.77,Consumer
+Furniture,8/24/2011,12.08,Corporate
+Office Supplies,8/24/2011,40.42,Corporate
+Furniture,8/25/2011,5.65,Corporate
+Office Supplies,8/25/2011,215.96,Consumer
+Office Supplies,8/25/2011,100.81,Corporate
+Technology,8/25/2011,997.86,Consumer
+Technology,8/25/2011,88.44,Corporate
+Furniture,8/26/2011,9.4,Consumer
+Office Supplies,8/26/2011,18.44,Consumer
+Office Supplies,8/26/2011,8.21,Home Office
+Technology,8/26/2011,316.97,Home Office
+Furniture,8/27/2011,"1,207.42",Corporate
+Office Supplies,8/27/2011,43.3,Consumer
+Technology,8/27/2011,183.59,Consumer
+Technology,8/27/2011,562.55,Corporate
+Furniture,8/29/2011,177.54,Consumer
+Office Supplies,8/29/2011,583.13,Consumer
+Office Supplies,8/29/2011,113.42,Corporate
+Office Supplies,8/30/2011,117.6,Consumer
+Technology,8/31/2011,101.77,Consumer
+Office Supplies,9/1/2011,101.19,Consumer
+Technology,9/1/2011,303.45,Consumer
+Furniture,9/2/2011,60.1,Consumer
+Office Supplies,9/2/2011,"1,907.81",Consumer
+Technology,9/2/2011,708.76,Consumer
+Technology,9/2/2011,587.7,Corporate
+Office Supplies,9/3/2011,15.84,Consumer
+Office Supplies,9/3/2011,8.37,Home Office
+Furniture,9/5/2011,31.02,Consumer
+Office Supplies,9/5/2011,256.39,Consumer
+Furniture,9/6/2011,42.3,Corporate
+Office Supplies,9/6/2011,57.9,Corporate
+Furniture,9/7/2011,932.34,Consumer
+Furniture,9/7/2011,45.76,Corporate
+Furniture,9/7/2011,792.66,Home Office
+Office Supplies,9/7/2011,377.75,Consumer
+Office Supplies,9/7/2011,190.73,Corporate
+Office Supplies,9/7/2011,74.4,Home Office
+Technology,9/7/2011,511.79,Consumer
+Technology,9/7/2011,457.84,Corporate
+Technology,9/7/2011,265.38,Home Office
+Furniture,9/8/2011,"3,719.51",Consumer
+Furniture,9/8/2011,169.31,Home Office
+Office Supplies,9/8/2011,"1,500.54",Consumer
+Office Supplies,9/8/2011,16.61,Corporate
+Office Supplies,9/8/2011,77.58,Home Office
+Technology,9/8/2011,"7,364.94",Consumer
+Technology,9/8/2011,113.34,Corporate
+Furniture,9/9/2011,16.95,Consumer
+Furniture,9/9/2011,683.72,Corporate
+Furniture,9/9/2011,65.53,Home Office
+Office Supplies,9/9/2011,123.55,Consumer
+Office Supplies,9/9/2011,"1,609.60",Corporate
+Office Supplies,9/9/2011,29.89,Home Office
+Technology,9/9/2011,"1,485.21",Consumer
+Furniture,9/10/2011,"1,741.94",Consumer
+Office Supplies,9/10/2011,104.68,Consumer
+Office Supplies,9/10/2011,8.48,Home Office
+Furniture,9/11/2011,117.71,Consumer
+Furniture,9/12/2011,"3,898.85",Consumer
+Furniture,9/12/2011,34.88,Home Office
+Office Supplies,9/12/2011,58.74,Consumer
+Office Supplies,9/12/2011,155.94,Corporate
+Office Supplies,9/12/2011,600.2,Home Office
+Technology,9/12/2011,13.54,Corporate
+Technology,9/12/2011,110.83,Home Office
+Furniture,9/13/2011,15.61,Consumer
+Furniture,9/13/2011,329.91,Home Office
+Office Supplies,9/13/2011,113.52,Consumer
+Office Supplies,9/13/2011,103.93,Corporate
+Technology,9/13/2011,750.69,Consumer
+Furniture,9/14/2011,551.64,Consumer
+Furniture,9/14/2011,10.26,Corporate
+Office Supplies,9/14/2011,"1,147.16",Consumer
+Office Supplies,9/14/2011,99.7,Corporate
+Technology,9/14/2011,"3,167.02",Consumer
+Furniture,9/15/2011,14.85,Consumer
+Furniture,9/15/2011,106.01,Corporate
+Office Supplies,9/15/2011,15.54,Consumer
+Office Supplies,9/16/2011,28.52,Corporate
+Furniture,9/17/2011,35.34,Consumer
+Office Supplies,9/17/2011,561.55,Consumer
+Office Supplies,9/17/2011,6.36,Home Office
+Technology,9/17/2011,116.43,Consumer
+Furniture,9/19/2011,836.09,Corporate
+Office Supplies,9/19/2011,72.73,Consumer
+Office Supplies,9/19/2011,97.69,Corporate
+Office Supplies,9/19/2011,5.22,Home Office
+Technology,9/19/2011,"2,598.74",Consumer
+Technology,9/19/2011,"5,914.74",Corporate
+Furniture,9/20/2011,"2,672.33",Consumer
+Office Supplies,9/20/2011,137.84,Consumer
+Office Supplies,9/20/2011,12.06,Corporate
+Office Supplies,9/20/2011,65.44,Home Office
+Technology,9/20/2011,"1,989.43",Consumer
+Furniture,9/21/2011,7.26,Home Office
+Office Supplies,9/21/2011,233.12,Consumer
+Office Supplies,9/21/2011,68.02,Corporate
+Office Supplies,9/21/2011,101.14,Home Office
+Technology,9/21/2011,"1,943.39",Consumer
+Furniture,9/22/2011,670.2,Consumer
+Office Supplies,9/22/2011,238.71,Consumer
+Office Supplies,9/22/2011,338.17,Corporate
+Furniture,9/23/2011,427.28,Corporate
+Office Supplies,9/23/2011,"10,083.97",Consumer
+Office Supplies,9/23/2011,11.12,Corporate
+Office Supplies,9/23/2011,50.57,Home Office
+Technology,9/23/2011,90.7,Corporate
+Office Supplies,9/24/2011,211.96,Consumer
+Furniture,9/25/2011,324.58,Home Office
+Office Supplies,9/25/2011,59.25,Home Office
+Furniture,9/26/2011,155.76,Consumer
+Furniture,9/26/2011,19.7,Corporate
+Furniture,9/26/2011,521.14,Home Office
+Office Supplies,9/26/2011,165.27,Corporate
+Office Supplies,9/26/2011,375.37,Home Office
+Technology,9/26/2011,147.67,Consumer
+Technology,9/26/2011,3.4,Home Office
+Furniture,9/27/2011,591.84,Consumer
+Furniture,9/27/2011,84.04,Corporate
+Office Supplies,9/27/2011,81.98,Consumer
+Furniture,9/28/2011,364.06,Consumer
+Office Supplies,9/28/2011,157.8,Corporate
+Furniture,9/29/2011,315.52,Consumer
+Furniture,9/29/2011,443.1,Corporate
+Furniture,9/29/2011,"2,331.43",Home Office
+Office Supplies,9/29/2011,"2,625.85",Consumer
+Office Supplies,9/29/2011,"1,712.82",Corporate
+Technology,9/29/2011,603.96,Consumer
+Furniture,9/30/2011,13.72,Corporate
+Office Supplies,9/30/2011,189.27,Consumer
+Office Supplies,9/30/2011,755.64,Corporate
+Office Supplies,10/1/2011,4.52,Home Office
+Office Supplies,10/2/2011,43.05,Corporate
+Technology,10/2/2011,567.05,Corporate
+Furniture,10/3/2011,292.96,Consumer
+Furniture,10/3/2011,241.86,Corporate
+Office Supplies,10/3/2011,97.56,Consumer
+Office Supplies,10/3/2011,69.79,Home Office
+Technology,10/3/2011,146.76,Consumer
+Furniture,10/4/2011,636.56,Consumer
+Office Supplies,10/4/2011,130.98,Consumer
+Office Supplies,10/5/2011,95.6,Consumer
+Technology,10/5/2011,99.98,Consumer
+Office Supplies,10/6/2011,88.96,Consumer
+Office Supplies,10/6/2011,389.65,Corporate
+Technology,10/6/2011,10,Consumer
+Furniture,10/7/2011,124.72,Home Office
+Office Supplies,10/7/2011,102.07,Corporate
+Office Supplies,10/8/2011,120.2,Consumer
+Technology,10/8/2011,25.35,Consumer
+Office Supplies,10/9/2011,125.8,Consumer
+Office Supplies,10/9/2011,85.22,Corporate
+Technology,10/9/2011,15.35,Consumer
+Furniture,10/10/2011,157.38,Home Office
+Office Supplies,10/10/2011,15.52,Consumer
+Office Supplies,10/10/2011,233.79,Corporate
+Office Supplies,10/10/2011,15.59,Home Office
+Technology,10/10/2011,90.77,Consumer
+Technology,10/10/2011,"1,564.45",Corporate
+Furniture,10/11/2011,437.9,Consumer
+Furniture,10/11/2011,9.72,Corporate
+Furniture,10/11/2011,68.55,Home Office
+Office Supplies,10/11/2011,460.15,Consumer
+Office Supplies,10/11/2011,7.24,Corporate
+Technology,10/11/2011,327.75,Home Office
+Office Supplies,10/12/2011,39.56,Consumer
+Office Supplies,10/12/2011,20.91,Corporate
+Furniture,10/13/2011,"1,415.42",Consumer
+Furniture,10/13/2011,268.12,Corporate
+Office Supplies,10/13/2011,214.17,Consumer
+Office Supplies,10/13/2011,22.96,Corporate
+Office Supplies,10/13/2011,359.44,Home Office
+Technology,10/13/2011,23.46,Consumer
+Technology,10/13/2011,19.75,Home Office
+Furniture,10/14/2011,"1,677.68",Consumer
+Office Supplies,10/14/2011,439.69,Consumer
+Office Supplies,10/14/2011,251.83,Corporate
+Technology,10/14/2011,"2,089.88",Consumer
+Furniture,10/15/2011,192.79,Consumer
+Office Supplies,10/15/2011,6.85,Consumer
+Office Supplies,10/16/2011,13.35,Consumer
+Technology,10/16/2011,154.77,Consumer
+Furniture,10/17/2011,4.62,Consumer
+Office Supplies,10/17/2011,11.43,Consumer
+Technology,10/17/2011,111.58,Consumer
+Furniture,10/18/2011,"1,047.61",Corporate
+Office Supplies,10/18/2011,58.24,Consumer
+Office Supplies,10/18/2011,457.13,Corporate
+Technology,10/18/2011,"1,520.50",Corporate
+Office Supplies,10/19/2011,12.5,Consumer
+Office Supplies,10/19/2011,162.14,Corporate
+Technology,10/19/2011,128.16,Corporate
+Technology,10/19/2011,344.06,Home Office
+Furniture,10/20/2011,338.45,Corporate
+Office Supplies,10/20/2011,211.96,Consumer
+Office Supplies,10/20/2011,84.58,Corporate
+Office Supplies,10/20/2011,509.7,Home Office
+Technology,10/20/2011,278.37,Home Office
+Furniture,10/21/2011,380.92,Consumer
+Furniture,10/21/2011,650.45,Corporate
+Office Supplies,10/21/2011,132.75,Consumer
+Office Supplies,10/21/2011,254.95,Corporate
+Furniture,10/22/2011,124.72,Corporate
+Furniture,10/22/2011,84.5,Home Office
+Office Supplies,10/24/2011,43.82,Consumer
+Office Supplies,10/24/2011,10.06,Home Office
+Office Supplies,10/25/2011,12.88,Consumer
+Office Supplies,10/25/2011,42.49,Corporate
+Technology,10/25/2011,36.29,Consumer
+Furniture,10/26/2011,57.53,Consumer
+Technology,10/26/2011,372.44,Consumer
+Office Supplies,10/27/2011,20.98,Home Office
+Furniture,10/28/2011,579.98,Corporate
+Office Supplies,10/28/2011,654.67,Corporate
+Technology,10/28/2011,224.44,Corporate
+Office Supplies,10/29/2011,72.84,Corporate
+Technology,10/29/2011,"2,954.83",Consumer
+Technology,10/29/2011,1.72,Corporate
+Furniture,10/31/2011,"1,962.33",Consumer
+Furniture,10/31/2011,"1,458.25",Corporate
+Office Supplies,10/31/2011,90.69,Consumer
+Office Supplies,10/31/2011,579.19,Corporate
+Technology,10/31/2011,697.8,Consumer
+Technology,10/31/2011,241.83,Corporate
+Technology,10/31/2011,80.94,Home Office
+Furniture,11/1/2011,32,Consumer
+Furniture,11/1/2011,58.4,Corporate
+Office Supplies,11/1/2011,"1,105.75",Consumer
+Office Supplies,11/1/2011,247.81,Corporate
+Office Supplies,11/1/2011,71.06,Home Office
+Technology,11/1/2011,"1,840.35",Consumer
+Technology,11/1/2011,920.11,Corporate
+Furniture,11/2/2011,98.27,Consumer
+Office Supplies,11/2/2011,412.85,Consumer
+Technology,11/2/2011,638.31,Consumer
+Technology,11/2/2011,100.42,Corporate
+Technology,11/2/2011,839.92,Home Office
+Furniture,11/3/2011,"1,219.85",Consumer
+Office Supplies,11/3/2011,574.91,Consumer
+Office Supplies,11/3/2011,5.76,Corporate
+Office Supplies,11/3/2011,6.32,Home Office
+Technology,11/3/2011,729.08,Consumer
+Technology,11/3/2011,83.67,Corporate
+Furniture,11/4/2011,615.16,Consumer
+Furniture,11/4/2011,116.86,Home Office
+Office Supplies,11/4/2011,36.41,Consumer
+Office Supplies,11/4/2011,73.03,Corporate
+Office Supplies,11/4/2011,95.63,Home Office
+Technology,11/4/2011,"1,181.17",Consumer
+Technology,11/4/2011,"4,118.85",Home Office
+Furniture,11/5/2011,427.7,Consumer
+Furniture,11/5/2011,18.24,Home Office
+Office Supplies,11/5/2011,"1,126.09",Consumer
+Technology,11/5/2011,100.08,Consumer
+Technology,11/5/2011,44.92,Home Office
+Office Supplies,11/6/2011,40.19,Consumer
+Furniture,11/7/2011,744.63,Consumer
+Office Supplies,11/7/2011,553.96,Consumer
+Office Supplies,11/7/2011,137.86,Corporate
+Technology,11/8/2011,363.6,Consumer
+Furniture,11/9/2011,238.25,Consumer
+Furniture,11/9/2011,52,Home Office
+Office Supplies,11/9/2011,508.21,Consumer
+Technology,11/9/2011,668.77,Consumer
+Furniture,11/10/2011,683.3,Consumer
+Office Supplies,11/10/2011,740.34,Consumer
+Technology,11/10/2011,569.65,Consumer
+Furniture,11/11/2011,"1,342.44",Consumer
+Furniture,11/11/2011,524.09,Corporate
+Office Supplies,11/11/2011,"1,813.12",Consumer
+Office Supplies,11/11/2011,"2,179.96",Corporate
+Office Supplies,11/11/2011,409.27,Home Office
+Technology,11/11/2011,987.63,Consumer
+Technology,11/11/2011,87.83,Corporate
+Technology,11/11/2011,501.06,Home Office
+Furniture,11/12/2011,556.06,Consumer
+Furniture,11/12/2011,67.99,Corporate
+Office Supplies,11/12/2011,61.59,Consumer
+Office Supplies,11/12/2011,69.84,Corporate
+Technology,11/12/2011,115.19,Consumer
+Technology,11/12/2011,67.59,Corporate
+Furniture,11/14/2011,64.42,Home Office
+Office Supplies,11/14/2011,102.45,Consumer
+Office Supplies,11/14/2011,21.36,Corporate
+Office Supplies,11/14/2011,11.93,Home Office
+Technology,11/14/2011,866.25,Consumer
+Furniture,11/15/2011,9.6,Consumer
+Office Supplies,11/15/2011,898.44,Consumer
+Office Supplies,11/15/2011,11.28,Corporate
+Technology,11/15/2011,803.37,Consumer
+Furniture,11/16/2011,38.41,Consumer
+Furniture,11/16/2011,275.38,Corporate
+Office Supplies,11/16/2011,367.64,Corporate
+Office Supplies,11/16/2011,274.65,Home Office
+Technology,11/16/2011,79.17,Corporate
+Technology,11/16/2011,279.44,Home Office
+Furniture,11/17/2011,"4,152.54",Consumer
+Furniture,11/17/2011,121.92,Corporate
+Furniture,11/17/2011,508.69,Home Office
+Office Supplies,11/17/2011,"2,259.20",Consumer
+Office Supplies,11/17/2011,"4,086.49",Corporate
+Office Supplies,11/17/2011,36.85,Home Office
+Technology,11/17/2011,108.98,Corporate
+Furniture,11/18/2011,893.81,Consumer
+Furniture,11/18/2011,"1,285.89",Corporate
+Office Supplies,11/18/2011,511.38,Consumer
+Office Supplies,11/18/2011,112.93,Corporate
+Technology,11/18/2011,527.57,Consumer
+Furniture,11/19/2011,892.52,Corporate
+Office Supplies,11/19/2011,210.1,Consumer
+Office Supplies,11/19/2011,260.27,Corporate
+Office Supplies,11/19/2011,179.21,Home Office
+Technology,11/19/2011,"4,439.23",Consumer
+Technology,11/19/2011,600.96,Home Office
+Office Supplies,11/20/2011,79.51,Corporate
+Technology,11/20/2011,833.94,Corporate
+Office Supplies,11/21/2011,910.55,Corporate
+Office Supplies,11/21/2011,6.32,Home Office
+Technology,11/21/2011,295.8,Corporate
+Technology,11/21/2011,91.19,Home Office
+Office Supplies,11/22/2011,62.57,Consumer
+Office Supplies,11/22/2011,"1,084.20",Corporate
+Office Supplies,11/22/2011,10.28,Home Office
+Furniture,11/23/2011,965.65,Consumer
+Furniture,11/23/2011,171.44,Corporate
+Office Supplies,11/23/2011,55.78,Consumer
+Office Supplies,11/23/2011,100.86,Corporate
+Office Supplies,11/23/2011,24.86,Home Office
+Technology,11/23/2011,30.29,Consumer
+Technology,11/23/2011,5.93,Corporate
+Furniture,11/24/2011,313.75,Consumer
+Furniture,11/24/2011,537.73,Corporate
+Furniture,11/24/2011,97.81,Home Office
+Office Supplies,11/24/2011,629.36,Consumer
+Office Supplies,11/24/2011,"1,279.30",Corporate
+Office Supplies,11/24/2011,5.91,Home Office
+Technology,11/24/2011,"1,372.04",Consumer
+Technology,11/24/2011,"1,049.97",Corporate
+Furniture,11/25/2011,801.65,Consumer
+Furniture,11/25/2011,"1,336.12",Corporate
+Furniture,11/25/2011,284.23,Home Office
+Office Supplies,11/25/2011,54.95,Consumer
+Office Supplies,11/25/2011,390.35,Corporate
+Office Supplies,11/25/2011,"1,185.00",Home Office
+Technology,11/25/2011,485.93,Consumer
+Technology,11/25/2011,26.65,Corporate
+Furniture,11/26/2011,19.11,Consumer
+Office Supplies,11/26/2011,704.6,Consumer
+Office Supplies,11/26/2011,57.05,Corporate
+Office Supplies,11/26/2011,81.98,Home Office
+Technology,11/26/2011,782.94,Consumer
+Furniture,11/27/2011,217.89,Corporate
+Office Supplies,11/27/2011,3.84,Consumer
+Furniture,11/28/2011,381.7,Corporate
+Furniture,11/28/2011,411.33,Home Office
+Office Supplies,11/28/2011,65.77,Consumer
+Office Supplies,11/28/2011,227.55,Corporate
+Office Supplies,11/28/2011,53.64,Home Office
+Technology,11/28/2011,"1,059.07",Consumer
+Office Supplies,11/29/2011,53.24,Consumer
+Office Supplies,11/29/2011,12.5,Corporate
+Technology,11/29/2011,570.16,Consumer
+Office Supplies,11/30/2011,113.58,Consumer
+Office Supplies,11/30/2011,7.17,Corporate
+Technology,11/30/2011,102.24,Consumer
+Furniture,12/1/2011,"3,609.18",Consumer
+Furniture,12/1/2011,734.72,Corporate
+Office Supplies,12/1/2011,88.73,Consumer
+Technology,12/1/2011,894.23,Consumer
+Furniture,12/2/2011,928.12,Consumer
+Furniture,12/2/2011,422.81,Corporate
+Office Supplies,12/2/2011,42.24,Consumer
+Office Supplies,12/2/2011,168.94,Corporate
+Technology,12/2/2011,119.96,Consumer
+Technology,12/2/2011,129.52,Corporate
+Office Supplies,12/3/2011,28.25,Corporate
+Technology,12/3/2011,523.16,Consumer
+Technology,12/4/2011,119.58,Corporate
+Office Supplies,12/5/2011,398.29,Consumer
+Office Supplies,12/5/2011,"1,714.61",Corporate
+Technology,12/5/2011,785.46,Corporate
+Furniture,12/6/2011,498.93,Consumer
+Office Supplies,12/6/2011,132.98,Consumer
+Office Supplies,12/6/2011,"1,084.74",Corporate
+Technology,12/6/2011,36.09,Consumer
+Office Supplies,12/7/2011,123.29,Consumer
+Office Supplies,12/7/2011,390.82,Home Office
+Furniture,12/8/2011,585.8,Consumer
+Furniture,12/8/2011,121.71,Corporate
+Office Supplies,12/8/2011,148.67,Consumer
+Office Supplies,12/8/2011,65.25,Corporate
+Technology,12/8/2011,145.64,Consumer
+Office Supplies,12/9/2011,32.21,Consumer
+Office Supplies,12/9/2011,416.12,Corporate
+Technology,12/9/2011,982.78,Consumer
+Furniture,12/10/2011,348.5,Corporate
+Office Supplies,12/10/2011,100.05,Consumer
+Office Supplies,12/10/2011,124.32,Corporate
+Furniture,12/12/2011,"4,554.73",Consumer
+Office Supplies,12/12/2011,34.03,Consumer
+Office Supplies,12/12/2011,189.35,Corporate
+Furniture,12/13/2011,193.33,Corporate
+Office Supplies,12/13/2011,87.57,Consumer
+Office Supplies,12/13/2011,19.19,Corporate
+Furniture,12/14/2011,277.64,Consumer
+Office Supplies,12/14/2011,11.37,Consumer
+Office Supplies,12/14/2011,8.89,Corporate
+Technology,12/14/2011,"6,423.06",Consumer
+Furniture,12/15/2011,792.52,Consumer
+Furniture,12/15/2011,467.98,Corporate
+Technology,12/15/2011,44.34,Consumer
+Furniture,12/16/2011,91.81,Consumer
+Furniture,12/16/2011,"2,345.22",Corporate
+Furniture,12/16/2011,248.84,Home Office
+Office Supplies,12/16/2011,31.57,Consumer
+Office Supplies,12/16/2011,117.35,Corporate
+Technology,12/16/2011,461.94,Consumer
+Technology,12/16/2011,"1,001.72",Home Office
+Office Supplies,12/17/2011,49.63,Consumer
+Furniture,12/19/2011,"1,601.48",Consumer
+Office Supplies,12/19/2011,210.86,Consumer
+Office Supplies,12/19/2011,37.17,Corporate
+Technology,12/19/2011,491.73,Consumer
+Technology,12/19/2011,691.62,Corporate
+Furniture,12/20/2011,975.84,Consumer
+Furniture,12/20/2011,188.34,Corporate
+Furniture,12/20/2011,"2,537.61",Home Office
+Office Supplies,12/20/2011,"2,152.48",Consumer
+Office Supplies,12/20/2011,186.64,Home Office
+Technology,12/20/2011,556.09,Consumer
+Furniture,12/21/2011,"1,651.19",Consumer
+Office Supplies,12/21/2011,17.45,Consumer
+Office Supplies,12/21/2011,18.97,Home Office
+Office Supplies,12/22/2011,265.85,Consumer
+Office Supplies,12/22/2011,559.29,Home Office
+Furniture,12/23/2011,55.71,Consumer
+Furniture,12/23/2011,46.92,Corporate
+Office Supplies,12/23/2011,670.83,Consumer
+Office Supplies,12/23/2011,62.94,Corporate
+Furniture,12/24/2011,28.23,Consumer
+Furniture,12/24/2011,257.2,Corporate
+Furniture,12/24/2011,25.91,Home Office
+Office Supplies,12/24/2011,20.71,Consumer
+Office Supplies,12/24/2011,155.72,Corporate
+Office Supplies,12/24/2011,347.89,Home Office
+Technology,12/24/2011,"1,139.27",Home Office
+Furniture,12/26/2011,3.13,Consumer
+Furniture,12/26/2011,711.66,Corporate
+Furniture,12/26/2011,582.54,Home Office
+Office Supplies,12/26/2011,568.35,Consumer
+Office Supplies,12/26/2011,117.59,Corporate
+Furniture,12/27/2011,467.86,Consumer
+Furniture,12/27/2011,782.56,Home Office
+Office Supplies,12/27/2011,"1,112.76",Consumer
+Office Supplies,12/27/2011,20.57,Corporate
+Office Supplies,12/27/2011,110.58,Home Office
+Technology,12/27/2011,547.8,Corporate
+Office Supplies,12/28/2011,"1,154.97",Consumer
+Office Supplies,12/28/2011,"2,870.09",Corporate
+Furniture,12/29/2011,39.76,Consumer
+Furniture,12/29/2011,102.14,Corporate
+Furniture,12/29/2011,8.91,Home Office
+Office Supplies,12/29/2011,175.51,Consumer
+Office Supplies,12/29/2011,291.63,Corporate
+Technology,12/29/2011,477.66,Consumer
+Technology,12/29/2011,902.33,Corporate
+Furniture,12/30/2011,481.86,Corporate
+Office Supplies,12/30/2011,217.27,Consumer
+Office Supplies,12/30/2011,571.32,Corporate
+Technology,12/30/2011,30.49,Consumer
+Technology,12/30/2011,778.6,Corporate
+Furniture,12/31/2011,"1,337.46",Corporate
+Furniture,12/31/2011,"1,041.37",Home Office
+Office Supplies,12/31/2011,90.3,Corporate
+Office Supplies,12/31/2011,231.64,Home Office
+Technology,12/31/2011,70.78,Corporate
+Technology,12/31/2011,"2,391.60",Home Office
+Furniture,1/2/2012,434.35,Corporate
+Office Supplies,1/2/2012,143.25,Corporate
+Technology,1/2/2012,"1,166.29",Corporate
+Furniture,1/3/2012,"1,176.59",Consumer
+Office Supplies,1/3/2012,7.2,Consumer
+Office Supplies,1/3/2012,9.02,Corporate
+Technology,1/3/2012,362.54,Consumer
+Furniture,1/4/2012,209.52,Corporate
+Office Supplies,1/4/2012,66.46,Corporate
+Furniture,1/5/2012,60.97,Home Office
+Office Supplies,1/5/2012,94.68,Corporate
+Office Supplies,1/5/2012,132.04,Home Office
+Office Supplies,1/6/2012,31.22,Corporate
+Office Supplies,1/9/2012,356.79,Consumer
+Furniture,1/10/2012,967.2,Consumer
+Office Supplies,1/12/2012,404.22,Corporate
+Technology,1/12/2012,360.11,Corporate
+Furniture,1/13/2012,471.93,Consumer
+Office Supplies,1/13/2012,71.41,Consumer
+Office Supplies,1/13/2012,9.72,Corporate
+Furniture,1/17/2012,259.84,Home Office
+Office Supplies,1/17/2012,95.19,Consumer
+Office Supplies,1/17/2012,6.88,Corporate
+Furniture,1/19/2012,265.53,Consumer
+Office Supplies,1/23/2012,40.17,Home Office
+Office Supplies,1/24/2012,11.55,Home Office
+Office Supplies,1/26/2012,158.97,Corporate
+Furniture,1/27/2012,"2,806.75",Consumer
+Technology,1/27/2012,552.11,Consumer
+Furniture,1/28/2012,"4,082.76",Consumer
+Furniture,1/30/2012,213.72,Consumer
+Office Supplies,1/30/2012,12.87,Consumer
+Technology,1/30/2012,"1,631.98",Consumer
+Furniture,1/31/2012,45.87,Consumer
+Office Supplies,1/31/2012,41.33,Consumer
+Furniture,2/3/2012,31.24,Consumer
+Furniture,2/3/2012,250.58,Corporate
+Office Supplies,2/3/2012,77.5,Consumer
+Office Supplies,2/3/2012,12.02,Corporate
+Technology,2/3/2012,127.47,Consumer
+Furniture,2/6/2012,"1,459.58",Consumer
+Office Supplies,2/6/2012,699.75,Consumer
+Office Supplies,2/6/2012,174.63,Corporate
+Technology,2/6/2012,17.97,Consumer
+Office Supplies,2/7/2012,298.18,Corporate
+Office Supplies,2/8/2012,21.53,Consumer
+Technology,2/8/2012,97.18,Consumer
+Furniture,2/9/2012,216.16,Consumer
+Furniture,2/9/2012,34.67,Corporate
+Office Supplies,2/9/2012,38.49,Corporate
+Technology,2/9/2012,527.95,Consumer
+Technology,2/9/2012,20.38,Corporate
+Office Supplies,2/10/2012,74.15,Corporate
+Office Supplies,2/14/2012,61.49,Consumer
+Technology,2/14/2012,878.88,Consumer
+Office Supplies,2/15/2012,539.63,Consumer
+Technology,2/15/2012,945.65,Corporate
+Office Supplies,2/16/2012,134.51,Consumer
+Office Supplies,2/16/2012,34.09,Corporate
+Furniture,2/18/2012,33.41,Consumer
+Office Supplies,2/18/2012,56.79,Consumer
+Office Supplies,2/18/2012,9.52,Corporate
+Office Supplies,2/20/2012,309.73,Consumer
+Technology,2/20/2012,30.59,Consumer
+Office Supplies,2/21/2012,"2,306.08",Consumer
+Office Supplies,2/22/2012,85.71,Home Office
+Office Supplies,2/23/2012,32.49,Home Office
+Office Supplies,2/25/2012,22.51,Consumer
+Furniture,2/27/2012,503.8,Corporate
+Office Supplies,2/27/2012,18,Corporate
+Technology,2/27/2012,571.26,Consumer
+Technology,2/27/2012,90.08,Corporate
+Furniture,2/28/2012,474.09,Consumer
+Furniture,2/29/2012,173.67,Corporate
+Office Supplies,2/29/2012,64,Consumer
+Technology,2/29/2012,16.14,Corporate
+Furniture,3/1/2012,"1,191.16",Corporate
+Office Supplies,3/1/2012,3.2,Consumer
+Office Supplies,3/1/2012,48.14,Corporate
+Technology,3/1/2012,91.05,Corporate
+Furniture,3/2/2012,685.15,Consumer
+Office Supplies,3/2/2012,100.84,Home Office
+Furniture,3/5/2012,423.27,Consumer
+Furniture,3/5/2012,144.9,Corporate
+Office Supplies,3/5/2012,922.27,Consumer
+Office Supplies,3/5/2012,2.5,Corporate
+Technology,3/5/2012,49.14,Consumer
+Technology,3/5/2012,433.59,Corporate
+Furniture,3/6/2012,387.38,Consumer
+Technology,3/6/2012,985.59,Consumer
+Office Supplies,3/7/2012,104.71,Home Office
+Technology,3/7/2012,721.98,Home Office
+Furniture,3/8/2012,"1,851.77",Consumer
+Office Supplies,3/8/2012,20.02,Consumer
+Office Supplies,3/8/2012,21.71,Corporate
+Technology,3/8/2012,808.45,Consumer
+Office Supplies,3/9/2012,4.06,Consumer
+Technology,3/9/2012,407.12,Corporate
+Office Supplies,3/10/2012,1.03,Consumer
+Office Supplies,3/10/2012,89.82,Corporate
+Furniture,3/12/2012,38.78,Corporate
+Office Supplies,3/12/2012,4.79,Consumer
+Office Supplies,3/12/2012,9.38,Corporate
+Furniture,3/13/2012,143.38,Consumer
+Furniture,3/13/2012,"1,255.32",Home Office
+Office Supplies,3/14/2012,672.51,Consumer
+Technology,3/15/2012,14.43,Corporate
+Furniture,3/16/2012,173.68,Consumer
+Furniture,3/16/2012,37.95,Corporate
+Office Supplies,3/16/2012,"7,464.64",Consumer
+Office Supplies,3/16/2012,18.4,Home Office
+Technology,3/16/2012,93.63,Corporate
+Office Supplies,3/17/2012,34.5,Corporate
+Technology,3/17/2012,13.37,Corporate
+Furniture,3/19/2012,356.62,Home Office
+Office Supplies,3/19/2012,144.19,Consumer
+Office Supplies,3/19/2012,"1,381.14",Corporate
+Office Supplies,3/19/2012,66.9,Home Office
+Technology,3/19/2012,"3,181.43",Corporate
+Technology,3/19/2012,408.22,Home Office
+Office Supplies,3/20/2012,48.15,Consumer
+Office Supplies,3/20/2012,"1,141.83",Corporate
+Technology,3/20/2012,211.98,Corporate
+Office Supplies,3/21/2012,"1,270.38",Consumer
+Furniture,3/22/2012,80.01,Corporate
+Office Supplies,3/22/2012,320.56,Consumer
+Office Supplies,3/22/2012,132.58,Corporate
+Technology,3/22/2012,525.73,Consumer
+Technology,3/22/2012,"1,517.74",Corporate
+Furniture,3/23/2012,113.16,Consumer
+Office Supplies,3/23/2012,55.32,Consumer
+Office Supplies,3/23/2012,219.3,Corporate
+Technology,3/23/2012,254.37,Corporate
+Furniture,3/24/2012,40.33,Corporate
+Furniture,3/24/2012,377.01,Home Office
+Office Supplies,3/24/2012,7.69,Corporate
+Furniture,3/26/2012,"3,631.24",Corporate
+Office Supplies,3/26/2012,41.63,Consumer
+Office Supplies,3/26/2012,"1,266.71",Corporate
+Technology,3/26/2012,18.45,Consumer
+Office Supplies,3/27/2012,71.15,Consumer
+Office Supplies,3/28/2012,77.88,Consumer
+Technology,3/28/2012,177.88,Consumer
+Furniture,3/29/2012,17.33,Consumer
+Furniture,3/29/2012,"1,120.24",Home Office
+Office Supplies,3/29/2012,271.14,Consumer
+Technology,3/29/2012,46.86,Consumer
+Furniture,3/30/2012,374.08,Home Office
+Office Supplies,3/30/2012,24.7,Corporate
+Technology,3/30/2012,182.77,Corporate
+Furniture,3/31/2012,22.6,Corporate
+Office Supplies,3/31/2012,93.46,Corporate
+Technology,3/31/2012,75.16,Corporate
+Office Supplies,4/2/2012,33.8,Consumer
+Office Supplies,4/2/2012,7.87,Corporate
+Technology,4/2/2012,229.51,Consumer
+Furniture,4/4/2012,99.73,Home Office
+Office Supplies,4/4/2012,563.27,Consumer
+Office Supplies,4/4/2012,109.77,Home Office
+Technology,4/4/2012,574.27,Consumer
+Furniture,4/5/2012,918.99,Corporate
+Furniture,4/5/2012,961.6,Home Office
+Office Supplies,4/5/2012,48.22,Consumer
+Office Supplies,4/5/2012,172,Corporate
+Office Supplies,4/5/2012,571.5,Home Office
+Technology,4/5/2012,237.54,Consumer
+Technology,4/5/2012,58.54,Home Office
+Office Supplies,4/6/2012,117.95,Consumer
+Technology,4/6/2012,23.7,Consumer
+Office Supplies,4/7/2012,496.4,Consumer
+Office Supplies,4/7/2012,10.09,Home Office
+Technology,4/7/2012,406.99,Consumer
+Furniture,4/9/2012,362.51,Consumer
+Office Supplies,4/9/2012,337.63,Consumer
+Office Supplies,4/10/2012,14.12,Corporate
+Office Supplies,4/10/2012,167.68,Home Office
+Furniture,4/11/2012,104.82,Consumer
+Office Supplies,4/11/2012,486.92,Consumer
+Technology,4/11/2012,754.57,Consumer
+Office Supplies,4/12/2012,41.15,Home Office
+Furniture,4/13/2012,"1,507.69",Consumer
+Furniture,4/13/2012,40.69,Corporate
+Office Supplies,4/13/2012,44.75,Consumer
+Office Supplies,4/13/2012,79.63,Corporate
+Office Supplies,4/13/2012,88.5,Home Office
+Technology,4/13/2012,809.47,Consumer
+Technology,4/13/2012,248.23,Corporate
+Office Supplies,4/14/2012,34.86,Consumer
+Furniture,4/16/2012,"1,548.11",Consumer
+Furniture,4/16/2012,108.6,Corporate
+Office Supplies,4/16/2012,9.14,Consumer
+Office Supplies,4/16/2012,130.34,Corporate
+Technology,4/16/2012,"2,155.83",Consumer
+Technology,4/16/2012,104.53,Corporate
+Office Supplies,4/17/2012,"1,507.41",Consumer
+Technology,4/17/2012,"1,122.44",Consumer
+Furniture,4/18/2012,94.23,Consumer
+Furniture,4/18/2012,60.65,Corporate
+Office Supplies,4/18/2012,223.19,Consumer
+Office Supplies,4/18/2012,96.31,Corporate
+Office Supplies,4/18/2012,857.76,Home Office
+Technology,4/18/2012,99.05,Consumer
+Technology,4/18/2012,334.22,Corporate
+Office Supplies,4/19/2012,290.36,Consumer
+Furniture,4/20/2012,577.52,Corporate
+Office Supplies,4/20/2012,325.27,Consumer
+Office Supplies,4/20/2012,12.31,Corporate
+Technology,4/20/2012,311.01,Corporate
+Furniture,4/21/2012,345.58,Consumer
+Office Supplies,4/21/2012,19.17,Consumer
+Technology,4/21/2012,404.16,Consumer
+Office Supplies,4/22/2012,60.93,Consumer
+Technology,4/22/2012,77.24,Consumer
+Office Supplies,4/24/2012,22.61,Home Office
+Furniture,4/25/2012,112.69,Consumer
+Office Supplies,4/25/2012,704.57,Consumer
+Office Supplies,4/25/2012,32.81,Corporate
+Furniture,4/26/2012,"1,513.62",Consumer
+Furniture,4/26/2012,66.49,Corporate
+Office Supplies,4/26/2012,77.67,Consumer
+Office Supplies,4/26/2012,112.07,Corporate
+Technology,4/26/2012,290.14,Corporate
+Furniture,4/27/2012,"1,381.61",Consumer
+Office Supplies,4/27/2012,24.33,Consumer
+Office Supplies,4/27/2012,44.95,Home Office
+Technology,4/27/2012,"1,490.31",Consumer
+Office Supplies,4/28/2012,41.53,Consumer
+Office Supplies,4/28/2012,"3,999.70",Home Office
+Office Supplies,4/29/2012,7.73,Home Office
+Furniture,4/30/2012,71.7,Corporate
+Furniture,4/30/2012,213.12,Home Office
+Office Supplies,4/30/2012,40.31,Corporate
+Technology,4/30/2012,900.21,Consumer
+Technology,4/30/2012,204.08,Corporate
+Furniture,5/1/2012,63.55,Corporate
+Office Supplies,5/1/2012,71.87,Consumer
+Office Supplies,5/1/2012,226.92,Corporate
+Technology,5/1/2012,94.96,Corporate
+Office Supplies,5/2/2012,8.5,Corporate
+Technology,5/2/2012,140.95,Corporate
+Furniture,5/3/2012,835.67,Consumer
+Furniture,5/3/2012,592.63,Home Office
+Office Supplies,5/3/2012,313.55,Consumer
+Office Supplies,5/3/2012,13.57,Home Office
+Technology,5/3/2012,360.16,Consumer
+Furniture,5/4/2012,47.12,Corporate
+Office Supplies,5/4/2012,128.45,Corporate
+Technology,5/4/2012,993.66,Corporate
+Furniture,5/7/2012,263.53,Consumer
+Office Supplies,5/7/2012,54.84,Consumer
+Furniture,5/8/2012,301.36,Consumer
+Furniture,5/8/2012,7.35,Corporate
+Office Supplies,5/8/2012,464.99,Consumer
+Office Supplies,5/8/2012,41.35,Home Office
+Technology,5/8/2012,"2,828.34",Consumer
+Office Supplies,5/9/2012,45.88,Consumer
+Office Supplies,5/10/2012,106.68,Home Office
+Technology,5/10/2012,46.22,Consumer
+Furniture,5/11/2012,197.73,Home Office
+Furniture,5/12/2012,22.63,Consumer
+Office Supplies,5/12/2012,213.29,Consumer
+Technology,5/12/2012,828.94,Consumer
+Office Supplies,5/13/2012,16,Home Office
+Technology,5/13/2012,229.06,Home Office
+Furniture,5/14/2012,"1,234.87",Corporate
+Office Supplies,5/14/2012,"1,162.64",Consumer
+Office Supplies,5/14/2012,502.03,Home Office
+Office Supplies,5/15/2012,72.7,Corporate
+Technology,5/16/2012,266.21,Home Office
+Office Supplies,5/17/2012,88.84,Consumer
+Office Supplies,5/17/2012,51.16,Corporate
+Office Supplies,5/18/2012,10.32,Corporate
+Furniture,5/20/2012,154.98,Consumer
+Office Supplies,5/20/2012,5.57,Consumer
+Office Supplies,5/21/2012,20.77,Consumer
+Office Supplies,5/21/2012,53.11,Corporate
+Office Supplies,5/22/2012,104.01,Consumer
+Technology,5/22/2012,"3,336.65",Consumer
+Furniture,5/23/2012,69.3,Home Office
+Office Supplies,5/23/2012,149.45,Consumer
+Office Supplies,5/23/2012,231,Corporate
+Office Supplies,5/23/2012,756.95,Home Office
+Furniture,5/24/2012,518.28,Consumer
+Office Supplies,5/24/2012,8.27,Consumer
+Furniture,5/25/2012,12.96,Home Office
+Office Supplies,5/25/2012,718.87,Consumer
+Office Supplies,5/25/2012,59.66,Corporate
+Office Supplies,5/25/2012,128.31,Home Office
+Technology,5/25/2012,600.77,Corporate
+Furniture,5/26/2012,207.77,Consumer
+Office Supplies,5/26/2012,160.27,Home Office
+Technology,5/26/2012,379.56,Consumer
+Technology,5/26/2012,166.26,Home Office
+Office Supplies,5/28/2012,659.96,Consumer
+Office Supplies,5/28/2012,6.1,Home Office
+Technology,5/28/2012,41.85,Consumer
+Furniture,5/29/2012,394.49,Corporate
+Office Supplies,5/29/2012,662.75,Consumer
+Office Supplies,5/29/2012,8.2,Corporate
+Office Supplies,5/29/2012,76.55,Home Office
+Office Supplies,5/30/2012,142.68,Consumer
+Technology,5/30/2012,387.26,Consumer
+Technology,5/30/2012,165.64,Home Office
+Furniture,5/31/2012,"4,213.18",Consumer
+Furniture,5/31/2012,61.04,Corporate
+Furniture,5/31/2012,23.75,Home Office
+Office Supplies,5/31/2012,300.24,Consumer
+Office Supplies,5/31/2012,688.24,Corporate
+Office Supplies,5/31/2012,7.18,Home Office
+Office Supplies,6/1/2012,467.2,Consumer
+Office Supplies,6/1/2012,50.85,Corporate
+Office Supplies,6/1/2012,10.11,Home Office
+Technology,6/1/2012,294.02,Consumer
+Furniture,6/4/2012,33.87,Home Office
+Office Supplies,6/4/2012,16.14,Consumer
+Office Supplies,6/4/2012,28.31,Home Office
+Technology,6/4/2012,"1,087.75",Consumer
+Furniture,6/5/2012,"1,294.24",Corporate
+Office Supplies,6/5/2012,9.4,Corporate
+Office Supplies,6/7/2012,6.69,Corporate
+Office Supplies,6/7/2012,49.64,Home Office
+Furniture,6/8/2012,181.87,Corporate
+Office Supplies,6/8/2012,123.09,Consumer
+Office Supplies,6/8/2012,840.84,Corporate
+Technology,6/8/2012,2.07,Consumer
+Furniture,6/9/2012,326.93,Consumer
+Office Supplies,6/9/2012,114.52,Consumer
+Office Supplies,6/9/2012,99.53,Home Office
+Technology,6/9/2012,181.03,Consumer
+Furniture,6/11/2012,31.78,Consumer
+Furniture,6/11/2012,"1,160.87",Corporate
+Office Supplies,6/11/2012,137.46,Consumer
+Office Supplies,6/11/2012,"1,708.70",Corporate
+Technology,6/11/2012,55.31,Consumer
+Technology,6/11/2012,227.12,Corporate
+Furniture,6/12/2012,43.3,Consumer
+Office Supplies,6/12/2012,46.59,Consumer
+Office Supplies,6/12/2012,26.52,Home Office
+Technology,6/12/2012,48.71,Consumer
+Office Supplies,6/13/2012,39.19,Consumer
+Office Supplies,6/13/2012,72.86,Corporate
+Office Supplies,6/13/2012,38.62,Home Office
+Technology,6/13/2012,809.97,Corporate
+Technology,6/13/2012,62.54,Home Office
+Furniture,6/14/2012,50.05,Home Office
+Furniture,6/15/2012,425.21,Consumer
+Office Supplies,6/15/2012,79.06,Consumer
+Technology,6/15/2012,11.56,Consumer
+Technology,6/15/2012,221.06,Corporate
+Furniture,6/16/2012,201.32,Consumer
+Office Supplies,6/16/2012,"3,361.56",Consumer
+Technology,6/16/2012,124.6,Consumer
+Furniture,6/18/2012,60.23,Consumer
+Furniture,6/18/2012,656,Corporate
+Furniture,6/18/2012,67.82,Home Office
+Office Supplies,6/18/2012,615.21,Consumer
+Office Supplies,6/18/2012,38.47,Corporate
+Office Supplies,6/18/2012,23.34,Home Office
+Technology,6/18/2012,505.41,Consumer
+Furniture,6/19/2012,10.8,Consumer
+Office Supplies,6/19/2012,210.56,Consumer
+Office Supplies,6/19/2012,218.96,Home Office
+Furniture,6/20/2012,226.72,Corporate
+Technology,6/20/2012,118.39,Consumer
+Technology,6/20/2012,128.5,Corporate
+Technology,6/20/2012,281.59,Home Office
+Technology,6/21/2012,92.86,Consumer
+Furniture,6/22/2012,764.57,Home Office
+Office Supplies,6/22/2012,"1,173.63",Consumer
+Furniture,6/23/2012,27.42,Corporate
+Office Supplies,6/23/2012,4.67,Consumer
+Office Supplies,6/23/2012,147.72,Corporate
+Technology,6/23/2012,568.76,Consumer
+Technology,6/23/2012,64.5,Corporate
+Furniture,6/25/2012,241,Consumer
+Office Supplies,6/25/2012,453.46,Consumer
+Office Supplies,6/25/2012,114.83,Home Office
+Furniture,6/26/2012,366.23,Consumer
+Office Supplies,6/26/2012,182.18,Consumer
+Office Supplies,6/26/2012,45.64,Home Office
+Technology,6/26/2012,933,Consumer
+Technology,6/26/2012,36.45,Corporate
+Furniture,6/28/2012,950.04,Corporate
+Office Supplies,6/28/2012,19.74,Corporate
+Office Supplies,6/28/2012,244.69,Home Office
+Furniture,6/29/2012,124.19,Consumer
+Office Supplies,6/29/2012,25.96,Consumer
+Technology,6/29/2012,242.98,Home Office
+Furniture,7/2/2012,869.59,Consumer
+Furniture,7/2/2012,142.26,Corporate
+Office Supplies,7/2/2012,604.34,Consumer
+Office Supplies,7/2/2012,12.9,Corporate
+Office Supplies,7/2/2012,17.11,Home Office
+Technology,7/2/2012,77.21,Corporate
+Furniture,7/3/2012,63.17,Consumer
+Furniture,7/3/2012,428.78,Corporate
+Office Supplies,7/3/2012,321.47,Consumer
+Office Supplies,7/3/2012,6.18,Corporate
+Office Supplies,7/4/2012,39.09,Home Office
+Technology,7/4/2012,"1,110.96",Consumer
+Furniture,7/5/2012,9.36,Corporate
+Office Supplies,7/5/2012,33.13,Consumer
+Office Supplies,7/5/2012,20.92,Corporate
+Office Supplies,7/5/2012,18.43,Home Office
+Technology,7/5/2012,30.28,Consumer
+Furniture,7/6/2012,175.46,Consumer
+Furniture,7/6/2012,152.8,Corporate
+Furniture,7/6/2012,329.14,Home Office
+Office Supplies,7/6/2012,533.11,Corporate
+Technology,7/6/2012,113.7,Corporate
+Office Supplies,7/8/2012,19.01,Consumer
+Furniture,7/9/2012,187.42,Consumer
+Office Supplies,7/9/2012,418.24,Consumer
+Office Supplies,7/9/2012,183.5,Corporate
+Technology,7/9/2012,771.7,Consumer
+Office Supplies,7/10/2012,38.52,Consumer
+Furniture,7/11/2012,643.5,Consumer
+Furniture,7/11/2012,215.82,Corporate
+Office Supplies,7/11/2012,139.52,Consumer
+Office Supplies,7/11/2012,243.17,Corporate
+Technology,7/11/2012,687.36,Corporate
+Furniture,7/12/2012,422.68,Consumer
+Office Supplies,7/12/2012,8.04,Consumer
+Technology,7/12/2012,"1,503.65",Consumer
+Furniture,7/13/2012,"2,027.59",Consumer
+Office Supplies,7/13/2012,20.9,Consumer
+Office Supplies,7/13/2012,33.44,Corporate
+Office Supplies,7/13/2012,41.15,Home Office
+Furniture,7/14/2012,552.59,Consumer
+Office Supplies,7/14/2012,285.41,Consumer
+Furniture,7/16/2012,"2,089.83",Corporate
+Furniture,7/16/2012,150.98,Home Office
+Office Supplies,7/16/2012,88.97,Corporate
+Office Supplies,7/16/2012,147.28,Home Office
+Technology,7/16/2012,509.92,Corporate
+Furniture,7/17/2012,199.38,Consumer
+Furniture,7/17/2012,231.92,Corporate
+Office Supplies,7/17/2012,21.94,Corporate
+Furniture,7/18/2012,6.94,Consumer
+Office Supplies,7/18/2012,3.59,Consumer
+Office Supplies,7/18/2012,6.05,Corporate
+Technology,7/18/2012,570.68,Consumer
+Office Supplies,7/19/2012,2.13,Consumer
+Furniture,7/20/2012,"1,129.59",Consumer
+Office Supplies,7/20/2012,389.51,Consumer
+Technology,7/20/2012,"1,073.41",Consumer
+Furniture,7/23/2012,114.65,Home Office
+Office Supplies,7/23/2012,11.25,Consumer
+Office Supplies,7/23/2012,63.42,Home Office
+Furniture,7/24/2012,18.85,Home Office
+Office Supplies,7/24/2012,231.9,Home Office
+Technology,7/24/2012,305.05,Home Office
+Furniture,7/25/2012,"1,355.12",Consumer
+Furniture,7/25/2012,369.34,Corporate
+Office Supplies,7/25/2012,19.47,Consumer
+Office Supplies,7/25/2012,106.34,Corporate
+Office Supplies,7/25/2012,26.43,Home Office
+Technology,7/25/2012,648.92,Consumer
+Furniture,7/26/2012,353.85,Consumer
+Furniture,7/26/2012,290.32,Corporate
+Office Supplies,7/26/2012,165.75,Consumer
+Office Supplies,7/26/2012,122.28,Corporate
+Technology,7/27/2012,29.97,Consumer
+Furniture,7/30/2012,5.44,Consumer
+Furniture,7/30/2012,163.67,Home Office
+Office Supplies,7/30/2012,10.81,Consumer
+Office Supplies,7/30/2012,53.14,Corporate
+Technology,7/30/2012,178.44,Consumer
+Furniture,7/31/2012,"1,090.78",Consumer
+Office Supplies,7/31/2012,18.27,Consumer
+Office Supplies,7/31/2012,57.32,Corporate
+Technology,7/31/2012,"2,171.07",Consumer
+Technology,7/31/2012,222.92,Corporate
+Furniture,8/1/2012,"1,035.13",Home Office
+Office Supplies,8/1/2012,6.72,Home Office
+Furniture,8/2/2012,283.05,Consumer
+Furniture,8/2/2012,95.44,Home Office
+Office Supplies,8/2/2012,5.86,Consumer
+Office Supplies,8/2/2012,8.48,Home Office
+Technology,8/2/2012,547.23,Consumer
+Technology,8/2/2012,322.25,Home Office
+Furniture,8/5/2012,12.55,Corporate
+Office Supplies,8/5/2012,58.47,Corporate
+Furniture,8/6/2012,372.89,Corporate
+Office Supplies,8/6/2012,131.95,Corporate
+Furniture,8/7/2012,227.85,Consumer
+Office Supplies,8/7/2012,121.68,Consumer
+Office Supplies,8/7/2012,92.17,Corporate
+Office Supplies,8/7/2012,20.3,Home Office
+Technology,8/7/2012,455.37,Corporate
+Furniture,8/8/2012,133.2,Consumer
+Office Supplies,8/8/2012,590.71,Consumer
+Technology,8/8/2012,84.79,Consumer
+Furniture,8/9/2012,374.97,Consumer
+Furniture,8/9/2012,626.15,Corporate
+Furniture,8/9/2012,632.41,Home Office
+Office Supplies,8/9/2012,"1,215.94",Consumer
+Office Supplies,8/9/2012,186.74,Corporate
+Technology,8/9/2012,"1,336.09",Consumer
+Office Supplies,8/10/2012,186.33,Consumer
+Office Supplies,8/10/2012,79.44,Home Office
+Technology,8/10/2012,497.35,Consumer
+Furniture,8/11/2012,45.23,Consumer
+Office Supplies,8/11/2012,11,Home Office
+Technology,8/11/2012,149.04,Home Office
+Furniture,8/13/2012,28.72,Consumer
+Office Supplies,8/13/2012,395.87,Consumer
+Office Supplies,8/13/2012,115.48,Corporate
+Furniture,8/15/2012,114.65,Consumer
+Office Supplies,8/15/2012,67.45,Consumer
+Office Supplies,8/15/2012,306.95,Corporate
+Furniture,8/16/2012,289.41,Consumer
+Furniture,8/16/2012,251.81,Corporate
+Office Supplies,8/16/2012,321.25,Consumer
+Office Supplies,8/16/2012,27.13,Corporate
+Technology,8/16/2012,"1,955.16",Consumer
+Technology,8/16/2012,512.4,Corporate
+Office Supplies,8/17/2012,46.56,Consumer
+Office Supplies,8/17/2012,47.5,Corporate
+Technology,8/17/2012,285.71,Consumer
+Furniture,8/21/2012,"1,319.82",Corporate
+Furniture,8/21/2012,522.25,Home Office
+Office Supplies,8/21/2012,130.91,Corporate
+Office Supplies,8/21/2012,940.01,Home Office
+Technology,8/21/2012,22.16,Home Office
+Office Supplies,8/22/2012,44.6,Corporate
+Office Supplies,8/22/2012,16.19,Home Office
+Office Supplies,8/23/2012,"1,016.89",Consumer
+Technology,8/23/2012,254.43,Consumer
+Furniture,8/24/2012,905.68,Consumer
+Furniture,8/24/2012,287.21,Corporate
+Office Supplies,8/24/2012,"1,892.95",Consumer
+Technology,8/24/2012,"3,510.67",Consumer
+Technology,8/24/2012,24.44,Corporate
+Furniture,8/25/2012,28.26,Consumer
+Furniture,8/25/2012,38.34,Home Office
+Office Supplies,8/25/2012,4.06,Consumer
+Office Supplies,8/25/2012,113.38,Home Office
+Office Supplies,8/27/2012,577.73,Consumer
+Office Supplies,8/27/2012,5.41,Home Office
+Furniture,8/28/2012,302.47,Consumer
+Furniture,8/28/2012,87.96,Corporate
+Office Supplies,8/28/2012,"1,629.28",Consumer
+Office Supplies,8/28/2012,484.47,Corporate
+Technology,8/28/2012,38.86,Consumer
+Technology,8/28/2012,"3,938.92",Corporate
+Technology,8/29/2012,266.22,Home Office
+Furniture,8/31/2012,"1,537.30",Corporate
+Office Supplies,8/31/2012,61.82,Consumer
+Office Supplies,8/31/2012,126.26,Corporate
+Office Supplies,8/31/2012,23.06,Home Office
+Technology,8/31/2012,293.08,Corporate
+Technology,8/31/2012,555.96,Home Office
+Furniture,9/1/2012,168.44,Home Office
+Office Supplies,9/1/2012,17.59,Consumer
+Office Supplies,9/1/2012,"1,323.70",Home Office
+Technology,9/1/2012,835.19,Consumer
+Furniture,9/3/2012,209.57,Corporate
+Furniture,9/3/2012,130.86,Home Office
+Office Supplies,9/3/2012,793.1,Consumer
+Office Supplies,9/3/2012,539.41,Corporate
+Office Supplies,9/3/2012,5.67,Home Office
+Technology,9/3/2012,247.84,Corporate
+Office Supplies,9/4/2012,305.53,Consumer
+Office Supplies,9/4/2012,18.29,Corporate
+Technology,9/4/2012,607.55,Consumer
+Technology,9/4/2012,116.91,Corporate
+Furniture,9/5/2012,746.8,Consumer
+Furniture,9/5/2012,6.47,Corporate
+Furniture,9/5/2012,65.24,Home Office
+Office Supplies,9/5/2012,27.31,Consumer
+Office Supplies,9/5/2012,32.42,Corporate
+Office Supplies,9/5/2012,94.35,Home Office
+Furniture,9/6/2012,80.82,Consumer
+Furniture,9/6/2012,458.95,Home Office
+Office Supplies,9/6/2012,57.89,Corporate
+Office Supplies,9/6/2012,9.54,Home Office
+Technology,9/6/2012,395.83,Corporate
+Furniture,9/7/2012,74.18,Consumer
+Furniture,9/7/2012,500.42,Corporate
+Office Supplies,9/7/2012,651.6,Consumer
+Office Supplies,9/7/2012,243.55,Corporate
+Technology,9/7/2012,873.14,Corporate
+Technology,9/7/2012,554.33,Home Office
+Furniture,9/8/2012,18.8,Corporate
+Office Supplies,9/8/2012,64.87,Consumer
+Furniture,9/10/2012,583.67,Corporate
+Office Supplies,9/10/2012,370.99,Consumer
+Office Supplies,9/10/2012,296.48,Corporate
+Furniture,9/11/2012,230.61,Corporate
+Furniture,9/11/2012,9.72,Home Office
+Office Supplies,9/11/2012,208.99,Consumer
+Office Supplies,9/11/2012,"1,217.90",Corporate
+Office Supplies,9/11/2012,359.32,Home Office
+Technology,9/11/2012,17.79,Corporate
+Office Supplies,9/12/2012,214.09,Consumer
+Technology,9/12/2012,451.77,Consumer
+Furniture,9/13/2012,"1,834.36",Consumer
+Furniture,9/13/2012,"1,134.67",Corporate
+Office Supplies,9/13/2012,81.13,Consumer
+Office Supplies,9/13/2012,213.61,Corporate
+Technology,9/13/2012,191.96,Consumer
+Furniture,9/14/2012,794.09,Consumer
+Furniture,9/14/2012,183.75,Corporate
+Office Supplies,9/14/2012,"1,260.91",Consumer
+Office Supplies,9/14/2012,23.05,Home Office
+Technology,9/14/2012,897.58,Consumer
+Furniture,9/15/2012,"1,617.17",Consumer
+Furniture,9/15/2012,119.24,Corporate
+Office Supplies,9/15/2012,200.12,Consumer
+Office Supplies,9/15/2012,295.17,Corporate
+Technology,9/15/2012,53.37,Consumer
+Office Supplies,9/16/2012,29.88,Consumer
+Furniture,9/17/2012,"9,254.42",Consumer
+Furniture,9/17/2012,23.91,Corporate
+Furniture,9/17/2012,371.76,Home Office
+Office Supplies,9/17/2012,429.97,Consumer
+Office Supplies,9/17/2012,30.67,Corporate
+Office Supplies,9/17/2012,27.86,Home Office
+Technology,9/17/2012,994.09,Consumer
+Furniture,9/18/2012,22.45,Corporate
+Office Supplies,9/18/2012,549.72,Consumer
+Office Supplies,9/18/2012,718.41,Corporate
+Office Supplies,9/18/2012,16.69,Home Office
+Technology,9/18/2012,"2,551.35",Corporate
+Furniture,9/19/2012,117.89,Home Office
+Office Supplies,9/19/2012,21.12,Corporate
+Office Supplies,9/19/2012,7.31,Home Office
+Technology,9/19/2012,274.26,Consumer
+Technology,9/19/2012,67.02,Corporate
+Office Supplies,9/20/2012,"1,610.19",Consumer
+Office Supplies,9/20/2012,87.56,Corporate
+Furniture,9/21/2012,"1,622.44",Consumer
+Furniture,9/21/2012,185.3,Corporate
+Furniture,9/21/2012,"1,143.69",Home Office
+Office Supplies,9/21/2012,"1,328.08",Consumer
+Office Supplies,9/21/2012,24.43,Corporate
+Office Supplies,9/21/2012,7.9,Home Office
+Technology,9/21/2012,810.61,Consumer
+Technology,9/21/2012,"1,196.32",Corporate
+Technology,9/21/2012,507.31,Home Office
+Furniture,9/22/2012,223.01,Consumer
+Furniture,9/22/2012,52.78,Home Office
+Office Supplies,9/22/2012,57.27,Consumer
+Office Supplies,9/22/2012,67.58,Corporate
+Office Supplies,9/22/2012,748.15,Home Office
+Technology,9/22/2012,611.8,Consumer
+Furniture,9/24/2012,450.23,Consumer
+Furniture,9/24/2012,12.97,Corporate
+Furniture,9/24/2012,"1,225.05",Home Office
+Office Supplies,9/24/2012,213.03,Consumer
+Office Supplies,9/24/2012,"1,060.12",Corporate
+Office Supplies,9/24/2012,16.76,Home Office
+Technology,9/24/2012,50.74,Consumer
+Technology,9/24/2012,715.09,Home Office
+Furniture,9/25/2012,"1,181.63",Consumer
+Furniture,9/25/2012,291.78,Corporate
+Office Supplies,9/25/2012,258.83,Consumer
+Office Supplies,9/25/2012,33.04,Corporate
+Office Supplies,9/25/2012,12.29,Home Office
+Technology,9/25/2012,"1,155.28",Corporate
+Technology,9/25/2012,172.32,Home Office
+Office Supplies,9/26/2012,450.5,Consumer
+Office Supplies,9/26/2012,795.72,Corporate
+Office Supplies,9/26/2012,194.29,Home Office
+Technology,9/26/2012,"2,225.63",Consumer
+Technology,9/26/2012,253.4,Corporate
+Furniture,9/27/2012,26.72,Consumer
+Office Supplies,9/27/2012,146.18,Consumer
+Office Supplies,9/27/2012,150.01,Corporate
+Office Supplies,9/27/2012,175.29,Home Office
+Technology,9/27/2012,"2,059.07",Consumer
+Office Supplies,9/28/2012,321,Consumer
+Office Supplies,9/28/2012,377.83,Corporate
+Technology,9/28/2012,307.98,Consumer
+Technology,9/28/2012,34.21,Corporate
+Office Supplies,10/1/2012,2.93,Consumer
+Office Supplies,10/1/2012,129.66,Corporate
+Office Supplies,10/1/2012,22.9,Home Office
+Technology,10/1/2012,586.15,Consumer
+Technology,10/1/2012,336.94,Home Office
+Furniture,10/2/2012,11.8,Consumer
+Office Supplies,10/2/2012,108.3,Consumer
+Office Supplies,10/2/2012,216.55,Corporate
+Office Supplies,10/2/2012,236.06,Home Office
+Technology,10/2/2012,501.3,Consumer
+Technology,10/2/2012,86.4,Corporate
+Furniture,10/3/2012,140.54,Consumer
+Office Supplies,10/3/2012,33.67,Consumer
+Office Supplies,10/3/2012,13.06,Corporate
+Technology,10/3/2012,65.51,Consumer
+Furniture,10/4/2012,408.66,Corporate
+Furniture,10/4/2012,66.89,Home Office
+Office Supplies,10/4/2012,29.66,Consumer
+Office Supplies,10/4/2012,20.53,Home Office
+Furniture,10/5/2012,389.63,Consumer
+Office Supplies,10/5/2012,66.69,Corporate
+Office Supplies,10/5/2012,67.54,Home Office
+Technology,10/5/2012,296.7,Consumer
+Furniture,10/8/2012,126.93,Consumer
+Furniture,10/8/2012,61.86,Corporate
+Office Supplies,10/8/2012,3.44,Consumer
+Furniture,10/9/2012,421.17,Consumer
+Office Supplies,10/9/2012,408.89,Consumer
+Office Supplies,10/9/2012,81.25,Corporate
+Technology,10/9/2012,613,Consumer
+Technology,10/9/2012,701.04,Corporate
+Furniture,10/10/2012,333.17,Corporate
+Office Supplies,10/10/2012,"1,610.59",Consumer
+Office Supplies,10/10/2012,84.05,Corporate
+Furniture,10/11/2012,976.73,Consumer
+Office Supplies,10/11/2012,20.13,Consumer
+Technology,10/11/2012,29.71,Consumer
+Furniture,10/12/2012,228.54,Consumer
+Furniture,10/12/2012,"1,464.47",Home Office
+Office Supplies,10/12/2012,82.23,Consumer
+Office Supplies,10/12/2012,66,Home Office
+Technology,10/12/2012,388.35,Consumer
+Technology,10/12/2012,61.71,Home Office
+Furniture,10/13/2012,316.73,Consumer
+Technology,10/13/2012,71.16,Consumer
+Furniture,10/15/2012,"2,653.98",Consumer
+Office Supplies,10/15/2012,5.18,Consumer
+Office Supplies,10/15/2012,9.27,Home Office
+Technology,10/15/2012,277.07,Consumer
+Technology,10/15/2012,295.77,Home Office
+Technology,10/16/2012,734.22,Corporate
+Office Supplies,10/17/2012,85.67,Consumer
+Furniture,10/18/2012,9.1,Consumer
+Office Supplies,10/18/2012,19.38,Consumer
+Office Supplies,10/18/2012,70.97,Home Office
+Technology,10/18/2012,244.59,Consumer
+Technology,10/18/2012,29.36,Home Office
+Office Supplies,10/19/2012,38.33,Consumer
+Office Supplies,10/19/2012,35.6,Corporate
+Office Supplies,10/19/2012,"1,739.14",Home Office
+Technology,10/19/2012,140.95,Corporate
+Technology,10/19/2012,232.2,Home Office
+Furniture,10/20/2012,386.79,Consumer
+Furniture,10/20/2012,15.54,Corporate
+Office Supplies,10/20/2012,21.37,Consumer
+Technology,10/20/2012,244.77,Corporate
+Office Supplies,10/22/2012,16.19,Consumer
+Furniture,10/23/2012,"1,313.36",Consumer
+Office Supplies,10/23/2012,138.52,Consumer
+Office Supplies,10/23/2012,3.3,Corporate
+Technology,10/23/2012,761.8,Consumer
+Furniture,10/24/2012,368.2,Corporate
+Furniture,10/24/2012,440.64,Home Office
+Office Supplies,10/24/2012,22.81,Corporate
+Office Supplies,10/24/2012,3.23,Home Office
+Furniture,10/25/2012,243.05,Consumer
+Furniture,10/25/2012,812.3,Corporate
+Office Supplies,10/25/2012,132.82,Consumer
+Technology,10/25/2012,138.32,Corporate
+Office Supplies,10/26/2012,"1,086.72",Corporate
+Technology,10/26/2012,162.1,Corporate
+Furniture,10/28/2012,56.64,Consumer
+Office Supplies,10/28/2012,48.72,Consumer
+Office Supplies,10/29/2012,234.47,Corporate
+Furniture,10/30/2012,14.4,Corporate
+Office Supplies,10/30/2012,160.96,Consumer
+Technology,10/30/2012,"1,477.61",Corporate
+Technology,10/30/2012,260.91,Home Office
+Furniture,10/31/2012,748.97,Consumer
+Office Supplies,10/31/2012,660.11,Consumer
+Office Supplies,10/31/2012,436.46,Corporate
+Office Supplies,10/31/2012,76.43,Home Office
+Technology,10/31/2012,"1,153.30",Consumer
+Furniture,11/1/2012,952.12,Consumer
+Office Supplies,11/1/2012,21.4,Consumer
+Office Supplies,11/1/2012,2.91,Home Office
+Technology,11/1/2012,"2,024.71",Consumer
+Technology,11/1/2012,4.41,Corporate
+Technology,11/1/2012,30.41,Home Office
+Furniture,11/2/2012,"1,547.10",Consumer
+Furniture,11/2/2012,"2,332.98",Home Office
+Office Supplies,11/2/2012,304.26,Consumer
+Office Supplies,11/2/2012,25.85,Corporate
+Technology,11/2/2012,421.05,Consumer
+Technology,11/2/2012,344.7,Corporate
+Furniture,11/3/2012,"1,448.82",Corporate
+Furniture,11/3/2012,46.01,Home Office
+Office Supplies,11/3/2012,6.48,Corporate
+Technology,11/3/2012,"1,315.85",Home Office
+Furniture,11/5/2012,186.3,Corporate
+Office Supplies,11/5/2012,596.5,Consumer
+Office Supplies,11/5/2012,23.32,Corporate
+Office Supplies,11/6/2012,12.51,Consumer
+Furniture,11/7/2012,772.36,Consumer
+Furniture,11/7/2012,196.44,Corporate
+Office Supplies,11/7/2012,359.24,Consumer
+Office Supplies,11/7/2012,"1,305.95",Corporate
+Technology,11/7/2012,244.72,Consumer
+Furniture,11/8/2012,250.7,Consumer
+Furniture,11/8/2012,"4,549.27",Corporate
+Office Supplies,11/8/2012,545.77,Consumer
+Office Supplies,11/8/2012,145.01,Corporate
+Office Supplies,11/8/2012,4.95,Home Office
+Technology,11/8/2012,597.86,Consumer
+Technology,11/8/2012,"5,245.72",Corporate
+Technology,11/8/2012,316.17,Home Office
+Furniture,11/9/2012,911.7,Consumer
+Office Supplies,11/9/2012,325.63,Consumer
+Office Supplies,11/9/2012,33.65,Home Office
+Technology,11/9/2012,923.07,Consumer
+Technology,11/9/2012,"2,298.68",Home Office
+Furniture,11/10/2012,26.01,Home Office
+Office Supplies,11/10/2012,635.34,Consumer
+Office Supplies,11/10/2012,785.73,Corporate
+Office Supplies,11/10/2012,"1,474.90",Home Office
+Technology,11/10/2012,83.9,Consumer
+Technology,11/10/2012,467.49,Home Office
+Office Supplies,11/11/2012,558.44,Corporate
+Furniture,11/12/2012,676.76,Corporate
+Office Supplies,11/12/2012,14.63,Consumer
+Office Supplies,11/12/2012,351.83,Corporate
+Technology,11/12/2012,91.72,Corporate
+Furniture,11/13/2012,"1,665.64",Consumer
+Furniture,11/13/2012,63.34,Home Office
+Office Supplies,11/13/2012,552.19,Consumer
+Technology,11/13/2012,826.29,Consumer
+Technology,11/13/2012,295.77,Home Office
+Furniture,11/14/2012,"1,011.78",Consumer
+Office Supplies,11/14/2012,20.16,Consumer
+Office Supplies,11/14/2012,815.21,Corporate
+Technology,11/14/2012,310.29,Corporate
+Technology,11/14/2012,47.5,Home Office
+Furniture,11/15/2012,40.36,Home Office
+Office Supplies,11/15/2012,708.56,Corporate
+Furniture,11/16/2012,628.59,Corporate
+Furniture,11/16/2012,947.92,Home Office
+Office Supplies,11/16/2012,35.54,Corporate
+Office Supplies,11/16/2012,653.86,Home Office
+Technology,11/16/2012,599.23,Corporate
+Technology,11/16/2012,"1,009.96",Home Office
+Furniture,11/17/2012,"1,617.02",Consumer
+Office Supplies,11/17/2012,"1,604.66",Consumer
+Technology,11/17/2012,407.65,Consumer
+Furniture,11/19/2012,156.16,Home Office
+Office Supplies,11/19/2012,5.15,Consumer
+Office Supplies,11/19/2012,27.04,Corporate
+Technology,11/19/2012,879,Consumer
+Furniture,11/20/2012,"1,126.22",Consumer
+Furniture,11/20/2012,173.02,Corporate
+Furniture,11/20/2012,384.84,Home Office
+Office Supplies,11/20/2012,257.99,Consumer
+Office Supplies,11/20/2012,232.96,Corporate
+Office Supplies,11/20/2012,178.96,Home Office
+Technology,11/20/2012,66.2,Consumer
+Technology,11/20/2012,455.99,Corporate
+Technology,11/20/2012,14.26,Home Office
+Furniture,11/21/2012,"1,863.93",Consumer
+Furniture,11/21/2012,243.67,Corporate
+Office Supplies,11/21/2012,104.72,Consumer
+Office Supplies,11/21/2012,358.04,Corporate
+Technology,11/21/2012,541.34,Consumer
+Technology,11/21/2012,500.4,Corporate
+Furniture,11/22/2012,213.17,Home Office
+Office Supplies,11/22/2012,171.11,Consumer
+Office Supplies,11/22/2012,143.96,Home Office
+Technology,11/22/2012,33.97,Consumer
+Technology,11/22/2012,26.62,Home Office
+Office Supplies,11/23/2012,"2,342.36",Consumer
+Office Supplies,11/23/2012,336.24,Corporate
+Technology,11/23/2012,320.3,Consumer
+Furniture,11/24/2012,84.55,Consumer
+Office Supplies,11/24/2012,"1,181.28",Consumer
+Technology,11/24/2012,12.3,Consumer
+Office Supplies,11/25/2012,13.51,Consumer
+Furniture,11/26/2012,761.72,Corporate
+Office Supplies,11/26/2012,178.21,Corporate
+Technology,11/26/2012,653.99,Corporate
+Furniture,11/27/2012,725.32,Consumer
+Furniture,11/27/2012,603.54,Home Office
+Office Supplies,11/27/2012,30.09,Consumer
+Office Supplies,11/27/2012,371.23,Home Office
+Technology,11/27/2012,89.01,Consumer
+Technology,11/27/2012,202.17,Corporate
+Technology,11/27/2012,"1,094.37",Home Office
+Furniture,11/28/2012,562.04,Consumer
+Furniture,11/28/2012,77.88,Corporate
+Office Supplies,11/28/2012,333.91,Consumer
+Office Supplies,11/28/2012,206.47,Corporate
+Office Supplies,11/28/2012,7.53,Home Office
+Technology,11/28/2012,641.42,Corporate
+Furniture,11/29/2012,"1,493.40",Corporate
+Office Supplies,11/29/2012,9.05,Consumer
+Office Supplies,11/29/2012,"1,260.43",Corporate
+Office Supplies,11/29/2012,55.76,Home Office
+Technology,11/29/2012,18.47,Consumer
+Furniture,11/30/2012,"1,076.15",Consumer
+Furniture,11/30/2012,17.43,Corporate
+Office Supplies,11/30/2012,279.45,Consumer
+Office Supplies,11/30/2012,79.26,Home Office
+Technology,11/30/2012,296.92,Consumer
+Furniture,12/1/2012,6.75,Consumer
+Furniture,12/1/2012,"5,802.71",Home Office
+Office Supplies,12/1/2012,58.2,Consumer
+Office Supplies,12/1/2012,111.82,Corporate
+Office Supplies,12/1/2012,306.99,Home Office
+Furniture,12/3/2012,406.83,Consumer
+Furniture,12/3/2012,2.63,Corporate
+Office Supplies,12/3/2012,100.05,Consumer
+Office Supplies,12/3/2012,537.22,Corporate
+Office Supplies,12/3/2012,216.1,Home Office
+Technology,12/3/2012,110.86,Consumer
+Technology,12/3/2012,516.1,Corporate
+Technology,12/3/2012,37.89,Home Office
+Furniture,12/4/2012,"1,117.31",Consumer
+Furniture,12/4/2012,34.94,Corporate
+Office Supplies,12/4/2012,"1,678.08",Consumer
+Office Supplies,12/4/2012,385.99,Corporate
+Technology,12/4/2012,"1,858.11",Consumer
+Technology,12/4/2012,121.39,Corporate
+Furniture,12/5/2012,141.6,Consumer
+Furniture,12/5/2012,147.56,Corporate
+Office Supplies,12/5/2012,328.26,Consumer
+Office Supplies,12/5/2012,12.6,Corporate
+Office Supplies,12/5/2012,161.97,Home Office
+Technology,12/5/2012,41.75,Consumer
+Technology,12/5/2012,40.95,Corporate
+Furniture,12/6/2012,394.63,Consumer
+Office Supplies,12/6/2012,"2,221.05",Consumer
+Office Supplies,12/6/2012,8.87,Corporate
+Office Supplies,12/6/2012,45.68,Home Office
+Technology,12/6/2012,"2,274.07",Consumer
+Technology,12/6/2012,"1,049.98",Home Office
+Furniture,12/7/2012,367.48,Consumer
+Office Supplies,12/7/2012,181.93,Consumer
+Office Supplies,12/7/2012,11.66,Corporate
+Technology,12/7/2012,688.81,Consumer
+Office Supplies,12/8/2012,225.77,Corporate
+Office Supplies,12/8/2012,331.86,Home Office
+Technology,12/8/2012,236,Corporate
+Technology,12/8/2012,"1,856.74",Home Office
+Office Supplies,12/9/2012,35.72,Corporate
+Furniture,12/10/2012,"1,690.55",Corporate
+Office Supplies,12/10/2012,74.43,Consumer
+Office Supplies,12/10/2012,97.67,Corporate
+Office Supplies,12/10/2012,277.97,Home Office
+Technology,12/10/2012,132.53,Consumer
+Technology,12/10/2012,147.14,Corporate
+Technology,12/10/2012,871.98,Home Office
+Furniture,12/11/2012,563.54,Consumer
+Office Supplies,12/11/2012,448.57,Consumer
+Office Supplies,12/11/2012,113.84,Home Office
+Technology,12/11/2012,566.02,Consumer
+Furniture,12/12/2012,438.11,Consumer
+Office Supplies,12/12/2012,447.18,Consumer
+Office Supplies,12/12/2012,110.74,Corporate
+Technology,12/12/2012,322.31,Consumer
+Office Supplies,12/13/2012,33.68,Consumer
+Office Supplies,12/13/2012,144.49,Corporate
+Office Supplies,12/13/2012,61.91,Home Office
+Technology,12/13/2012,709.31,Consumer
+Furniture,12/14/2012,25.71,Consumer
+Furniture,12/14/2012,274.13,Corporate
+Furniture,12/14/2012,14.17,Home Office
+Office Supplies,12/14/2012,7.77,Consumer
+Office Supplies,12/14/2012,143.57,Corporate
+Technology,12/14/2012,362.57,Consumer
+Furniture,12/15/2012,239.21,Consumer
+Office Supplies,12/15/2012,156.78,Consumer
+Office Supplies,12/15/2012,2.92,Home Office
+Technology,12/15/2012,"4,151.44",Consumer
+Technology,12/15/2012,221.55,Corporate
+Office Supplies,12/16/2012,4.58,Consumer
+Furniture,12/17/2012,"1,357.75",Consumer
+Office Supplies,12/17/2012,552.97,Consumer
+Technology,12/17/2012,138.7,Consumer
+Furniture,12/18/2012,19.1,Corporate
+Office Supplies,12/18/2012,711.45,Consumer
+Office Supplies,12/18/2012,72.28,Corporate
+Office Supplies,12/18/2012,19.91,Home Office
+Technology,12/18/2012,154.6,Consumer
+Furniture,12/19/2012,947.85,Home Office
+Office Supplies,12/19/2012,544.32,Consumer
+Office Supplies,12/19/2012,134.78,Corporate
+Office Supplies,12/19/2012,26.31,Home Office
+Technology,12/19/2012,"1,827.16",Consumer
+Technology,12/19/2012,"2,047.86",Home Office
+Furniture,12/20/2012,347.29,Consumer
+Office Supplies,12/20/2012,129.09,Consumer
+Office Supplies,12/20/2012,60.47,Corporate
+Office Supplies,12/20/2012,12.63,Home Office
+Technology,12/20/2012,449.23,Consumer
+Technology,12/20/2012,95.76,Home Office
+Furniture,12/21/2012,"1,650.74",Consumer
+Furniture,12/21/2012,50.72,Home Office
+Office Supplies,12/21/2012,26.49,Consumer
+Office Supplies,12/21/2012,58.23,Corporate
+Office Supplies,12/21/2012,53.91,Home Office
+Technology,12/21/2012,184.56,Consumer
+Technology,12/21/2012,"1,151.31",Home Office
+Furniture,12/22/2012,405.72,Corporate
+Office Supplies,12/22/2012,33.9,Corporate
+Office Supplies,12/22/2012,18.66,Home Office
+Office Supplies,12/23/2012,184.6,Consumer
+Furniture,12/24/2012,704,Consumer
+Furniture,12/24/2012,884.58,Corporate
+Office Supplies,12/24/2012,232.61,Consumer
+Office Supplies,12/24/2012,175.68,Corporate
+Technology,12/24/2012,591.97,Consumer
+Technology,12/24/2012,"4,654.93",Corporate
+Furniture,12/25/2012,696.43,Consumer
+Furniture,12/25/2012,630.22,Corporate
+Office Supplies,12/25/2012,228.83,Consumer
+Office Supplies,12/25/2012,17.53,Corporate
+Office Supplies,12/25/2012,454.66,Home Office
+Technology,12/25/2012,"2,207.37",Consumer
+Technology,12/25/2012,72.5,Corporate
+Furniture,12/26/2012,56.75,Consumer
+Furniture,12/26/2012,244.8,Home Office
+Office Supplies,12/26/2012,230.14,Consumer
+Furniture,12/27/2012,"1,525.43",Corporate
+Furniture,12/27/2012,684.9,Home Office
+Office Supplies,12/27/2012,446.76,Consumer
+Office Supplies,12/27/2012,369.14,Corporate
+Office Supplies,12/27/2012,546.62,Home Office
+Technology,12/27/2012,227.91,Consumer
+Technology,12/27/2012,753.55,Corporate
+Technology,12/27/2012,404.57,Home Office
+Office Supplies,12/28/2012,27.05,Consumer
+Technology,12/28/2012,59.82,Consumer
+Office Supplies,12/29/2012,6.87,Consumer
+Office Supplies,12/30/2012,369.26,Consumer
+Technology,12/30/2012,"2,921.53",Consumer
+Furniture,12/31/2012,13.28,Consumer
+Office Supplies,12/31/2012,568.72,Consumer
+Office Supplies,12/31/2012,613.08,Corporate
+Furniture,1/2/2013,147.85,Corporate
+Technology,1/2/2013,213.42,Corporate
+Furniture,1/3/2013,"1,752.14",Corporate
+Office Supplies,1/3/2013,114.46,Consumer
+Office Supplies,1/3/2013,10.22,Corporate
+Technology,1/3/2013,391.71,Corporate
+Office Supplies,1/4/2013,104.88,Corporate
+Technology,1/4/2013,"1,007.97",Corporate
+Office Supplies,1/5/2013,4.99,Corporate
+Technology,1/5/2013,275.72,Corporate
+Furniture,1/7/2013,21.46,Consumer
+Office Supplies,1/7/2013,22.03,Consumer
+Office Supplies,1/7/2013,36.31,Home Office
+Furniture,1/8/2013,"1,471.93",Corporate
+Office Supplies,1/8/2013,74.52,Consumer
+Office Supplies,1/8/2013,115.59,Corporate
+Technology,1/8/2013,94.64,Consumer
+Furniture,1/9/2013,16.68,Corporate
+Technology,1/9/2013,633.25,Corporate
+Furniture,1/10/2013,22.61,Consumer
+Furniture,1/10/2013,67.93,Corporate
+Technology,1/10/2013,68.58,Corporate
+Furniture,1/11/2013,48.39,Home Office
+Office Supplies,1/11/2013,78.86,Home Office
+Technology,1/11/2013,15.28,Home Office
+Furniture,1/14/2013,328.41,Consumer
+Office Supplies,1/14/2013,81.51,Consumer
+Furniture,1/15/2013,169.07,Consumer
+Office Supplies,1/15/2013,131.22,Consumer
+Office Supplies,1/15/2013,122.3,Home Office
+Technology,1/15/2013,249.87,Home Office
+Office Supplies,1/16/2013,12.46,Consumer
+Technology,1/16/2013,83.32,Consumer
+Furniture,1/17/2013,306.46,Home Office
+Technology,1/17/2013,316,Corporate
+Technology,1/17/2013,418.04,Home Office
+Furniture,1/21/2013,"1,202.07",Consumer
+Furniture,1/22/2013,488.68,Consumer
+Furniture,1/22/2013,107.7,Corporate
+Office Supplies,1/22/2013,178.54,Consumer
+Technology,1/22/2013,170.52,Home Office
+Furniture,1/23/2013,58.79,Consumer
+Office Supplies,1/23/2013,"1,525.16",Corporate
+Technology,1/23/2013,99.98,Corporate
+Office Supplies,1/24/2013,31.36,Corporate
+Furniture,1/25/2013,370.49,Corporate
+Office Supplies,1/25/2013,479.05,Corporate
+Office Supplies,1/28/2013,42.85,Corporate
+Furniture,1/30/2013,943.37,Consumer
+Office Supplies,1/30/2013,376.93,Consumer
+Office Supplies,1/30/2013,136.17,Corporate
+Technology,1/30/2013,"1,310.37",Consumer
+Office Supplies,1/31/2013,16.64,Consumer
+Office Supplies,1/31/2013,21.49,Corporate
+Office Supplies,1/31/2013,"1,525.70",Home Office
+Technology,1/31/2013,106.3,Home Office
+Office Supplies,2/1/2013,152.25,Corporate
+Furniture,2/2/2013,20.19,Consumer
+Furniture,2/2/2013,67.88,Corporate
+Office Supplies,2/2/2013,131.21,Consumer
+Technology,2/2/2013,"9,624.95",Consumer
+Furniture,2/3/2013,779.76,Consumer
+Furniture,2/4/2013,13.94,Consumer
+Office Supplies,2/4/2013,96.74,Corporate
+Technology,2/4/2013,88.67,Consumer
+Furniture,2/5/2013,602.35,Consumer
+Furniture,2/5/2013,274.35,Home Office
+Office Supplies,2/5/2013,203.28,Consumer
+Office Supplies,2/5/2013,"1,042.96",Home Office
+Technology,2/5/2013,150.37,Consumer
+Technology,2/5/2013,518.92,Home Office
+Furniture,2/6/2013,134.87,Corporate
+Office Supplies,2/7/2013,35.89,Consumer
+Technology,2/7/2013,102,Consumer
+Technology,2/7/2013,636.44,Corporate
+Furniture,2/8/2013,234.26,Corporate
+Technology,2/8/2013,"1,003.90",Home Office
+Technology,2/9/2013,115.74,Corporate
+Technology,2/11/2013,67.83,Corporate
+Office Supplies,2/12/2013,"1,461.66",Consumer
+Office Supplies,2/13/2013,135.07,Home Office
+Furniture,2/14/2013,611.48,Consumer
+Office Supplies,2/14/2013,257.54,Consumer
+Office Supplies,2/15/2013,431.5,Consumer
+Furniture,2/16/2013,802.87,Consumer
+Furniture,2/16/2013,69.25,Corporate
+Office Supplies,2/16/2013,6.21,Consumer
+Office Supplies,2/16/2013,101.1,Corporate
+Technology,2/16/2013,79.17,Consumer
+Furniture,2/19/2013,41.35,Consumer
+Office Supplies,2/19/2013,345.2,Consumer
+Office Supplies,2/19/2013,34.72,Corporate
+Office Supplies,2/20/2013,14.35,Consumer
+Furniture,2/21/2013,190.42,Corporate
+Office Supplies,2/21/2013,795.33,Corporate
+Office Supplies,2/21/2013,409.84,Home Office
+Technology,2/21/2013,55.62,Corporate
+Office Supplies,2/22/2013,11.08,Consumer
+Office Supplies,2/22/2013,426.58,Home Office
+Technology,2/22/2013,511.13,Consumer
+Office Supplies,2/23/2013,61.61,Corporate
+Office Supplies,2/25/2013,49.06,Consumer
+Furniture,2/27/2013,16.19,Consumer
+Office Supplies,2/27/2013,225.42,Consumer
+Office Supplies,2/28/2013,33.56,Corporate
+Office Supplies,3/1/2013,105.55,Consumer
+Furniture,3/2/2013,711.1,Consumer
+Office Supplies,3/2/2013,365.94,Consumer
+Technology,3/2/2013,"4,164.94",Consumer
+Technology,3/2/2013,164.78,Corporate
+Furniture,3/4/2013,695.31,Consumer
+Furniture,3/4/2013,622.66,Corporate
+Office Supplies,3/4/2013,"4,354.11",Consumer
+Office Supplies,3/4/2013,61.32,Corporate
+Technology,3/4/2013,"1,197.47",Consumer
+Office Supplies,3/5/2013,125.83,Consumer
+Office Supplies,3/5/2013,10.08,Corporate
+Office Supplies,3/5/2013,18.18,Home Office
+Technology,3/5/2013,166.38,Corporate
+Office Supplies,3/6/2013,159.1,Corporate
+Furniture,3/7/2013,286.72,Consumer
+Office Supplies,3/7/2013,4.35,Consumer
+Office Supplies,3/7/2013,2.1,Home Office
+Technology,3/7/2013,495.18,Home Office
+Technology,3/8/2013,21.91,Corporate
+Furniture,3/9/2013,200.84,Consumer
+Office Supplies,3/9/2013,93.2,Consumer
+Office Supplies,3/9/2013,192.31,Corporate
+Office Supplies,3/9/2013,131.93,Home Office
+Technology,3/9/2013,"1,369.46",Consumer
+Technology,3/9/2013,29.64,Home Office
+Furniture,3/10/2013,383.29,Consumer
+Office Supplies,3/10/2013,68.81,Consumer
+Technology,3/10/2013,203.75,Home Office
+Furniture,3/11/2013,150.27,Consumer
+Office Supplies,3/11/2013,92.13,Corporate
+Office Supplies,3/11/2013,16.39,Home Office
+Technology,3/11/2013,36.79,Consumer
+Technology,3/11/2013,"7,317.06",Home Office
+Furniture,3/12/2013,265.97,Consumer
+Furniture,3/12/2013,101.89,Home Office
+Office Supplies,3/12/2013,16.06,Corporate
+Office Supplies,3/12/2013,495.76,Home Office
+Technology,3/12/2013,50.12,Corporate
+Furniture,3/13/2013,762.65,Corporate
+Office Supplies,3/13/2013,46.85,Consumer
+Office Supplies,3/13/2013,936.22,Corporate
+Furniture,3/14/2013,490.67,Consumer
+Furniture,3/14/2013,373.46,Corporate
+Furniture,3/14/2013,134.27,Home Office
+Office Supplies,3/14/2013,73.49,Consumer
+Office Supplies,3/14/2013,"4,965.55",Corporate
+Office Supplies,3/14/2013,444.5,Home Office
+Technology,3/14/2013,"1,437.42",Corporate
+Technology,3/14/2013,219.44,Home Office
+Furniture,3/15/2013,265.84,Consumer
+Furniture,3/15/2013,232.74,Corporate
+Office Supplies,3/15/2013,131.13,Consumer
+Office Supplies,3/15/2013,41.07,Corporate
+Furniture,3/16/2013,"1,861.66",Corporate
+Office Supplies,3/16/2013,29.62,Corporate
+Office Supplies,3/16/2013,325.24,Home Office
+Technology,3/16/2013,84.82,Home Office
+Furniture,3/18/2013,952.07,Consumer
+Office Supplies,3/18/2013,"1,209.29",Consumer
+Technology,3/18/2013,231.95,Consumer
+Furniture,3/19/2013,189.88,Consumer
+Office Supplies,3/19/2013,810.77,Consumer
+Furniture,3/20/2013,111.9,Consumer
+Office Supplies,3/20/2013,32.02,Corporate
+Furniture,3/21/2013,88.18,Corporate
+Furniture,3/21/2013,669.27,Home Office
+Office Supplies,3/21/2013,45.05,Consumer
+Technology,3/21/2013,93.87,Consumer
+Furniture,3/22/2013,539,Consumer
+Furniture,3/22/2013,94.4,Corporate
+Office Supplies,3/22/2013,16.73,Consumer
+Office Supplies,3/22/2013,1.21,Corporate
+Furniture,3/23/2013,176.28,Consumer
+Technology,3/23/2013,63.27,Corporate
+Furniture,3/25/2013,277.35,Consumer
+Office Supplies,3/25/2013,16.42,Consumer
+Office Supplies,3/25/2013,21.36,Corporate
+Technology,3/25/2013,419.29,Corporate
+Office Supplies,3/26/2013,52.97,Corporate
+Technology,3/26/2013,"1,132.96",Consumer
+Office Supplies,3/27/2013,103.34,Consumer
+Office Supplies,3/27/2013,446.15,Corporate
+Technology,3/27/2013,110.38,Consumer
+Furniture,3/28/2013,52.94,Corporate
+Office Supplies,3/28/2013,30.26,Corporate
+Office Supplies,3/29/2013,97.66,Consumer
+Office Supplies,3/29/2013,28.89,Corporate
+Furniture,3/30/2013,756.81,Consumer
+Furniture,3/30/2013,801.91,Home Office
+Office Supplies,3/30/2013,86.3,Consumer
+Office Supplies,3/30/2013,43.25,Home Office
+Technology,3/30/2013,145.71,Consumer
+Technology,3/30/2013,861.5,Home Office
+Office Supplies,3/31/2013,10.77,Corporate
+Furniture,4/1/2013,282.08,Consumer
+Technology,4/1/2013,337.79,Consumer
+Furniture,4/2/2013,"1,304.32",Consumer
+Furniture,4/2/2013,7.67,Home Office
+Office Supplies,4/2/2013,742.43,Consumer
+Office Supplies,4/2/2013,107.71,Corporate
+Technology,4/2/2013,33.72,Consumer
+Technology,4/2/2013,14.16,Corporate
+Furniture,4/3/2013,"1,280.31",Corporate
+Furniture,4/4/2013,73.96,Consumer
+Office Supplies,4/4/2013,103.84,Consumer
+Office Supplies,4/4/2013,9.14,Home Office
+Technology,4/4/2013,267.76,Consumer
+Furniture,4/5/2013,77.68,Home Office
+Office Supplies,4/5/2013,541.68,Consumer
+Office Supplies,4/5/2013,60.01,Home Office
+Technology,4/5/2013,237.54,Home Office
+Office Supplies,4/6/2013,715.34,Consumer
+Office Supplies,4/6/2013,161.54,Home Office
+Technology,4/6/2013,106.9,Consumer
+Technology,4/7/2013,"1,385.38",Home Office
+Furniture,4/8/2013,566.52,Corporate
+Office Supplies,4/8/2013,67.26,Consumer
+Office Supplies,4/8/2013,33.39,Corporate
+Technology,4/8/2013,"1,163.98",Corporate
+Furniture,4/9/2013,916.15,Consumer
+Furniture,4/9/2013,156.72,Home Office
+Office Supplies,4/9/2013,"1,150.58",Consumer
+Office Supplies,4/9/2013,197.05,Home Office
+Technology,4/9/2013,410.33,Consumer
+Furniture,4/10/2013,562.23,Consumer
+Office Supplies,4/10/2013,30.76,Corporate
+Office Supplies,4/10/2013,5.7,Home Office
+Technology,4/10/2013,507.54,Home Office
+Office Supplies,4/11/2013,918.72,Consumer
+Office Supplies,4/11/2013,51.6,Corporate
+Furniture,4/13/2013,"1,282.45",Consumer
+Office Supplies,4/13/2013,179.39,Consumer
+Office Supplies,4/13/2013,163.04,Corporate
+Office Supplies,4/14/2013,5.2,Consumer
+Furniture,4/15/2013,"1,356.86",Consumer
+Office Supplies,4/15/2013,153.71,Consumer
+Furniture,4/16/2013,986.98,Consumer
+Office Supplies,4/16/2013,40.7,Corporate
+Office Supplies,4/16/2013,321.15,Home Office
+Technology,4/16/2013,672.68,Home Office
+Furniture,4/17/2013,8.47,Corporate
+Office Supplies,4/17/2013,166.38,Consumer
+Office Supplies,4/17/2013,24.54,Corporate
+Technology,4/17/2013,33.76,Consumer
+Technology,4/17/2013,"9,372.93",Corporate
+Furniture,4/18/2013,283.25,Consumer
+Furniture,4/18/2013,82.28,Corporate
+Furniture,4/18/2013,20.11,Home Office
+Office Supplies,4/18/2013,29.05,Home Office
+Technology,4/18/2013,39.74,Home Office
+Furniture,4/19/2013,481.7,Corporate
+Office Supplies,4/19/2013,214.12,Consumer
+Office Supplies,4/19/2013,"1,662.89",Corporate
+Office Supplies,4/19/2013,220.84,Home Office
+Technology,4/19/2013,27.79,Consumer
+Furniture,4/20/2013,223.64,Home Office
+Office Supplies,4/20/2013,781.51,Consumer
+Office Supplies,4/20/2013,398.43,Home Office
+Technology,4/20/2013,61.98,Consumer
+Office Supplies,4/22/2013,83.2,Consumer
+Office Supplies,4/22/2013,188.14,Corporate
+Furniture,4/23/2013,27.14,Consumer
+Furniture,4/23/2013,"1,493.43",Home Office
+Office Supplies,4/23/2013,33.61,Consumer
+Office Supplies,4/23/2013,331.89,Home Office
+Office Supplies,4/24/2013,342.6,Consumer
+Office Supplies,4/24/2013,290.64,Corporate
+Technology,4/24/2013,106.99,Corporate
+Furniture,4/25/2013,"1,206.44",Home Office
+Office Supplies,4/25/2013,3.94,Consumer
+Office Supplies,4/25/2013,16.61,Home Office
+Technology,4/25/2013,225.07,Home Office
+Office Supplies,4/26/2013,23.83,Consumer
+Technology,4/26/2013,86.94,Consumer
+Furniture,4/27/2013,386.83,Home Office
+Furniture,4/29/2013,26.7,Consumer
+Furniture,4/29/2013,40.32,Corporate
+Office Supplies,4/29/2013,13.51,Corporate
+Office Supplies,4/29/2013,27.41,Home Office
+Technology,4/29/2013,399.14,Corporate
+Furniture,5/1/2013,113.01,Corporate
+Furniture,5/1/2013,24.42,Home Office
+Office Supplies,5/1/2013,8.25,Consumer
+Furniture,5/2/2013,407.68,Consumer
+Office Supplies,5/2/2013,161.97,Consumer
+Furniture,5/3/2013,487.34,Consumer
+Furniture,5/3/2013,206.81,Corporate
+Office Supplies,5/3/2013,194.3,Consumer
+Office Supplies,5/3/2013,113.92,Corporate
+Furniture,5/4/2013,45.73,Consumer
+Office Supplies,5/4/2013,231.85,Consumer
+Technology,5/4/2013,852.59,Consumer
+Furniture,5/6/2013,332.46,Consumer
+Furniture,5/6/2013,"1,803.89",Corporate
+Office Supplies,5/6/2013,80.71,Consumer
+Office Supplies,5/6/2013,18.67,Corporate
+Office Supplies,5/6/2013,89.31,Home Office
+Technology,5/6/2013,453.3,Home Office
+Furniture,5/7/2013,39.1,Consumer
+Furniture,5/7/2013,55.26,Home Office
+Office Supplies,5/7/2013,2.95,Consumer
+Office Supplies,5/7/2013,113.49,Home Office
+Technology,5/7/2013,26.44,Consumer
+Furniture,5/8/2013,546.96,Consumer
+Office Supplies,5/8/2013,142.6,Consumer
+Technology,5/8/2013,"4,451.89",Consumer
+Furniture,5/9/2013,207.72,Corporate
+Office Supplies,5/9/2013,"1,038.07",Consumer
+Technology,5/9/2013,54.63,Consumer
+Office Supplies,5/10/2013,104.91,Consumer
+Office Supplies,5/10/2013,"1,035.37",Corporate
+Office Supplies,5/10/2013,8.8,Home Office
+Technology,5/10/2013,105.2,Consumer
+Office Supplies,5/11/2013,20.94,Consumer
+Technology,5/11/2013,736.55,Home Office
+Office Supplies,5/12/2013,5.26,Consumer
+Furniture,5/13/2013,10.12,Corporate
+Office Supplies,5/13/2013,58.48,Consumer
+Office Supplies,5/13/2013,96.13,Corporate
+Technology,5/13/2013,126,Consumer
+Technology,5/13/2013,556.12,Corporate
+Furniture,5/15/2013,80.18,Consumer
+Furniture,5/15/2013,27.78,Corporate
+Office Supplies,5/15/2013,123.09,Corporate
+Technology,5/15/2013,208.51,Corporate
+Office Supplies,5/16/2013,38.98,Consumer
+Office Supplies,5/16/2013,563.17,Home Office
+Furniture,5/17/2013,285.67,Consumer
+Office Supplies,5/17/2013,585.67,Consumer
+Furniture,5/18/2013,180.18,Consumer
+Office Supplies,5/18/2013,127.16,Consumer
+Office Supplies,5/18/2013,28.47,Corporate
+Office Supplies,5/19/2013,113.66,Consumer
+Furniture,5/20/2013,609.99,Consumer
+Office Supplies,5/20/2013,775.37,Consumer
+Office Supplies,5/20/2013,103.38,Corporate
+Furniture,5/21/2013,891.82,Home Office
+Office Supplies,5/21/2013,2.51,Consumer
+Office Supplies,5/21/2013,61.66,Home Office
+Technology,5/21/2013,"1,186.65",Consumer
+Office Supplies,5/22/2013,174.33,Corporate
+Technology,5/22/2013,112.94,Consumer
+Technology,5/22/2013,"2,468.29",Corporate
+Furniture,5/23/2013,191.71,Consumer
+Office Supplies,5/23/2013,634.01,Consumer
+Technology,5/23/2013,732.98,Consumer
+Technology,5/23/2013,202.37,Corporate
+Furniture,5/24/2013,32.97,Consumer
+Office Supplies,5/24/2013,18.33,Consumer
+Office Supplies,5/24/2013,4.58,Home Office
+Technology,5/24/2013,"9,347.03",Consumer
+Office Supplies,5/25/2013,294.42,Home Office
+Furniture,5/26/2013,27.21,Home Office
+Office Supplies,5/26/2013,"1,351.36",Home Office
+Furniture,5/27/2013,903.79,Consumer
+Office Supplies,5/27/2013,103.66,Consumer
+Office Supplies,5/27/2013,203.37,Corporate
+Technology,5/27/2013,634.19,Consumer
+Technology,5/27/2013,49.84,Corporate
+Furniture,5/28/2013,28.3,Consumer
+Furniture,5/28/2013,"3,434.80",Corporate
+Office Supplies,5/28/2013,"1,179.67",Consumer
+Office Supplies,5/28/2013,431.15,Corporate
+Furniture,5/29/2013,405.88,Corporate
+Office Supplies,5/29/2013,705.84,Consumer
+Office Supplies,5/29/2013,110.07,Corporate
+Technology,5/29/2013,717.6,Consumer
+Technology,5/29/2013,300.72,Home Office
+Furniture,5/30/2013,48.79,Consumer
+Office Supplies,5/30/2013,40.78,Consumer
+Technology,5/30/2013,832.96,Consumer
+Furniture,5/31/2013,"3,115.11",Corporate
+Furniture,5/31/2013,52.14,Home Office
+Office Supplies,5/31/2013,122.11,Consumer
+Office Supplies,5/31/2013,138.8,Corporate
+Office Supplies,5/31/2013,"1,159.58",Home Office
+Technology,5/31/2013,331.27,Consumer
+Technology,5/31/2013,"2,990.30",Corporate
+Technology,5/31/2013,131.03,Home Office
+Furniture,6/1/2013,205.29,Consumer
+Office Supplies,6/1/2013,39.62,Consumer
+Technology,6/1/2013,172.51,Consumer
+Office Supplies,6/3/2013,140.48,Corporate
+Furniture,6/4/2013,76.78,Corporate
+Furniture,6/5/2013,794.33,Consumer
+Office Supplies,6/5/2013,114.22,Consumer
+Technology,6/5/2013,"1,423.29",Consumer
+Office Supplies,6/6/2013,433.63,Consumer
+Office Supplies,6/6/2013,58.31,Corporate
+Office Supplies,6/6/2013,144.06,Home Office
+Furniture,6/7/2013,494.06,Consumer
+Office Supplies,6/7/2013,819.86,Consumer
+Office Supplies,6/7/2013,92.86,Corporate
+Office Supplies,6/7/2013,109.76,Home Office
+Technology,6/7/2013,772.55,Consumer
+Technology,6/7/2013,"3,281.49",Home Office
+Office Supplies,6/8/2013,51.56,Home Office
+Furniture,6/10/2013,112.56,Consumer
+Furniture,6/10/2013,755.3,Home Office
+Technology,6/10/2013,838.25,Consumer
+Furniture,6/11/2013,"1,442.53",Consumer
+Office Supplies,6/11/2013,81.32,Consumer
+Furniture,6/12/2013,893.68,Consumer
+Furniture,6/12/2013,13.55,Corporate
+Office Supplies,6/12/2013,72.72,Consumer
+Office Supplies,6/12/2013,9.62,Corporate
+Technology,6/12/2013,604.74,Consumer
+Furniture,6/13/2013,47.98,Consumer
+Furniture,6/13/2013,378.63,Home Office
+Office Supplies,6/13/2013,551.86,Consumer
+Office Supplies,6/13/2013,477.81,Corporate
+Office Supplies,6/13/2013,416.9,Home Office
+Technology,6/13/2013,67.36,Consumer
+Technology,6/13/2013,967.66,Home Office
+Office Supplies,6/14/2013,57.19,Consumer
+Technology,6/14/2013,415.77,Home Office
+Furniture,6/15/2013,"2,855.67",Corporate
+Furniture,6/15/2013,650.45,Home Office
+Office Supplies,6/15/2013,41.93,Consumer
+Office Supplies,6/15/2013,15.52,Home Office
+Technology,6/15/2013,16.43,Consumer
+Technology,6/15/2013,24.9,Home Office
+Office Supplies,6/16/2013,156.14,Consumer
+Office Supplies,6/17/2013,51.34,Consumer
+Technology,6/17/2013,82.33,Home Office
+Furniture,6/18/2013,"1,360.91",Consumer
+Furniture,6/18/2013,391.94,Corporate
+Office Supplies,6/18/2013,679.7,Consumer
+Office Supplies,6/18/2013,17.27,Corporate
+Technology,6/18/2013,26.1,Consumer
+Technology,6/18/2013,481.92,Corporate
+Office Supplies,6/19/2013,83.01,Consumer
+Office Supplies,6/19/2013,479.03,Corporate
+Office Supplies,6/20/2013,14.89,Corporate
+Furniture,6/21/2013,177.72,Consumer
+Furniture,6/21/2013,53.07,Corporate
+Office Supplies,6/21/2013,255.64,Consumer
+Office Supplies,6/21/2013,51.69,Corporate
+Office Supplies,6/21/2013,500.36,Home Office
+Technology,6/21/2013,69.47,Consumer
+Technology,6/21/2013,99.78,Corporate
+Furniture,6/22/2013,360.64,Consumer
+Office Supplies,6/22/2013,200.43,Consumer
+Office Supplies,6/22/2013,0.76,Corporate
+Office Supplies,6/24/2013,"1,386.97",Consumer
+Technology,6/24/2013,741.62,Consumer
+Office Supplies,6/25/2013,363.6,Consumer
+Office Supplies,6/25/2013,9.32,Corporate
+Technology,6/25/2013,"4,361.24",Consumer
+Furniture,6/26/2013,113.24,Consumer
+Furniture,6/26/2013,430.5,Corporate
+Office Supplies,6/26/2013,58.99,Consumer
+Office Supplies,6/26/2013,298.29,Corporate
+Furniture,6/27/2013,21.7,Consumer
+Furniture,6/27/2013,32.83,Corporate
+Office Supplies,6/27/2013,16.39,Consumer
+Office Supplies,6/27/2013,838.4,Corporate
+Office Supplies,6/27/2013,591.81,Home Office
+Technology,6/27/2013,140.03,Consumer
+Technology,6/27/2013,165.76,Corporate
+Technology,6/27/2013,11.85,Home Office
+Furniture,6/28/2013,534.26,Corporate
+Office Supplies,6/28/2013,32.22,Corporate
+Technology,6/28/2013,209.65,Consumer
+Furniture,6/29/2013,115.86,Consumer
+Office Supplies,6/29/2013,325.59,Consumer
+Office Supplies,6/29/2013,40.49,Corporate
+Technology,6/29/2013,377.97,Consumer
+Office Supplies,6/30/2013,168.85,Consumer
+Furniture,7/1/2013,"1,266.86",Consumer
+Office Supplies,7/1/2013,34.53,Consumer
+Technology,7/1/2013,53.13,Home Office
+Office Supplies,7/2/2013,75.24,Consumer
+Office Supplies,7/2/2013,102.68,Home Office
+Technology,7/2/2013,"1,576.71",Home Office
+Furniture,7/3/2013,788.74,Corporate
+Office Supplies,7/3/2013,7.62,Consumer
+Office Supplies,7/3/2013,44.38,Corporate
+Office Supplies,7/4/2013,17.94,Consumer
+Office Supplies,7/4/2013,888.93,Corporate
+Furniture,7/5/2013,"1,134.97",Consumer
+Furniture,7/5/2013,24.38,Home Office
+Office Supplies,7/5/2013,63.97,Consumer
+Technology,7/5/2013,249.46,Home Office
+Furniture,7/8/2013,473.4,Consumer
+Furniture,7/8/2013,288.57,Corporate
+Office Supplies,7/8/2013,103.56,Consumer
+Office Supplies,7/8/2013,68.31,Corporate
+Office Supplies,7/8/2013,24.46,Home Office
+Technology,7/8/2013,"2,715.96",Consumer
+Technology,7/8/2013,61.79,Home Office
+Furniture,7/9/2013,682.77,Consumer
+Office Supplies,7/9/2013,87.72,Consumer
+Office Supplies,7/9/2013,52.7,Corporate
+Technology,7/9/2013,829.43,Consumer
+Technology,7/9/2013,794.55,Corporate
+Furniture,7/10/2013,538.89,Corporate
+Office Supplies,7/11/2013,559.95,Consumer
+Office Supplies,7/11/2013,48.44,Home Office
+Technology,7/11/2013,294.11,Corporate
+Technology,7/13/2013,102.46,Corporate
+Furniture,7/15/2013,86.68,Consumer
+Furniture,7/15/2013,590.72,Corporate
+Office Supplies,7/15/2013,408.68,Consumer
+Office Supplies,7/15/2013,103.94,Corporate
+Technology,7/15/2013,542.54,Consumer
+Technology,7/15/2013,399.91,Corporate
+Furniture,7/16/2013,244.1,Corporate
+Office Supplies,7/16/2013,97.08,Corporate
+Office Supplies,7/16/2013,39.07,Home Office
+Furniture,7/17/2013,8.79,Corporate
+Office Supplies,7/17/2013,6.31,Consumer
+Office Supplies,7/17/2013,164.2,Corporate
+Technology,7/17/2013,663.89,Consumer
+Technology,7/17/2013,80.54,Corporate
+Furniture,7/18/2013,34.57,Consumer
+Office Supplies,7/18/2013,853.86,Consumer
+Office Supplies,7/18/2013,254.56,Corporate
+Technology,7/18/2013,422.23,Consumer
+Technology,7/18/2013,519.39,Corporate
+Furniture,7/19/2013,"1,539.17",Corporate
+Office Supplies,7/19/2013,822.19,Corporate
+Office Supplies,7/19/2013,345.22,Home Office
+Technology,7/19/2013,73.72,Consumer
+Furniture,7/20/2013,600.72,Consumer
+Office Supplies,7/20/2013,457.82,Consumer
+Technology,7/20/2013,430.21,Home Office
+Technology,7/21/2013,89.95,Consumer
+Furniture,7/22/2013,309.33,Consumer
+Office Supplies,7/22/2013,5.95,Consumer
+Office Supplies,7/22/2013,683,Corporate
+Furniture,7/23/2013,10.83,Consumer
+Furniture,7/23/2013,29.34,Corporate
+Office Supplies,7/23/2013,949.08,Consumer
+Office Supplies,7/23/2013,102.23,Corporate
+Office Supplies,7/23/2013,81.89,Home Office
+Technology,7/23/2013,119.85,Consumer
+Office Supplies,7/24/2013,199.58,Consumer
+Office Supplies,7/24/2013,51.84,Corporate
+Office Supplies,7/24/2013,12.44,Home Office
+Technology,7/24/2013,107.08,Consumer
+Technology,7/24/2013,244.24,Corporate
+Furniture,7/25/2013,236,Corporate
+Office Supplies,7/25/2013,67.34,Consumer
+Furniture,7/26/2013,"3,206.48",Consumer
+Furniture,7/26/2013,493.77,Corporate
+Office Supplies,7/26/2013,186.6,Consumer
+Office Supplies,7/26/2013,305.43,Corporate
+Office Supplies,7/26/2013,59.64,Home Office
+Technology,7/26/2013,"1,511.97",Consumer
+Technology,7/26/2013,409.15,Corporate
+Furniture,7/29/2013,186.32,Consumer
+Furniture,7/29/2013,301.23,Home Office
+Office Supplies,7/29/2013,"1,202.40",Consumer
+Office Supplies,7/29/2013,132.97,Home Office
+Office Supplies,7/30/2013,785.78,Consumer
+Office Supplies,7/30/2013,83.94,Corporate
+Office Supplies,7/31/2013,"1,066.79",Consumer
+Office Supplies,7/31/2013,651.23,Corporate
+Office Supplies,7/31/2013,9.17,Home Office
+Furniture,8/1/2013,240.19,Consumer
+Furniture,8/1/2013,811.34,Corporate
+Office Supplies,8/1/2013,305.79,Consumer
+Technology,8/1/2013,724.75,Consumer
+Furniture,8/2/2013,18.35,Consumer
+Office Supplies,8/2/2013,61.02,Corporate
+Technology,8/2/2013,"1,070.92",Corporate
+Furniture,8/3/2013,124.18,Corporate
+Office Supplies,8/3/2013,10.66,Corporate
+Technology,8/3/2013,300.22,Corporate
+Office Supplies,8/4/2013,77.46,Consumer
+Technology,8/4/2013,147.21,Consumer
+Furniture,8/5/2013,101.02,Home Office
+Office Supplies,8/5/2013,4.34,Consumer
+Office Supplies,8/5/2013,29.79,Corporate
+Office Supplies,8/5/2013,53.42,Home Office
+Technology,8/5/2013,314.48,Corporate
+Office Supplies,8/6/2013,185.23,Corporate
+Office Supplies,8/7/2013,39.49,Consumer
+Office Supplies,8/7/2013,62.37,Corporate
+Technology,8/7/2013,196.39,Consumer
+Technology,8/8/2013,197.97,Corporate
+Furniture,8/9/2013,446.33,Home Office
+Office Supplies,8/9/2013,71.14,Consumer
+Office Supplies,8/9/2013,452.79,Home Office
+Office Supplies,8/10/2013,648.38,Consumer
+Office Supplies,8/10/2013,14.92,Home Office
+Technology,8/10/2013,42.1,Consumer
+Office Supplies,8/12/2013,165.48,Home Office
+Furniture,8/13/2013,190.32,Consumer
+Furniture,8/13/2013,601.65,Corporate
+Furniture,8/13/2013,131.19,Home Office
+Office Supplies,8/13/2013,"1,453.73",Consumer
+Office Supplies,8/13/2013,39.55,Home Office
+Technology,8/13/2013,"1,315.95",Consumer
+Furniture,8/14/2013,215.34,Corporate
+Office Supplies,8/14/2013,396.79,Consumer
+Office Supplies,8/14/2013,7.75,Corporate
+Technology,8/14/2013,66.22,Consumer
+Office Supplies,8/15/2013,28.29,Consumer
+Technology,8/15/2013,109.77,Consumer
+Technology,8/15/2013,739.82,Corporate
+Furniture,8/16/2013,483.59,Consumer
+Office Supplies,8/16/2013,182.9,Consumer
+Office Supplies,8/16/2013,3.4,Corporate
+Technology,8/16/2013,775.32,Consumer
+Technology,8/16/2013,66.22,Corporate
+Furniture,8/17/2013,159.67,Corporate
+Office Supplies,8/17/2013,42.83,Consumer
+Office Supplies,8/18/2013,13.67,Consumer
+Furniture,8/19/2013,14.3,Home Office
+Office Supplies,8/19/2013,85.91,Consumer
+Office Supplies,8/19/2013,323.34,Corporate
+Technology,8/19/2013,35.99,Corporate
+Office Supplies,8/20/2013,466.74,Consumer
+Technology,8/21/2013,14.93,Home Office
+Furniture,8/22/2013,567.44,Consumer
+Furniture,8/22/2013,"2,800.44",Corporate
+Furniture,8/22/2013,709.3,Home Office
+Office Supplies,8/22/2013,98.06,Corporate
+Office Supplies,8/22/2013,36.52,Home Office
+Technology,8/22/2013,371.34,Corporate
+Furniture,8/23/2013,100.29,Home Office
+Office Supplies,8/23/2013,293.09,Consumer
+Office Supplies,8/23/2013,25.45,Corporate
+Furniture,8/24/2013,506.07,Consumer
+Furniture,8/24/2013,21.03,Home Office
+Office Supplies,8/24/2013,215.79,Consumer
+Office Supplies,8/24/2013,"1,080.53",Corporate
+Office Supplies,8/24/2013,788.95,Home Office
+Technology,8/24/2013,728.71,Consumer
+Technology,8/24/2013,648.33,Home Office
+Furniture,8/27/2013,634.38,Consumer
+Furniture,8/27/2013,"2,601.57",Corporate
+Office Supplies,8/27/2013,207.15,Consumer
+Office Supplies,8/27/2013,178.03,Corporate
+Technology,8/27/2013,745.14,Consumer
+Technology,8/27/2013,530.19,Corporate
+Technology,8/27/2013,43.65,Home Office
+Furniture,8/28/2013,220.15,Consumer
+Office Supplies,8/28/2013,331.23,Consumer
+Office Supplies,8/28/2013,98.13,Corporate
+Technology,8/28/2013,64.77,Consumer
+Furniture,8/29/2013,146.99,Consumer
+Office Supplies,8/29/2013,40.58,Consumer
+Office Supplies,8/29/2013,17.14,Corporate
+Technology,8/29/2013,92.29,Consumer
+Furniture,8/30/2013,389.57,Corporate
+Office Supplies,8/30/2013,15.34,Corporate
+Office Supplies,8/30/2013,100.95,Home Office
+Technology,8/30/2013,122.7,Home Office
+Furniture,8/31/2013,825.45,Consumer
+Office Supplies,8/31/2013,171.08,Consumer
+Technology,8/31/2013,605.62,Consumer
+Office Supplies,9/1/2013,22.77,Consumer
+Furniture,9/2/2013,172.64,Consumer
+Office Supplies,9/2/2013,426.91,Consumer
+Office Supplies,9/2/2013,75.26,Corporate
+Office Supplies,9/2/2013,"4,622.46",Home Office
+Technology,9/2/2013,495.14,Consumer
+Technology,9/2/2013,21.35,Corporate
+Technology,9/2/2013,6.99,Home Office
+Furniture,9/3/2013,"1,322.29",Consumer
+Furniture,9/3/2013,91.86,Home Office
+Office Supplies,9/3/2013,558.46,Consumer
+Office Supplies,9/3/2013,51.28,Home Office
+Technology,9/3/2013,"4,734.73",Consumer
+Technology,9/3/2013,156.37,Home Office
+Furniture,9/4/2013,597.54,Consumer
+Furniture,9/4/2013,73.88,Home Office
+Office Supplies,9/4/2013,138.58,Consumer
+Office Supplies,9/4/2013,161.41,Corporate
+Office Supplies,9/4/2013,993.08,Home Office
+Technology,9/4/2013,252.7,Home Office
+Furniture,9/5/2013,126.89,Consumer
+Office Supplies,9/5/2013,754.48,Consumer
+Office Supplies,9/5/2013,497.93,Corporate
+Technology,9/5/2013,"2,771.92",Consumer
+Furniture,9/6/2013,"3,160.62",Consumer
+Furniture,9/6/2013,424.7,Corporate
+Office Supplies,9/6/2013,842.28,Consumer
+Office Supplies,9/6/2013,48.45,Corporate
+Office Supplies,9/6/2013,225.09,Home Office
+Technology,9/6/2013,425.9,Consumer
+Technology,9/6/2013,169.18,Corporate
+Furniture,9/7/2013,780.14,Consumer
+Office Supplies,9/7/2013,113.24,Consumer
+Office Supplies,9/7/2013,107.82,Corporate
+Technology,9/7/2013,28.99,Consumer
+Technology,9/7/2013,319.7,Corporate
+Furniture,9/9/2013,"2,720.89",Consumer
+Furniture,9/9/2013,160.02,Home Office
+Office Supplies,9/9/2013,550.58,Consumer
+Office Supplies,9/9/2013,73.89,Corporate
+Office Supplies,9/9/2013,315.95,Home Office
+Technology,9/9/2013,88.11,Consumer
+Technology,9/9/2013,64.16,Corporate
+Furniture,9/10/2013,15.76,Home Office
+Office Supplies,9/10/2013,67.18,Consumer
+Furniture,9/11/2013,264.82,Consumer
+Office Supplies,9/11/2013,428.42,Consumer
+Office Supplies,9/11/2013,119.02,Home Office
+Technology,9/11/2013,791.96,Consumer
+Technology,9/11/2013,488.5,Corporate
+Office Supplies,9/12/2013,454.08,Consumer
+Office Supplies,9/12/2013,35.41,Corporate
+Office Supplies,9/12/2013,65.34,Home Office
+Technology,9/12/2013,"4,499.67",Consumer
+Technology,9/12/2013,670.63,Corporate
+Furniture,9/13/2013,"1,437.06",Corporate
+Furniture,9/13/2013,72.33,Home Office
+Office Supplies,9/13/2013,36.75,Consumer
+Office Supplies,9/13/2013,169.43,Corporate
+Technology,9/13/2013,22.36,Corporate
+Technology,9/13/2013,160.18,Home Office
+Furniture,9/14/2013,"1,149.34",Consumer
+Office Supplies,9/14/2013,772.53,Consumer
+Technology,9/14/2013,188.92,Consumer
+Office Supplies,9/15/2013,680.3,Consumer
+Office Supplies,9/15/2013,25.14,Home Office
+Technology,9/15/2013,442.23,Consumer
+Furniture,9/16/2013,"1,105.82",Corporate
+Office Supplies,9/16/2013,120.78,Consumer
+Office Supplies,9/16/2013,939.56,Corporate
+Furniture,9/17/2013,251.77,Corporate
+Furniture,9/17/2013,103.51,Home Office
+Office Supplies,9/17/2013,16.61,Corporate
+Office Supplies,9/17/2013,12.31,Home Office
+Furniture,9/18/2013,185.98,Consumer
+Furniture,9/18/2013,118.24,Corporate
+Furniture,9/18/2013,125.28,Home Office
+Office Supplies,9/18/2013,506.69,Consumer
+Office Supplies,9/18/2013,56.98,Corporate
+Office Supplies,9/18/2013,12.44,Home Office
+Technology,9/18/2013,356.4,Consumer
+Technology,9/18/2013,531.89,Corporate
+Technology,9/18/2013,89.75,Home Office
+Furniture,9/19/2013,"1,240.06",Consumer
+Furniture,9/19/2013,"2,174.06",Corporate
+Office Supplies,9/19/2013,858.81,Consumer
+Office Supplies,9/19/2013,379.98,Corporate
+Technology,9/19/2013,223.19,Consumer
+Furniture,9/20/2013,"1,631.31",Home Office
+Office Supplies,9/20/2013,222.72,Consumer
+Office Supplies,9/20/2013,8.66,Corporate
+Office Supplies,9/20/2013,"1,641.87",Home Office
+Technology,9/20/2013,272.45,Consumer
+Furniture,9/21/2013,98.16,Corporate
+Furniture,9/21/2013,170.44,Home Office
+Office Supplies,9/21/2013,424.49,Consumer
+Office Supplies,9/21/2013,485.21,Corporate
+Furniture,9/23/2013,96.13,Corporate
+Furniture,9/23/2013,14.08,Home Office
+Office Supplies,9/23/2013,97.18,Consumer
+Office Supplies,9/23/2013,40.78,Corporate
+Office Supplies,9/23/2013,204.65,Home Office
+Technology,9/23/2013,102.88,Consumer
+Technology,9/23/2013,63.94,Corporate
+Furniture,9/24/2013,365.28,Consumer
+Furniture,9/24/2013,652.88,Corporate
+Furniture,9/24/2013,26.88,Home Office
+Office Supplies,9/24/2013,115.89,Consumer
+Office Supplies,9/24/2013,54.24,Corporate
+Office Supplies,9/24/2013,32.95,Home Office
+Furniture,9/25/2013,294.65,Consumer
+Furniture,9/25/2013,651.5,Corporate
+Furniture,9/25/2013,20.37,Home Office
+Office Supplies,9/25/2013,13.89,Consumer
+Office Supplies,9/25/2013,839.24,Corporate
+Office Supplies,9/25/2013,500.83,Home Office
+Furniture,9/26/2013,814.96,Consumer
+Furniture,9/26/2013,770.71,Corporate
+Office Supplies,9/26/2013,688.52,Consumer
+Office Supplies,9/26/2013,92.45,Corporate
+Technology,9/26/2013,466.99,Consumer
+Technology,9/26/2013,509.95,Corporate
+Furniture,9/27/2013,814.84,Consumer
+Furniture,9/27/2013,844.73,Corporate
+Office Supplies,9/27/2013,149.13,Consumer
+Office Supplies,9/27/2013,112.97,Corporate
+Office Supplies,9/27/2013,293.46,Home Office
+Technology,9/27/2013,516.02,Home Office
+Furniture,9/28/2013,841.87,Corporate
+Office Supplies,9/28/2013,29.6,Consumer
+Office Supplies,9/28/2013,2.56,Corporate
+Technology,9/28/2013,"1,031.63",Consumer
+Office Supplies,9/29/2013,94.18,Corporate
+Office Supplies,9/30/2013,147.23,Consumer
+Office Supplies,9/30/2013,26.17,Corporate
+Office Supplies,9/30/2013,43.74,Home Office
+Technology,9/30/2013,248.67,Consumer
+Technology,9/30/2013,790.46,Corporate
+Furniture,10/1/2013,445.33,Consumer
+Office Supplies,10/1/2013,1.96,Consumer
+Furniture,10/2/2013,527.58,Consumer
+Office Supplies,10/2/2013,58.89,Consumer
+Technology,10/2/2013,158.38,Consumer
+Office Supplies,10/3/2013,55.89,Consumer
+Office Supplies,10/3/2013,826.37,Corporate
+Technology,10/3/2013,"18,899.95",Corporate
+Furniture,10/4/2013,629.26,Consumer
+Furniture,10/4/2013,41.13,Corporate
+Furniture,10/4/2013,841.93,Home Office
+Office Supplies,10/4/2013,14.55,Consumer
+Office Supplies,10/4/2013,102.41,Home Office
+Furniture,10/5/2013,258.52,Consumer
+Furniture,10/5/2013,10.3,Corporate
+Office Supplies,10/5/2013,59.15,Consumer
+Office Supplies,10/5/2013,158.47,Home Office
+Technology,10/5/2013,47.94,Corporate
+Technology,10/5/2013,"4,751.92",Home Office
+Office Supplies,10/7/2013,28.85,Consumer
+Office Supplies,10/7/2013,28.39,Home Office
+Technology,10/7/2013,709.94,Home Office
+Office Supplies,10/8/2013,144.3,Consumer
+Office Supplies,10/8/2013,4.44,Home Office
+Technology,10/8/2013,720.34,Corporate
+Furniture,10/9/2013,53.26,Corporate
+Office Supplies,10/9/2013,454.18,Consumer
+Office Supplies,10/9/2013,61.95,Home Office
+Furniture,10/10/2013,286.24,Corporate
+Furniture,10/10/2013,150.92,Home Office
+Office Supplies,10/10/2013,17.03,Corporate
+Office Supplies,10/10/2013,1.53,Home Office
+Technology,10/10/2013,25.65,Corporate
+Furniture,10/11/2013,14.84,Consumer
+Furniture,10/11/2013,188.38,Corporate
+Office Supplies,10/11/2013,17.54,Consumer
+Office Supplies,10/11/2013,24.46,Corporate
+Technology,10/11/2013,14.71,Corporate
+Office Supplies,10/12/2013,30.09,Consumer
+Furniture,10/14/2013,195.85,Consumer
+Furniture,10/14/2013,901.44,Corporate
+Office Supplies,10/14/2013,248.39,Consumer
+Office Supplies,10/14/2013,171.75,Corporate
+Technology,10/14/2013,178.54,Consumer
+Furniture,10/15/2013,89.26,Consumer
+Office Supplies,10/15/2013,158.36,Consumer
+Office Supplies,10/15/2013,118.68,Corporate
+Technology,10/15/2013,"1,421.59",Consumer
+Technology,10/15/2013,"1,205.48",Corporate
+Office Supplies,10/16/2013,298.2,Corporate
+Office Supplies,10/16/2013,"1,233.73",Home Office
+Technology,10/16/2013,5.5,Home Office
+Furniture,10/17/2013,127.96,Corporate
+Furniture,10/18/2013,113.72,Consumer
+Furniture,10/18/2013,132.73,Home Office
+Office Supplies,10/18/2013,331.78,Consumer
+Office Supplies,10/18/2013,"2,120.87",Home Office
+Technology,10/18/2013,400.47,Home Office
+Furniture,10/19/2013,317.16,Consumer
+Furniture,10/21/2013,51.58,Consumer
+Furniture,10/21/2013,379.39,Corporate
+Furniture,10/21/2013,62.32,Home Office
+Office Supplies,10/21/2013,96.98,Consumer
+Office Supplies,10/21/2013,16.79,Corporate
+Technology,10/21/2013,346.27,Consumer
+Furniture,10/22/2013,272.58,Consumer
+Furniture,10/22/2013,"1,841.50",Corporate
+Furniture,10/22/2013,40.56,Home Office
+Office Supplies,10/22/2013,706.58,Consumer
+Office Supplies,10/22/2013,137.54,Corporate
+Office Supplies,10/22/2013,"4,572.41",Home Office
+Technology,10/22/2013,430.6,Consumer
+Furniture,10/23/2013,126.26,Consumer
+Furniture,10/23/2013,27.63,Home Office
+Office Supplies,10/23/2013,14.57,Consumer
+Furniture,10/24/2013,15.19,Corporate
+Office Supplies,10/24/2013,52.62,Corporate
+Office Supplies,10/24/2013,336.98,Home Office
+Office Supplies,10/25/2013,13.84,Corporate
+Technology,10/25/2013,201.99,Consumer
+Technology,10/25/2013,501.38,Corporate
+Technology,10/25/2013,593.38,Home Office
+Technology,10/26/2013,854.52,Corporate
+Furniture,10/28/2013,766.41,Consumer
+Office Supplies,10/28/2013,79.68,Consumer
+Office Supplies,10/28/2013,68.95,Corporate
+Office Supplies,10/28/2013,69.15,Home Office
+Furniture,10/29/2013,257.58,Consumer
+Furniture,10/29/2013,826.06,Corporate
+Office Supplies,10/29/2013,157.55,Consumer
+Office Supplies,10/29/2013,"1,225.93",Corporate
+Technology,10/29/2013,314.47,Consumer
+Furniture,10/30/2013,73.03,Consumer
+Office Supplies,10/30/2013,11.98,Consumer
+Office Supplies,10/30/2013,53.46,Corporate
+Office Supplies,10/31/2013,13.46,Consumer
+Office Supplies,10/31/2013,133.64,Corporate
+Furniture,11/1/2013,522.41,Consumer
+Furniture,11/1/2013,"1,914.72",Corporate
+Office Supplies,11/1/2013,31.1,Consumer
+Office Supplies,11/1/2013,"1,351.02",Corporate
+Office Supplies,11/2/2013,120.61,Corporate
+Office Supplies,11/2/2013,271.93,Home Office
+Technology,11/2/2013,61.98,Consumer
+Technology,11/2/2013,18.75,Home Office
+Furniture,11/4/2013,"1,084.62",Consumer
+Furniture,11/4/2013,493.66,Home Office
+Office Supplies,11/4/2013,"1,732.48",Consumer
+Office Supplies,11/4/2013,8.88,Corporate
+Technology,11/4/2013,236.65,Consumer
+Technology,11/4/2013,76.32,Home Office
+Furniture,11/5/2013,125.04,Consumer
+Furniture,11/5/2013,"1,967.48",Corporate
+Office Supplies,11/5/2013,181.15,Consumer
+Office Supplies,11/5/2013,818.25,Corporate
+Office Supplies,11/5/2013,44.68,Home Office
+Technology,11/5/2013,679.54,Consumer
+Furniture,11/6/2013,"2,727.29",Consumer
+Office Supplies,11/6/2013,232.19,Consumer
+Office Supplies,11/6/2013,225.45,Home Office
+Technology,11/6/2013,862.47,Consumer
+Technology,11/6/2013,22.79,Corporate
+Furniture,11/7/2013,233.81,Corporate
+Furniture,11/7/2013,300.78,Home Office
+Office Supplies,11/7/2013,72.96,Consumer
+Office Supplies,11/7/2013,109.89,Corporate
+Furniture,11/8/2013,48.91,Consumer
+Furniture,11/8/2013,12.89,Corporate
+Furniture,11/8/2013,"1,442.82",Home Office
+Office Supplies,11/8/2013,763.41,Consumer
+Office Supplies,11/8/2013,84.97,Corporate
+Office Supplies,11/8/2013,11.87,Home Office
+Technology,11/8/2013,617.69,Consumer
+Technology,11/8/2013,557.95,Corporate
+Furniture,11/9/2013,"1,023.72",Consumer
+Technology,11/10/2013,460.77,Consumer
+Furniture,11/11/2013,817.51,Consumer
+Furniture,11/11/2013,31.71,Corporate
+Furniture,11/11/2013,170.93,Home Office
+Office Supplies,11/11/2013,"1,182.91",Consumer
+Office Supplies,11/11/2013,404.46,Corporate
+Office Supplies,11/11/2013,518.44,Home Office
+Technology,11/11/2013,"1,439.21",Consumer
+Technology,11/11/2013,187.75,Home Office
+Furniture,11/12/2013,525.08,Consumer
+Furniture,11/12/2013,"2,526.69",Corporate
+Office Supplies,11/12/2013,114.79,Consumer
+Office Supplies,11/12/2013,185.96,Corporate
+Office Supplies,11/12/2013,695.06,Home Office
+Technology,11/12/2013,317.95,Consumer
+Technology,11/12/2013,124.05,Corporate
+Furniture,11/13/2013,"3,738.15",Consumer
+Furniture,11/13/2013,22.98,Corporate
+Furniture,11/13/2013,728.3,Home Office
+Office Supplies,11/13/2013,119.61,Consumer
+Office Supplies,11/13/2013,325.67,Corporate
+Technology,11/13/2013,29.11,Consumer
+Technology,11/13/2013,189.7,Home Office
+Furniture,11/14/2013,30.06,Corporate
+Furniture,11/14/2013,20.4,Home Office
+Office Supplies,11/14/2013,45.88,Consumer
+Office Supplies,11/14/2013,251.83,Corporate
+Office Supplies,11/14/2013,265.19,Home Office
+Technology,11/14/2013,"2,485.16",Home Office
+Furniture,11/15/2013,925.08,Consumer
+Office Supplies,11/15/2013,96.56,Consumer
+Technology,11/15/2013,"1,533.32",Consumer
+Furniture,11/16/2013,680.43,Corporate
+Office Supplies,11/16/2013,"1,023.28",Consumer
+Technology,11/16/2013,410.08,Corporate
+Office Supplies,11/17/2013,40.39,Consumer
+Office Supplies,11/18/2013,22.37,Consumer
+Office Supplies,11/18/2013,45.54,Home Office
+Technology,11/18/2013,57.77,Consumer
+Furniture,11/19/2013,308,Consumer
+Furniture,11/19/2013,239.8,Home Office
+Office Supplies,11/19/2013,63.56,Consumer
+Office Supplies,11/19/2013,105.01,Corporate
+Office Supplies,11/19/2013,"1,386.69",Home Office
+Technology,11/19/2013,547.4,Consumer
+Technology,11/19/2013,"1,240.76",Corporate
+Technology,11/19/2013,67.31,Home Office
+Furniture,11/20/2013,2.07,Consumer
+Furniture,11/20/2013,28.44,Corporate
+Office Supplies,11/20/2013,446.68,Consumer
+Office Supplies,11/20/2013,54.41,Corporate
+Office Supplies,11/20/2013,35.34,Home Office
+Technology,11/20/2013,76.28,Consumer
+Furniture,11/21/2013,633.52,Corporate
+Furniture,11/21/2013,80.01,Home Office
+Office Supplies,11/21/2013,151.16,Consumer
+Office Supplies,11/21/2013,382.82,Corporate
+Office Supplies,11/21/2013,36.46,Home Office
+Technology,11/21/2013,"1,096.12",Consumer
+Technology,11/21/2013,344.14,Corporate
+Technology,11/21/2013,225.27,Home Office
+Furniture,11/22/2013,384.62,Consumer
+Furniture,11/22/2013,104.48,Home Office
+Office Supplies,11/22/2013,73.69,Consumer
+Office Supplies,11/22/2013,63.39,Corporate
+Technology,11/22/2013,104.09,Consumer
+Technology,11/22/2013,392.79,Corporate
+Furniture,11/23/2013,42.67,Corporate
+Office Supplies,11/23/2013,80.7,Consumer
+Office Supplies,11/23/2013,31.69,Corporate
+Office Supplies,11/23/2013,126.22,Home Office
+Technology,11/23/2013,22.35,Consumer
+Furniture,11/24/2013,85.66,Corporate
+Office Supplies,11/24/2013,15.96,Corporate
+Furniture,11/25/2013,"1,911.44",Corporate
+Furniture,11/25/2013,427.8,Home Office
+Office Supplies,11/25/2013,"1,287.34",Consumer
+Office Supplies,11/25/2013,119.73,Home Office
+Technology,11/25/2013,"1,161.29",Consumer
+Technology,11/25/2013,"1,171.03",Corporate
+Technology,11/25/2013,163.07,Home Office
+Furniture,11/26/2013,176.86,Consumer
+Furniture,11/26/2013,"1,631.35",Corporate
+Office Supplies,11/26/2013,535.25,Consumer
+Office Supplies,11/26/2013,580.7,Corporate
+Office Supplies,11/26/2013,4.98,Home Office
+Technology,11/26/2013,"4,342.74",Consumer
+Technology,11/26/2013,451.12,Corporate
+Furniture,11/27/2013,"4,242.17",Consumer
+Furniture,11/27/2013,344.49,Corporate
+Office Supplies,11/27/2013,212.66,Consumer
+Office Supplies,11/27/2013,187.42,Corporate
+Office Supplies,11/27/2013,18.47,Home Office
+Technology,11/27/2013,514.78,Consumer
+Technology,11/27/2013,"2,584.00",Corporate
+Technology,11/27/2013,64.77,Home Office
+Furniture,11/28/2013,294.61,Consumer
+Furniture,11/28/2013,31.88,Corporate
+Office Supplies,11/28/2013,339.04,Consumer
+Office Supplies,11/28/2013,442.31,Corporate
+Technology,11/28/2013,380.98,Consumer
+Technology,11/28/2013,87.62,Corporate
+Furniture,11/29/2013,514.56,Corporate
+Office Supplies,11/29/2013,7.52,Consumer
+Office Supplies,11/29/2013,"2,326.42",Corporate
+Technology,11/29/2013,450.72,Corporate
+Furniture,11/30/2013,263.97,Home Office
+Technology,11/30/2013,53.16,Corporate
+Furniture,12/1/2013,343.17,Consumer
+Office Supplies,12/1/2013,478.7,Consumer
+Technology,12/1/2013,36.19,Consumer
+Furniture,12/2/2013,"1,556.99",Consumer
+Furniture,12/2/2013,27.81,Home Office
+Office Supplies,12/2/2013,999.39,Consumer
+Office Supplies,12/2/2013,"2,341.75",Corporate
+Office Supplies,12/2/2013,"1,029.87",Home Office
+Technology,12/2/2013,"1,300.02",Consumer
+Furniture,12/3/2013,764.53,Corporate
+Furniture,12/3/2013,76.04,Home Office
+Office Supplies,12/3/2013,666.18,Consumer
+Office Supplies,12/3/2013,348.65,Corporate
+Office Supplies,12/3/2013,"2,079.40",Home Office
+Technology,12/3/2013,172.22,Corporate
+Technology,12/3/2013,535.46,Home Office
+Furniture,12/4/2013,"2,183.71",Consumer
+Office Supplies,12/4/2013,"1,286.71",Consumer
+Technology,12/4/2013,"1,781.95",Consumer
+Furniture,12/5/2013,122.89,Consumer
+Office Supplies,12/5/2013,550.26,Consumer
+Office Supplies,12/5/2013,217.14,Corporate
+Technology,12/5/2013,72.68,Consumer
+Furniture,12/6/2013,187.98,Consumer
+Furniture,12/6/2013,"1,842.46",Corporate
+Office Supplies,12/6/2013,"1,283.02",Consumer
+Office Supplies,12/6/2013,316.06,Corporate
+Office Supplies,12/6/2013,37.83,Home Office
+Technology,12/6/2013,678.98,Consumer
+Technology,12/6/2013,454.26,Corporate
+Office Supplies,12/7/2013,540.04,Consumer
+Office Supplies,12/7/2013,"1,137.90",Corporate
+Office Supplies,12/7/2013,427.21,Home Office
+Technology,12/7/2013,535.78,Consumer
+Technology,12/7/2013,470.38,Corporate
+Technology,12/7/2013,495.47,Home Office
+Furniture,12/9/2013,"1,183.60",Consumer
+Furniture,12/9/2013,"1,467.45",Corporate
+Office Supplies,12/9/2013,336.19,Consumer
+Office Supplies,12/9/2013,51.22,Corporate
+Office Supplies,12/9/2013,25.42,Home Office
+Technology,12/9/2013,354.31,Consumer
+Technology,12/9/2013,"1,066.99",Corporate
+Furniture,12/10/2013,"1,151.98",Consumer
+Furniture,12/10/2013,74.38,Corporate
+Office Supplies,12/10/2013,178.35,Consumer
+Office Supplies,12/10/2013,368.29,Corporate
+Technology,12/10/2013,122.72,Consumer
+Technology,12/10/2013,18.85,Corporate
+Furniture,12/11/2013,"1,554.36",Consumer
+Office Supplies,12/11/2013,"1,625.24",Consumer
+Office Supplies,12/11/2013,64.08,Corporate
+Office Supplies,12/11/2013,86.76,Home Office
+Technology,12/11/2013,42.07,Consumer
+Furniture,12/12/2013,"1,369.10",Consumer
+Furniture,12/12/2013,857.95,Corporate
+Furniture,12/12/2013,387.76,Home Office
+Office Supplies,12/12/2013,798.5,Consumer
+Office Supplies,12/12/2013,609.85,Corporate
+Technology,12/12/2013,502.69,Consumer
+Technology,12/12/2013,"1,401.08",Corporate
+Furniture,12/13/2013,375.97,Consumer
+Furniture,12/13/2013,56.13,Corporate
+Furniture,12/13/2013,30.13,Home Office
+Office Supplies,12/13/2013,91.91,Consumer
+Office Supplies,12/13/2013,66.07,Corporate
+Office Supplies,12/13/2013,41.98,Home Office
+Technology,12/13/2013,234.95,Consumer
+Technology,12/13/2013,330.2,Corporate
+Technology,12/13/2013,631.61,Home Office
+Furniture,12/14/2013,"1,047.42",Corporate
+Office Supplies,12/14/2013,9.35,Consumer
+Office Supplies,12/14/2013,5.49,Corporate
+Technology,12/14/2013,59.41,Corporate
+Furniture,12/15/2013,477.27,Consumer
+Furniture,12/15/2013,81.42,Corporate
+Office Supplies,12/15/2013,78.02,Consumer
+Office Supplies,12/15/2013,141.54,Corporate
+Furniture,12/16/2013,15.79,Consumer
+Furniture,12/16/2013,"1,636.41",Corporate
+Furniture,12/16/2013,485.21,Home Office
+Office Supplies,12/16/2013,2.08,Consumer
+Office Supplies,12/16/2013,272.66,Corporate
+Office Supplies,12/16/2013,106.61,Home Office
+Furniture,12/17/2013,507.53,Consumer
+Office Supplies,12/17/2013,37.35,Consumer
+Office Supplies,12/17/2013,3.13,Corporate
+Technology,12/17/2013,20.15,Home Office
+Furniture,12/18/2013,"1,983.48",Consumer
+Office Supplies,12/18/2013,"10,783.09",Consumer
+Office Supplies,12/18/2013,73.67,Corporate
+Office Supplies,12/18/2013,40.48,Home Office
+Technology,12/18/2013,180.5,Corporate
+Furniture,12/19/2013,39.92,Consumer
+Furniture,12/19/2013,188.49,Corporate
+Furniture,12/19/2013,894.32,Home Office
+Office Supplies,12/19/2013,"4,128.00",Corporate
+Office Supplies,12/19/2013,951.93,Home Office
+Technology,12/19/2013,802.85,Consumer
+Technology,12/19/2013,61.62,Corporate
+Technology,12/19/2013,154.19,Home Office
+Furniture,12/20/2013,310,Consumer
+Furniture,12/20/2013,483.33,Corporate
+Office Supplies,12/20/2013,60.19,Corporate
+Furniture,12/21/2013,17.41,Home Office
+Office Supplies,12/21/2013,34.24,Consumer
+Office Supplies,12/21/2013,14.34,Home Office
+Technology,12/21/2013,62.99,Consumer
+Furniture,12/23/2013,946.88,Consumer
+Office Supplies,12/23/2013,61.46,Consumer
+Office Supplies,12/23/2013,54.25,Home Office
+Technology,12/23/2013,12.25,Home Office
+Furniture,12/24/2013,833.37,Consumer
+Furniture,12/24/2013,137.95,Corporate
+Office Supplies,12/24/2013,5.33,Consumer
+Office Supplies,12/24/2013,"1,718.09",Corporate
+Office Supplies,12/24/2013,8.29,Home Office
+Technology,12/24/2013,"3,131.89",Corporate
+Technology,12/24/2013,"1,544.97",Home Office
+Furniture,12/25/2013,792.91,Consumer
+Office Supplies,12/25/2013,38.57,Consumer
+Office Supplies,12/25/2013,35.4,Corporate
+Office Supplies,12/25/2013,573.61,Home Office
+Technology,12/25/2013,186.09,Corporate
+Technology,12/25/2013,245.45,Home Office
+Furniture,12/26/2013,"5,727.18",Consumer
+Furniture,12/26/2013,"1,194.45",Corporate
+Office Supplies,12/26/2013,175.76,Consumer
+Office Supplies,12/26/2013,47.17,Corporate
+Technology,12/26/2013,355.98,Consumer
+Technology,12/26/2013,"2,986.39",Corporate
+Furniture,12/27/2013,"1,173.66",Corporate
+Office Supplies,12/27/2013,41.16,Consumer
+Office Supplies,12/27/2013,111.66,Corporate
+Technology,12/27/2013,86.37,Consumer
+Technology,12/27/2013,287.26,Corporate
+Furniture,12/28/2013,760.94,Corporate
+Office Supplies,12/28/2013,31.89,Consumer
+Office Supplies,12/28/2013,39.21,Home Office
+Technology,12/28/2013,35.2,Consumer
+Furniture,12/30/2013,775.51,Consumer
+Office Supplies,12/30/2013,317.61,Consumer
+Office Supplies,12/30/2013,37.62,Corporate
+Office Supplies,12/30/2013,65.26,Home Office
+Furniture,12/31/2013,184.45,Consumer
+Office Supplies,12/31/2013,101.02,Consumer
+Office Supplies,12/31/2013,20.63,Corporate
+Office Supplies,12/31/2013,521.84,Home Office
+Office Supplies,1/1/2014,247.37,Consumer
+Office Supplies,1/1/2014,145.43,Corporate
+Technology,1/1/2014,332.61,Consumer
+Furniture,1/2/2014,907.21,Consumer
+Office Supplies,1/2/2014,542.96,Consumer
+Office Supplies,1/2/2014,3.46,Home Office
+Furniture,1/3/2014,959.1,Consumer
+Office Supplies,1/3/2014,442.07,Consumer
+Office Supplies,1/3/2014,41.84,Corporate
+Technology,1/3/2014,626.82,Corporate
+Office Supplies,1/4/2014,"2,090.97",Consumer
+Office Supplies,1/7/2014,31.04,Home Office
+Office Supplies,1/8/2014,305.4,Consumer
+Technology,1/8/2014,"3,365.98",Corporate
+Furniture,1/9/2014,982.28,Corporate
+Office Supplies,1/10/2014,285.47,Consumer
+Furniture,1/13/2014,38.43,Home Office
+Office Supplies,1/13/2014,670.56,Corporate
+Office Supplies,1/13/2014,42.89,Home Office
+Furniture,1/14/2014,202.29,Corporate
+Office Supplies,1/14/2014,"3,921.69",Corporate
+Furniture,1/15/2014,18.39,Home Office
+Office Supplies,1/15/2014,230.16,Consumer
+Office Supplies,1/15/2014,166.94,Corporate
+Office Supplies,1/15/2014,105.02,Home Office
+Technology,1/15/2014,110.31,Consumer
+Technology,1/15/2014,163.99,Corporate
+Technology,1/15/2014,215.75,Home Office
+Office Supplies,1/16/2014,"2,209.13",Consumer
+Office Supplies,1/16/2014,22.04,Home Office
+Technology,1/16/2014,110.58,Consumer
+Furniture,1/17/2014,314.78,Consumer
+Furniture,1/17/2014,423.32,Corporate
+Office Supplies,1/17/2014,"5,555.03",Consumer
+Furniture,1/20/2014,845.7,Consumer
+Office Supplies,1/20/2014,631.63,Consumer
+Technology,1/20/2014,468.26,Consumer
+Furniture,1/21/2014,189.14,Corporate
+Office Supplies,1/21/2014,35.32,Consumer
+Technology,1/21/2014,453.05,Consumer
+Furniture,1/22/2014,79.88,Home Office
+Office Supplies,1/22/2014,252.46,Consumer
+Office Supplies,1/22/2014,938.61,Home Office
+Technology,1/22/2014,"1,184.29",Home Office
+Office Supplies,1/23/2014,20.92,Corporate
+Office Supplies,1/23/2014,"1,308.37",Home Office
+Technology,1/23/2014,"2,579.96",Home Office
+Furniture,1/24/2014,189.88,Corporate
+Office Supplies,1/24/2014,48.43,Corporate
+Office Supplies,1/24/2014,4.35,Home Office
+Technology,1/24/2014,81.17,Corporate
+Technology,1/24/2014,82.55,Home Office
+Office Supplies,1/25/2014,4.93,Consumer
+Office Supplies,1/25/2014,260.27,Corporate
+Technology,1/25/2014,101.52,Corporate
+Furniture,1/27/2014,62.72,Consumer
+Office Supplies,1/27/2014,27.6,Consumer
+Office Supplies,1/27/2014,21.72,Corporate
+Technology,1/27/2014,"2,851.73",Consumer
+Office Supplies,1/28/2014,13.46,Consumer
+Technology,1/28/2014,286.11,Consumer
+Furniture,1/29/2014,41.51,Home Office
+Office Supplies,1/29/2014,249.11,Consumer
+Technology,1/29/2014,696.78,Home Office
+Furniture,1/30/2014,14.31,Consumer
+Office Supplies,1/30/2014,291.13,Consumer
+Furniture,1/31/2014,425,Consumer
+Furniture,1/31/2014,33.2,Corporate
+Furniture,1/31/2014,107.5,Home Office
+Office Supplies,1/31/2014,178.84,Consumer
+Office Supplies,1/31/2014,89.76,Corporate
+Office Supplies,1/31/2014,18.76,Home Office
+Technology,1/31/2014,"1,923.04",Consumer
+Technology,1/31/2014,182.16,Corporate
+Technology,1/31/2014,628.96,Home Office
+Furniture,2/3/2014,78.5,Consumer
+Furniture,2/3/2014,216.9,Corporate
+Office Supplies,2/3/2014,165.4,Consumer
+Office Supplies,2/3/2014,111.11,Corporate
+Technology,2/3/2014,308.95,Corporate
+Furniture,2/4/2014,19.09,Home Office
+Office Supplies,2/4/2014,348.47,Consumer
+Office Supplies,2/4/2014,436.25,Home Office
+Office Supplies,2/5/2014,29.73,Consumer
+Office Supplies,2/6/2014,253.62,Consumer
+Office Supplies,2/6/2014,"1,640.70",Corporate
+Technology,2/6/2014,371.2,Corporate
+Furniture,2/7/2014,552.69,Consumer
+Office Supplies,2/7/2014,40.23,Corporate
+Office Supplies,2/7/2014,32.59,Home Office
+Technology,2/7/2014,206.99,Corporate
+Furniture,2/10/2014,4.06,Consumer
+Furniture,2/10/2014,20.06,Corporate
+Office Supplies,2/10/2014,664.12,Consumer
+Technology,2/10/2014,110.07,Consumer
+Furniture,2/11/2014,177.47,Home Office
+Office Supplies,2/11/2014,24.04,Consumer
+Furniture,2/12/2014,147.57,Consumer
+Furniture,2/12/2014,"1,040.19",Corporate
+Office Supplies,2/12/2014,39.09,Corporate
+Technology,2/12/2014,88.78,Corporate
+Furniture,2/14/2014,109.68,Consumer
+Office Supplies,2/14/2014,126.35,Consumer
+Office Supplies,2/14/2014,19.2,Corporate
+Technology,2/14/2014,863.96,Consumer
+Furniture,2/17/2014,553.51,Consumer
+Office Supplies,2/17/2014,125.26,Consumer
+Office Supplies,2/17/2014,492.58,Corporate
+Technology,2/17/2014,16.19,Corporate
+Furniture,2/18/2014,"1,994.68",Home Office
+Office Supplies,2/18/2014,366.55,Home Office
+Technology,2/18/2014,27.7,Consumer
+Technology,2/18/2014,608.31,Home Office
+Office Supplies,2/19/2014,10.7,Corporate
+Technology,2/19/2014,305.26,Corporate
+Furniture,2/20/2014,48.69,Home Office
+Office Supplies,2/20/2014,10.66,Consumer
+Office Supplies,2/20/2014,"1,121.27",Corporate
+Office Supplies,2/20/2014,14,Home Office
+Furniture,2/21/2014,23.79,Corporate
+Furniture,2/21/2014,391.83,Home Office
+Office Supplies,2/21/2014,9.24,Corporate
+Office Supplies,2/21/2014,80.66,Home Office
+Technology,2/21/2014,224.61,Corporate
+Technology,2/21/2014,321.7,Home Office
+Technology,2/22/2014,43.59,Consumer
+Office Supplies,2/24/2014,40.06,Consumer
+Office Supplies,2/24/2014,7.31,Corporate
+Technology,2/24/2014,61.89,Corporate
+Office Supplies,2/25/2014,4.46,Consumer
+Office Supplies,2/25/2014,115.25,Corporate
+Technology,2/25/2014,"1,148.23",Corporate
+Furniture,2/26/2014,463,Consumer
+Office Supplies,2/26/2014,1.68,Consumer
+Furniture,2/27/2014,95.64,Consumer
+Furniture,2/27/2014,856.54,Home Office
+Office Supplies,2/27/2014,328.43,Consumer
+Office Supplies,2/27/2014,289.48,Home Office
+Technology,2/27/2014,250.82,Consumer
+Technology,2/27/2014,853.95,Home Office
+Office Supplies,3/1/2014,15.15,Consumer
+Furniture,3/3/2014,481.74,Corporate
+Office Supplies,3/3/2014,16.68,Consumer
+Office Supplies,3/3/2014,291.02,Corporate
+Technology,3/3/2014,649.65,Corporate
+Furniture,3/4/2014,375.93,Consumer
+Furniture,3/4/2014,435.64,Corporate
+Office Supplies,3/4/2014,93.7,Consumer
+Technology,3/4/2014,"1,114.94",Consumer
+Furniture,3/5/2014,112.82,Home Office
+Office Supplies,3/5/2014,91.36,Consumer
+Office Supplies,3/5/2014,21.87,Corporate
+Office Supplies,3/5/2014,11.3,Home Office
+Office Supplies,3/6/2014,416.8,Consumer
+Office Supplies,3/6/2014,528.49,Corporate
+Technology,3/6/2014,311.97,Corporate
+Furniture,3/7/2014,74.85,Consumer
+Office Supplies,3/7/2014,91,Consumer
+Office Supplies,3/7/2014,63.04,Corporate
+Office Supplies,3/7/2014,357.54,Home Office
+Technology,3/7/2014,191.94,Home Office
+Office Supplies,3/8/2014,104.58,Consumer
+Technology,3/8/2014,42.7,Home Office
+Office Supplies,3/9/2014,151.87,Consumer
+Office Supplies,3/9/2014,722.02,Corporate
+Office Supplies,3/10/2014,26.21,Consumer
+Technology,3/10/2014,431.99,Consumer
+Technology,3/10/2014,215.98,Corporate
+Furniture,3/11/2014,868.07,Consumer
+Furniture,3/11/2014,51.07,Home Office
+Office Supplies,3/11/2014,60.02,Corporate
+Office Supplies,3/11/2014,5.3,Home Office
+Technology,3/11/2014,49.66,Consumer
+Technology,3/11/2014,99.64,Corporate
+Technology,3/11/2014,39.5,Home Office
+Furniture,3/12/2014,163.34,Home Office
+Office Supplies,3/12/2014,940.72,Consumer
+Office Supplies,3/12/2014,54.46,Home Office
+Technology,3/12/2014,832.32,Home Office
+Office Supplies,3/13/2014,37.58,Consumer
+Office Supplies,3/13/2014,250.23,Corporate
+Technology,3/13/2014,62.24,Corporate
+Furniture,3/14/2014,92.46,Home Office
+Office Supplies,3/14/2014,"2,172.05",Consumer
+Office Supplies,3/14/2014,739.42,Home Office
+Technology,3/14/2014,266.91,Consumer
+Technology,3/14/2014,8.55,Corporate
+Technology,3/14/2014,"1,326.01",Home Office
+Technology,3/15/2014,43.66,Corporate
+Furniture,3/17/2014,50.75,Consumer
+Office Supplies,3/17/2014,51.69,Consumer
+Office Supplies,3/17/2014,562.57,Corporate
+Office Supplies,3/17/2014,46.63,Home Office
+Technology,3/17/2014,175.75,Consumer
+Technology,3/17/2014,"1,171.74",Home Office
+Office Supplies,3/18/2014,233.84,Consumer
+Office Supplies,3/18/2014,26.08,Home Office
+Technology,3/18/2014,243.39,Consumer
+Furniture,3/19/2014,70.97,Consumer
+Office Supplies,3/19/2014,217.36,Consumer
+Office Supplies,3/19/2014,108.02,Corporate
+Technology,3/19/2014,503.17,Consumer
+Furniture,3/20/2014,757.21,Consumer
+Office Supplies,3/20/2014,60.09,Consumer
+Office Supplies,3/20/2014,359.08,Corporate
+Office Supplies,3/20/2014,28.91,Home Office
+Technology,3/20/2014,"1,004.85",Consumer
+Furniture,3/21/2014,2.97,Consumer
+Office Supplies,3/21/2014,353.46,Consumer
+Technology,3/21/2014,238,Consumer
+Technology,3/21/2014,284.55,Corporate
+Furniture,3/22/2014,"1,823.94",Consumer
+Furniture,3/22/2014,19.26,Home Office
+Office Supplies,3/22/2014,964.7,Consumer
+Office Supplies,3/22/2014,57.3,Corporate
+Office Supplies,3/22/2014,362.62,Home Office
+Furniture,3/24/2014,222.43,Home Office
+Office Supplies,3/24/2014,230.81,Consumer
+Office Supplies,3/24/2014,361.48,Corporate
+Office Supplies,3/24/2014,35.8,Home Office
+Technology,3/24/2014,"14,699.96",Consumer
+Furniture,3/25/2014,258.18,Consumer
+Furniture,3/25/2014,214.08,Corporate
+Office Supplies,3/25/2014,304.23,Corporate
+Technology,3/25/2014,446.39,Corporate
+Furniture,3/26/2014,"1,986.52",Corporate
+Office Supplies,3/26/2014,399.84,Consumer
+Office Supplies,3/26/2014,22.41,Corporate
+Technology,3/26/2014,"1,115.07",Consumer
+Furniture,3/27/2014,275.6,Consumer
+Furniture,3/27/2014,66.92,Corporate
+Office Supplies,3/27/2014,213.13,Corporate
+Office Supplies,3/27/2014,21.47,Home Office
+Technology,3/27/2014,118.76,Consumer
+Technology,3/27/2014,"2,620.24",Corporate
+Technology,3/27/2014,48.46,Home Office
+Furniture,3/28/2014,"2,163.67",Consumer
+Office Supplies,3/28/2014,342.71,Consumer
+Office Supplies,3/28/2014,171.95,Home Office
+Technology,3/28/2014,236.25,Consumer
+Furniture,3/29/2014,47.08,Corporate
+Office Supplies,3/29/2014,923.94,Corporate
+Technology,3/29/2014,463.47,Corporate
+Office Supplies,3/30/2014,81.4,Consumer
+Furniture,3/31/2014,87.61,Consumer
+Office Supplies,3/31/2014,368.04,Consumer
+Office Supplies,3/31/2014,55.58,Home Office
+Technology,3/31/2014,151.61,Consumer
+Furniture,4/1/2014,31.27,Consumer
+Furniture,4/1/2014,184.8,Corporate
+Furniture,4/1/2014,51.85,Home Office
+Office Supplies,4/1/2014,83.2,Consumer
+Office Supplies,4/1/2014,137.68,Corporate
+Technology,4/1/2014,648.15,Consumer
+Technology,4/1/2014,"2,549.96",Corporate
+Technology,4/1/2014,658.49,Home Office
+Furniture,4/2/2014,903.57,Corporate
+Office Supplies,4/2/2014,301.78,Consumer
+Office Supplies,4/2/2014,29.51,Corporate
+Technology,4/2/2014,"4,968.68",Corporate
+Furniture,4/3/2014,27.62,Consumer
+Furniture,4/3/2014,350.03,Home Office
+Office Supplies,4/3/2014,16.14,Consumer
+Office Supplies,4/3/2014,10.23,Home Office
+Technology,4/3/2014,385.2,Home Office
+Furniture,4/4/2014,24.71,Consumer
+Office Supplies,4/4/2014,6.49,Consumer
+Office Supplies,4/5/2014,253.81,Home Office
+Technology,4/5/2014,376.16,Consumer
+Technology,4/5/2014,152.23,Home Office
+Office Supplies,4/7/2014,8.42,Corporate
+Office Supplies,4/7/2014,106.32,Home Office
+Furniture,4/8/2014,"1,001.29",Home Office
+Office Supplies,4/8/2014,21.8,Home Office
+Technology,4/8/2014,820.42,Home Office
+Furniture,4/9/2014,567.05,Corporate
+Office Supplies,4/9/2014,"2,502.60",Corporate
+Office Supplies,4/9/2014,"3,288.99",Home Office
+Office Supplies,4/10/2014,686.19,Consumer
+Office Supplies,4/10/2014,109.69,Corporate
+Office Supplies,4/10/2014,821.66,Home Office
+Furniture,4/11/2014,38.14,Consumer
+Furniture,4/11/2014,12.94,Corporate
+Office Supplies,4/11/2014,207.53,Consumer
+Office Supplies,4/11/2014,4.46,Corporate
+Office Supplies,4/11/2014,258.79,Home Office
+Technology,4/11/2014,97.65,Consumer
+Technology,4/11/2014,96.99,Home Office
+Office Supplies,4/12/2014,87.07,Consumer
+Office Supplies,4/12/2014,10.68,Home Office
+Technology,4/12/2014,238.42,Consumer
+Office Supplies,4/13/2014,76.63,Consumer
+Furniture,4/14/2014,388.67,Corporate
+Office Supplies,4/14/2014,927.3,Corporate
+Furniture,4/15/2014,259.32,Consumer
+Furniture,4/15/2014,264.54,Corporate
+Office Supplies,4/15/2014,130.39,Consumer
+Office Supplies,4/15/2014,9.2,Home Office
+Furniture,4/16/2014,178.77,Corporate
+Office Supplies,4/16/2014,18.81,Consumer
+Office Supplies,4/16/2014,98.5,Corporate
+Office Supplies,4/16/2014,21.77,Home Office
+Furniture,4/17/2014,97.69,Consumer
+Office Supplies,4/17/2014,286.74,Consumer
+Office Supplies,4/17/2014,448.61,Corporate
+Office Supplies,4/17/2014,59.55,Home Office
+Technology,4/17/2014,27.54,Corporate
+Furniture,4/18/2014,270.3,Consumer
+Office Supplies,4/18/2014,64.6,Consumer
+Office Supplies,4/18/2014,179.53,Corporate
+Office Supplies,4/18/2014,59.52,Home Office
+Technology,4/18/2014,272.14,Consumer
+Technology,4/18/2014,"2,804.98",Home Office
+Furniture,4/21/2014,328.3,Consumer
+Furniture,4/21/2014,84.94,Corporate
+Furniture,4/21/2014,37.74,Home Office
+Office Supplies,4/21/2014,213.12,Consumer
+Office Supplies,4/21/2014,357.16,Corporate
+Office Supplies,4/21/2014,908.68,Home Office
+Technology,4/21/2014,134.62,Home Office
+Furniture,4/22/2014,942.85,Consumer
+Office Supplies,4/22/2014,108.04,Consumer
+Office Supplies,4/22/2014,20.74,Corporate
+Technology,4/22/2014,10.85,Consumer
+Technology,4/22/2014,49.42,Corporate
+Furniture,4/23/2014,19.01,Consumer
+Furniture,4/23/2014,267.07,Home Office
+Office Supplies,4/23/2014,735.82,Consumer
+Furniture,4/24/2014,109.32,Consumer
+Furniture,4/24/2014,423.23,Home Office
+Office Supplies,4/24/2014,448.12,Consumer
+Office Supplies,4/24/2014,15.74,Corporate
+Office Supplies,4/24/2014,3,Home Office
+Technology,4/24/2014,144.47,Consumer
+Technology,4/24/2014,47.68,Home Office
+Office Supplies,4/25/2014,74.89,Consumer
+Office Supplies,4/25/2014,241.49,Corporate
+Office Supplies,4/25/2014,1.54,Home Office
+Technology,4/25/2014,485.76,Consumer
+Technology,4/25/2014,62.98,Corporate
+Furniture,4/26/2014,376.03,Consumer
+Office Supplies,4/26/2014,125.56,Consumer
+Office Supplies,4/26/2014,119.87,Home Office
+Technology,4/26/2014,97.17,Consumer
+Furniture,4/27/2014,2.13,Consumer
+Office Supplies,4/27/2014,57.83,Home Office
+Furniture,4/28/2014,120.04,Consumer
+Furniture,4/28/2014,202.64,Corporate
+Office Supplies,4/28/2014,163.41,Consumer
+Office Supplies,4/28/2014,31.46,Corporate
+Office Supplies,4/29/2014,27.8,Consumer
+Office Supplies,4/29/2014,13.4,Corporate
+Technology,4/29/2014,744.46,Consumer
+Furniture,4/30/2014,"1,058.83",Corporate
+Office Supplies,4/30/2014,4.17,Consumer
+Furniture,5/1/2014,92.19,Corporate
+Furniture,5/1/2014,242.77,Home Office
+Office Supplies,5/1/2014,14.52,Consumer
+Office Supplies,5/1/2014,128.92,Corporate
+Office Supplies,5/1/2014,278.2,Home Office
+Technology,5/1/2014,707.15,Corporate
+Furniture,5/2/2014,"3,443.80",Consumer
+Office Supplies,5/2/2014,8.25,Consumer
+Technology,5/2/2014,45.48,Home Office
+Furniture,5/3/2014,131.23,Corporate
+Office Supplies,5/3/2014,94.27,Consumer
+Technology,5/3/2014,161.16,Corporate
+Furniture,5/4/2014,357.21,Corporate
+Office Supplies,5/4/2014,53.28,Consumer
+Office Supplies,5/4/2014,810.45,Corporate
+Furniture,5/5/2014,327.99,Corporate
+Office Supplies,5/5/2014,752.79,Consumer
+Office Supplies,5/5/2014,30.38,Corporate
+Technology,5/5/2014,176.6,Corporate
+Furniture,5/6/2014,96.29,Consumer
+Office Supplies,5/6/2014,59.42,Consumer
+Office Supplies,5/6/2014,31.05,Corporate
+Furniture,5/7/2014,667.11,Corporate
+Office Supplies,5/7/2014,574.39,Consumer
+Office Supplies,5/7/2014,674.02,Corporate
+Office Supplies,5/7/2014,6.66,Home Office
+Technology,5/7/2014,802.75,Consumer
+Technology,5/7/2014,416.92,Home Office
+Furniture,5/8/2014,"1,667.78",Corporate
+Office Supplies,5/8/2014,74.33,Corporate
+Technology,5/8/2014,453.54,Consumer
+Technology,5/8/2014,83.19,Home Office
+Furniture,5/9/2014,52.79,Consumer
+Furniture,5/9/2014,112.69,Corporate
+Office Supplies,5/9/2014,80.27,Consumer
+Office Supplies,5/9/2014,38.15,Corporate
+Technology,5/9/2014,"3,091.16",Home Office
+Furniture,5/10/2014,192.51,Corporate
+Furniture,5/10/2014,315.54,Home Office
+Office Supplies,5/10/2014,70.45,Corporate
+Office Supplies,5/10/2014,287.24,Home Office
+Technology,5/10/2014,177.98,Home Office
+Furniture,5/12/2014,186.88,Corporate
+Furniture,5/12/2014,7.28,Home Office
+Office Supplies,5/12/2014,158.03,Consumer
+Office Supplies,5/12/2014,89.97,Home Office
+Furniture,5/13/2014,46.71,Consumer
+Furniture,5/13/2014,299.75,Corporate
+Office Supplies,5/13/2014,126,Consumer
+Office Supplies,5/13/2014,453.38,Corporate
+Office Supplies,5/13/2014,10.17,Home Office
+Technology,5/13/2014,77.79,Consumer
+Furniture,5/14/2014,412.59,Home Office
+Office Supplies,5/14/2014,"1,645.36",Corporate
+Office Supplies,5/14/2014,372.32,Home Office
+Technology,5/14/2014,546.81,Corporate
+Furniture,5/15/2014,945.24,Consumer
+Furniture,5/15/2014,269.82,Corporate
+Office Supplies,5/15/2014,350.1,Consumer
+Office Supplies,5/15/2014,570.83,Corporate
+Technology,5/15/2014,"1,967.37",Consumer
+Technology,5/15/2014,79.17,Corporate
+Furniture,5/16/2014,270.15,Consumer
+Office Supplies,5/16/2014,83.94,Consumer
+Technology,5/16/2014,44.78,Consumer
+Office Supplies,5/17/2014,207.76,Consumer
+Furniture,5/19/2014,14.56,Consumer
+Furniture,5/19/2014,304.52,Corporate
+Office Supplies,5/19/2014,2.87,Consumer
+Office Supplies,5/19/2014,129.61,Corporate
+Office Supplies,5/19/2014,652.54,Home Office
+Technology,5/19/2014,384.56,Consumer
+Technology,5/19/2014,84.38,Corporate
+Technology,5/19/2014,97.71,Home Office
+Furniture,5/20/2014,"1,400.79",Consumer
+Furniture,5/20/2014,314.35,Corporate
+Furniture,5/20/2014,667.78,Home Office
+Office Supplies,5/20/2014,638.94,Consumer
+Office Supplies,5/20/2014,388.34,Corporate
+Office Supplies,5/20/2014,8.01,Home Office
+Technology,5/20/2014,514.67,Consumer
+Technology,5/20/2014,571.47,Corporate
+Technology,5/20/2014,31.96,Home Office
+Furniture,5/21/2014,483.23,Home Office
+Office Supplies,5/21/2014,839.3,Consumer
+Office Supplies,5/21/2014,44.17,Corporate
+Technology,5/21/2014,"1,156.82",Consumer
+Technology,5/21/2014,295.15,Home Office
+Furniture,5/22/2014,478.45,Corporate
+Office Supplies,5/22/2014,17.79,Corporate
+Furniture,5/23/2014,165.61,Consumer
+Office Supplies,5/23/2014,79.38,Consumer
+Office Supplies,5/23/2014,12.12,Home Office
+Technology,5/23/2014,68.46,Consumer
+Furniture,5/24/2014,179.85,Consumer
+Office Supplies,5/24/2014,60.33,Consumer
+Furniture,5/26/2014,20.35,Consumer
+Office Supplies,5/26/2014,789.08,Consumer
+Office Supplies,5/26/2014,25.96,Home Office
+Technology,5/26/2014,116.4,Consumer
+Office Supplies,5/27/2014,13.87,Consumer
+Office Supplies,5/27/2014,203.75,Corporate
+Technology,5/27/2014,24.93,Consumer
+Furniture,5/28/2014,486.69,Consumer
+Office Supplies,5/28/2014,518.16,Consumer
+Office Supplies,5/28/2014,37.41,Corporate
+Office Supplies,5/28/2014,52.51,Home Office
+Technology,5/28/2014,281.21,Consumer
+Technology,5/28/2014,116.58,Corporate
+Technology,5/28/2014,534.57,Home Office
+Furniture,5/29/2014,301.96,Consumer
+Furniture,5/29/2014,547.5,Corporate
+Office Supplies,5/29/2014,145.47,Corporate
+Technology,5/29/2014,49.47,Consumer
+Technology,5/29/2014,472.61,Corporate
+Furniture,5/30/2014,63.78,Consumer
+Office Supplies,5/30/2014,578.02,Consumer
+Office Supplies,5/30/2014,21.43,Home Office
+Furniture,5/31/2014,500.1,Consumer
+Furniture,5/31/2014,12.37,Home Office
+Office Supplies,5/31/2014,33.92,Consumer
+Office Supplies,5/31/2014,41.27,Corporate
+Technology,5/31/2014,209.45,Home Office
+Furniture,6/2/2014,"2,118.47",Corporate
+Office Supplies,6/2/2014,349.16,Consumer
+Office Supplies,6/2/2014,"2,419.14",Corporate
+Technology,6/2/2014,152.04,Consumer
+Technology,6/2/2014,123.86,Corporate
+Office Supplies,6/3/2014,94.77,Consumer
+Office Supplies,6/3/2014,24.42,Home Office
+Technology,6/3/2014,3.09,Home Office
+Furniture,6/4/2014,227.07,Consumer
+Furniture,6/4/2014,457.73,Corporate
+Office Supplies,6/4/2014,54.76,Consumer
+Office Supplies,6/4/2014,60.62,Corporate
+Office Supplies,6/4/2014,119.91,Home Office
+Technology,6/4/2014,803.94,Consumer
+Technology,6/4/2014,"1,076.16",Corporate
+Furniture,6/5/2014,30.34,Consumer
+Furniture,6/5/2014,33.26,Corporate
+Office Supplies,6/5/2014,21.96,Consumer
+Office Supplies,6/5/2014,6.56,Corporate
+Office Supplies,6/5/2014,105.86,Home Office
+Technology,6/5/2014,72.7,Corporate
+Office Supplies,6/6/2014,21.57,Corporate
+Technology,6/6/2014,437.45,Consumer
+Furniture,6/7/2014,5.15,Home Office
+Office Supplies,6/7/2014,23.23,Home Office
+Furniture,6/9/2014,"1,572.55",Home Office
+Office Supplies,6/9/2014,115.96,Consumer
+Office Supplies,6/9/2014,102.71,Corporate
+Technology,6/9/2014,84.17,Consumer
+Technology,6/9/2014,400.65,Corporate
+Technology,6/9/2014,15.42,Home Office
+Furniture,6/10/2014,115.62,Home Office
+Office Supplies,6/10/2014,45.68,Consumer
+Office Supplies,6/10/2014,771.21,Corporate
+Office Supplies,6/10/2014,36.35,Home Office
+Furniture,6/11/2014,555.3,Home Office
+Office Supplies,6/11/2014,71.04,Consumer
+Office Supplies,6/11/2014,"1,453.99",Corporate
+Office Supplies,6/11/2014,32.26,Home Office
+Technology,6/11/2014,236.79,Consumer
+Technology,6/11/2014,237.97,Home Office
+Furniture,6/12/2014,170.93,Consumer
+Furniture,6/12/2014,244.29,Home Office
+Office Supplies,6/12/2014,330.76,Consumer
+Office Supplies,6/12/2014,368.21,Home Office
+Technology,6/12/2014,347.22,Consumer
+Furniture,6/13/2014,760.4,Consumer
+Furniture,6/13/2014,475.59,Home Office
+Office Supplies,6/13/2014,101.86,Consumer
+Office Supplies,6/13/2014,82.08,Home Office
+Technology,6/13/2014,137.25,Consumer
+Furniture,6/14/2014,829.97,Home Office
+Office Supplies,6/14/2014,169.13,Consumer
+Office Supplies,6/14/2014,161.44,Home Office
+Technology,6/14/2014,50.38,Home Office
+Furniture,6/16/2014,776.08,Consumer
+Furniture,6/16/2014,149.09,Corporate
+Office Supplies,6/16/2014,22.39,Consumer
+Office Supplies,6/16/2014,301.42,Corporate
+Office Supplies,6/16/2014,141.01,Home Office
+Technology,6/16/2014,45.1,Consumer
+Technology,6/16/2014,"2,859.86",Corporate
+Furniture,6/17/2014,"1,499.77",Consumer
+Office Supplies,6/17/2014,238.74,Consumer
+Office Supplies,6/17/2014,19.15,Corporate
+Office Supplies,6/17/2014,214.58,Home Office
+Technology,6/17/2014,656.75,Consumer
+Furniture,6/18/2014,169.22,Consumer
+Office Supplies,6/18/2014,224.4,Consumer
+Office Supplies,6/18/2014,21.5,Corporate
+Technology,6/18/2014,"3,330.55",Home Office
+Furniture,6/19/2014,945.46,Consumer
+Office Supplies,6/19/2014,41.21,Consumer
+Office Supplies,6/19/2014,76.58,Home Office
+Furniture,6/20/2014,50.82,Consumer
+Furniture,6/20/2014,719.01,Corporate
+Furniture,6/20/2014,471.21,Home Office
+Office Supplies,6/20/2014,361.89,Consumer
+Office Supplies,6/20/2014,262.56,Corporate
+Office Supplies,6/20/2014,6.27,Home Office
+Technology,6/20/2014,193.89,Corporate
+Office Supplies,6/21/2014,134.35,Consumer
+Technology,6/21/2014,795.55,Consumer
+Furniture,6/22/2014,16.31,Consumer
+Office Supplies,6/22/2014,42.49,Consumer
+Office Supplies,6/22/2014,568.67,Home Office
+Furniture,6/23/2014,448.92,Home Office
+Office Supplies,6/23/2014,35.77,Consumer
+Office Supplies,6/23/2014,47.89,Home Office
+Furniture,6/25/2014,435.97,Consumer
+Office Supplies,6/25/2014,194.42,Consumer
+Office Supplies,6/25/2014,534.78,Corporate
+Furniture,6/26/2014,"1,094.08",Consumer
+Office Supplies,6/26/2014,95.58,Home Office
+Technology,6/26/2014,145.51,Consumer
+Furniture,6/27/2014,563.3,Consumer
+Furniture,6/27/2014,281.76,Corporate
+Office Supplies,6/27/2014,338.87,Consumer
+Office Supplies,6/27/2014,"1,019.74",Corporate
+Office Supplies,6/27/2014,22.3,Home Office
+Technology,6/27/2014,"1,733.62",Consumer
+Technology,6/27/2014,473.21,Home Office
+Furniture,6/28/2014,131.35,Corporate
+Furniture,6/28/2014,172.48,Home Office
+Office Supplies,6/28/2014,21.07,Consumer
+Office Supplies,6/28/2014,19.25,Corporate
+Technology,6/28/2014,"1,248.83",Corporate
+Furniture,6/30/2014,731.66,Consumer
+Furniture,6/30/2014,697.18,Corporate
+Office Supplies,6/30/2014,"1,903.94",Consumer
+Office Supplies,6/30/2014,"1,225.12",Corporate
+Technology,6/30/2014,53.59,Consumer
+Furniture,7/1/2014,"1,457.77",Consumer
+Furniture,7/1/2014,20.89,Corporate
+Furniture,7/1/2014,530.79,Home Office
+Office Supplies,7/1/2014,489.8,Consumer
+Office Supplies,7/1/2014,"1,020.29",Corporate
+Office Supplies,7/1/2014,78.07,Home Office
+Technology,7/1/2014,"1,071.69",Home Office
+Office Supplies,7/2/2014,588.64,Home Office
+Office Supplies,7/3/2014,186.11,Home Office
+Furniture,7/4/2014,729.39,Consumer
+Furniture,7/4/2014,230.21,Home Office
+Office Supplies,7/4/2014,76.49,Consumer
+Office Supplies,7/4/2014,294.79,Corporate
+Office Supplies,7/4/2014,90.18,Home Office
+Technology,7/4/2014,518.33,Consumer
+Technology,7/4/2014,573.25,Corporate
+Technology,7/4/2014,"3,836.59",Home Office
+Furniture,7/6/2014,285.54,Corporate
+Office Supplies,7/6/2014,56,Corporate
+Technology,7/6/2014,79.96,Corporate
+Furniture,7/7/2014,307.17,Consumer
+Office Supplies,7/7/2014,17.1,Corporate
+Furniture,7/8/2014,87.21,Consumer
+Office Supplies,7/8/2014,48.17,Consumer
+Technology,7/8/2014,"1,167.25",Consumer
+Technology,7/8/2014,269.64,Corporate
+Furniture,7/9/2014,210.37,Consumer
+Furniture,7/9/2014,117.71,Corporate
+Furniture,7/9/2014,155.27,Home Office
+Office Supplies,7/9/2014,902.01,Consumer
+Office Supplies,7/9/2014,173.28,Corporate
+Office Supplies,7/9/2014,167.09,Home Office
+Technology,7/9/2014,51.5,Consumer
+Technology,7/9/2014,154.67,Corporate
+Furniture,7/10/2014,568.57,Home Office
+Office Supplies,7/10/2014,876.84,Consumer
+Office Supplies,7/10/2014,61.92,Corporate
+Technology,7/10/2014,268.3,Consumer
+Furniture,7/11/2014,17.9,Consumer
+Office Supplies,7/11/2014,42.33,Corporate
+Office Supplies,7/11/2014,328.31,Home Office
+Office Supplies,7/12/2014,31.84,Consumer
+Office Supplies,7/12/2014,196.24,Corporate
+Technology,7/12/2014,143.21,Consumer
+Technology,7/12/2014,"1,481.75",Corporate
+Office Supplies,7/13/2014,4.04,Consumer
+Furniture,7/14/2014,90.1,Consumer
+Office Supplies,7/14/2014,351.5,Corporate
+Technology,7/14/2014,42.76,Consumer
+Furniture,7/15/2014,685.53,Consumer
+Office Supplies,7/15/2014,405.19,Consumer
+Technology,7/15/2014,"2,601.34",Consumer
+Furniture,7/16/2014,964.84,Consumer
+Furniture,7/16/2014,942.78,Corporate
+Office Supplies,7/16/2014,43.91,Consumer
+Office Supplies,7/16/2014,183.26,Corporate
+Technology,7/16/2014,45.25,Consumer
+Furniture,7/17/2014,326.27,Consumer
+Office Supplies,7/17/2014,2.8,Home Office
+Furniture,7/18/2014,7.35,Consumer
+Furniture,7/18/2014,"1,110.57",Corporate
+Furniture,7/18/2014,33.22,Home Office
+Office Supplies,7/18/2014,87.75,Corporate
+Office Supplies,7/18/2014,104.9,Home Office
+Technology,7/18/2014,712.47,Home Office
+Furniture,7/19/2014,"1,444.41",Consumer
+Office Supplies,7/19/2014,28.32,Consumer
+Technology,7/19/2014,581.97,Consumer
+Furniture,7/21/2014,9.23,Consumer
+Furniture,7/21/2014,498.79,Corporate
+Office Supplies,7/21/2014,72.5,Consumer
+Office Supplies,7/21/2014,"1,219.90",Corporate
+Technology,7/21/2014,386.07,Corporate
+Furniture,7/22/2014,641.6,Consumer
+Office Supplies,7/22/2014,418.08,Consumer
+Office Supplies,7/22/2014,96.55,Corporate
+Office Supplies,7/22/2014,283.75,Home Office
+Technology,7/22/2014,357.64,Consumer
+Technology,7/22/2014,"1,772.55",Corporate
+Technology,7/22/2014,214.78,Home Office
+Furniture,7/23/2014,578.98,Consumer
+Technology,7/23/2014,30.27,Corporate
+Office Supplies,7/24/2014,181.92,Consumer
+Office Supplies,7/24/2014,123.73,Corporate
+Office Supplies,7/24/2014,14.06,Home Office
+Technology,7/24/2014,174.13,Consumer
+Technology,7/24/2014,379.95,Home Office
+Technology,7/25/2014,"2,111.96",Corporate
+Furniture,7/26/2014,150.75,Consumer
+Furniture,7/26/2014,289.17,Home Office
+Office Supplies,7/26/2014,355.62,Consumer
+Furniture,7/27/2014,351.48,Corporate
+Technology,7/27/2014,"1,550.95",Corporate
+Furniture,7/28/2014,331.14,Consumer
+Office Supplies,7/28/2014,36.03,Consumer
+Technology,7/28/2014,841.18,Consumer
+Office Supplies,7/29/2014,22.22,Corporate
+Technology,7/29/2014,"1,214.34",Corporate
+Furniture,7/30/2014,355.84,Consumer
+Office Supplies,7/30/2014,248.8,Consumer
+Office Supplies,7/30/2014,2.81,Corporate
+Technology,7/30/2014,499.85,Consumer
+Technology,7/30/2014,121.05,Corporate
+Office Supplies,7/31/2014,385.18,Consumer
+Office Supplies,7/31/2014,74.47,Home Office
+Technology,7/31/2014,82.75,Consumer
+Furniture,8/1/2014,35.48,Consumer
+Office Supplies,8/1/2014,48.08,Consumer
+Office Supplies,8/1/2014,216.81,Corporate
+Office Supplies,8/1/2014,872.5,Home Office
+Technology,8/1/2014,309.47,Consumer
+Technology,8/1/2014,45.15,Home Office
+Office Supplies,8/2/2014,192.14,Consumer
+Office Supplies,8/2/2014,90.27,Corporate
+Technology,8/2/2014,334.83,Consumer
+Technology,8/2/2014,"1,425.58",Corporate
+Furniture,8/4/2014,282.75,Consumer
+Office Supplies,8/4/2014,174.87,Consumer
+Office Supplies,8/4/2014,14.29,Corporate
+Technology,8/4/2014,37.03,Consumer
+Office Supplies,8/5/2014,20.07,Corporate
+Office Supplies,8/6/2014,253.9,Consumer
+Office Supplies,8/6/2014,15.14,Corporate
+Office Supplies,8/6/2014,149.55,Home Office
+Technology,8/6/2014,72.6,Consumer
+Furniture,8/7/2014,159.53,Consumer
+Office Supplies,8/7/2014,75.03,Consumer
+Office Supplies,8/7/2014,117.6,Corporate
+Office Supplies,8/7/2014,275.25,Home Office
+Technology,8/7/2014,775.45,Home Office
+Furniture,8/8/2014,222.68,Consumer
+Office Supplies,8/8/2014,"1,728.64",Consumer
+Technology,8/8/2014,"1,293.83",Consumer
+Furniture,8/11/2014,105.53,Consumer
+Office Supplies,8/11/2014,64.47,Consumer
+Office Supplies,8/11/2014,173.66,Corporate
+Technology,8/11/2014,"1,294.50",Consumer
+Office Supplies,8/12/2014,47.58,Corporate
+Office Supplies,8/12/2014,443.02,Home Office
+Technology,8/12/2014,135.15,Corporate
+Furniture,8/13/2014,56.02,Consumer
+Furniture,8/13/2014,"1,922.29",Corporate
+Office Supplies,8/13/2014,939.41,Consumer
+Office Supplies,8/13/2014,251.67,Corporate
+Technology,8/13/2014,688.86,Consumer
+Furniture,8/14/2014,501.2,Consumer
+Office Supplies,8/14/2014,"2,068.41",Consumer
+Office Supplies,8/14/2014,56.25,Corporate
+Technology,8/14/2014,1.41,Consumer
+Furniture,8/15/2014,359.73,Consumer
+Office Supplies,8/15/2014,20.42,Consumer
+Office Supplies,8/16/2014,96.86,Consumer
+Office Supplies,8/16/2014,"2,000.19",Corporate
+Office Supplies,8/17/2014,74.12,Consumer
+Furniture,8/18/2014,"4,151.20",Consumer
+Furniture,8/18/2014,444.06,Corporate
+Furniture,8/18/2014,88.63,Home Office
+Office Supplies,8/18/2014,"4,306.11",Corporate
+Office Supplies,8/18/2014,164.68,Home Office
+Technology,8/18/2014,71.26,Corporate
+Technology,8/18/2014,85.4,Home Office
+Furniture,8/19/2014,206.42,Corporate
+Office Supplies,8/19/2014,271.28,Consumer
+Office Supplies,8/19/2014,"3,588.89",Corporate
+Office Supplies,8/19/2014,313.41,Home Office
+Technology,8/19/2014,23.41,Consumer
+Technology,8/19/2014,"2,045.05",Corporate
+Office Supplies,8/20/2014,119.48,Consumer
+Office Supplies,8/20/2014,376.35,Corporate
+Office Supplies,8/21/2014,225.28,Consumer
+Office Supplies,8/21/2014,292.59,Corporate
+Technology,8/21/2014,100.33,Corporate
+Technology,8/21/2014,37.4,Home Office
+Furniture,8/22/2014,"1,492.53",Consumer
+Furniture,8/22/2014,330.4,Corporate
+Furniture,8/22/2014,114.74,Home Office
+Office Supplies,8/22/2014,"5,159.63",Consumer
+Office Supplies,8/22/2014,669.59,Corporate
+Office Supplies,8/22/2014,255.21,Home Office
+Technology,8/22/2014,410.37,Consumer
+Technology,8/22/2014,33.51,Corporate
+Furniture,8/23/2014,218.41,Consumer
+Furniture,8/23/2014,276.79,Home Office
+Furniture,8/24/2014,2.37,Consumer
+Office Supplies,8/24/2014,230.65,Consumer
+Technology,8/24/2014,"3,974.79",Consumer
+Office Supplies,8/25/2014,604.11,Consumer
+Office Supplies,8/25/2014,27.85,Corporate
+Furniture,8/26/2014,112.64,Consumer
+Office Supplies,8/26/2014,254.11,Consumer
+Furniture,8/27/2014,66.91,Consumer
+Office Supplies,8/27/2014,49.96,Home Office
+Technology,8/27/2014,78.46,Home Office
+Furniture,8/28/2014,130.22,Consumer
+Furniture,8/28/2014,"1,763.79",Corporate
+Office Supplies,8/28/2014,24.71,Consumer
+Office Supplies,8/28/2014,"1,661.85",Corporate
+Office Supplies,8/28/2014,109.92,Home Office
+Technology,8/28/2014,"2,179.86",Corporate
+Technology,8/28/2014,351.45,Home Office
+Furniture,8/29/2014,"1,240.15",Home Office
+Office Supplies,8/29/2014,52.58,Consumer
+Office Supplies,8/29/2014,214.28,Home Office
+Technology,8/29/2014,32.35,Home Office
+Furniture,8/30/2014,158.38,Corporate
+Office Supplies,8/30/2014,96.19,Corporate
+Furniture,9/1/2014,501.22,Corporate
+Office Supplies,9/1/2014,"1,135.41",Consumer
+Office Supplies,9/1/2014,157.22,Corporate
+Office Supplies,9/1/2014,11.33,Home Office
+Technology,9/1/2014,646.7,Consumer
+Technology,9/1/2014,606.68,Home Office
+Furniture,9/2/2014,551.84,Consumer
+Furniture,9/2/2014,294.9,Corporate
+Office Supplies,9/2/2014,19.94,Consumer
+Office Supplies,9/2/2014,327.18,Corporate
+Office Supplies,9/2/2014,7.2,Home Office
+Technology,9/2/2014,20.79,Consumer
+Furniture,9/3/2014,236.53,Consumer
+Furniture,9/3/2014,"1,688.63",Corporate
+Furniture,9/3/2014,705.65,Home Office
+Office Supplies,9/3/2014,"1,870.23",Consumer
+Office Supplies,9/3/2014,346.52,Corporate
+Office Supplies,9/3/2014,543.4,Home Office
+Technology,9/3/2014,225.31,Consumer
+Technology,9/3/2014,543.55,Corporate
+Technology,9/3/2014,"3,097.29",Home Office
+Furniture,9/4/2014,358.51,Consumer
+Furniture,9/4/2014,250.76,Home Office
+Office Supplies,9/4/2014,64.38,Consumer
+Office Supplies,9/4/2014,15.61,Corporate
+Office Supplies,9/4/2014,522.75,Home Office
+Technology,9/4/2014,110.88,Corporate
+Technology,9/4/2014,242.22,Home Office
+Furniture,9/5/2014,"1,654.23",Consumer
+Furniture,9/5/2014,"2,297.85",Corporate
+Office Supplies,9/5/2014,"1,255.27",Consumer
+Office Supplies,9/5/2014,162.78,Corporate
+Office Supplies,9/5/2014,36.84,Home Office
+Technology,9/5/2014,115.39,Consumer
+Technology,9/5/2014,43.61,Home Office
+Office Supplies,9/6/2014,78.76,Consumer
+Office Supplies,9/6/2014,137.97,Home Office
+Technology,9/6/2014,92.26,Consumer
+Furniture,9/8/2014,400.08,Consumer
+Office Supplies,9/8/2014,153.19,Consumer
+Office Supplies,9/8/2014,576.44,Corporate
+Office Supplies,9/8/2014,"1,559.28",Home Office
+Technology,9/8/2014,929.86,Consumer
+Furniture,9/9/2014,819.22,Consumer
+Furniture,9/9/2014,246.34,Corporate
+Office Supplies,9/9/2014,153.46,Corporate
+Office Supplies,9/9/2014,56.75,Home Office
+Technology,9/9/2014,263.7,Consumer
+Technology,9/9/2014,456.76,Corporate
+Technology,9/9/2014,161.54,Home Office
+Furniture,9/10/2014,324.17,Consumer
+Furniture,9/10/2014,137.8,Corporate
+Office Supplies,9/10/2014,612.18,Consumer
+Office Supplies,9/10/2014,849.48,Corporate
+Technology,9/10/2014,"2,666.68",Corporate
+Furniture,9/11/2014,384.09,Corporate
+Office Supplies,9/11/2014,366.1,Consumer
+Office Supplies,9/11/2014,96.41,Corporate
+Office Supplies,9/11/2014,693.96,Home Office
+Technology,9/11/2014,678.34,Consumer
+Technology,9/11/2014,157.47,Corporate
+Furniture,9/12/2014,832.28,Consumer
+Furniture,9/12/2014,"2,115.90",Home Office
+Office Supplies,9/12/2014,"2,129.66",Consumer
+Office Supplies,9/12/2014,17.11,Corporate
+Office Supplies,9/12/2014,217.6,Home Office
+Technology,9/12/2014,75.96,Consumer
+Technology,9/12/2014,156.91,Corporate
+Furniture,9/13/2014,8.28,Consumer
+Office Supplies,9/13/2014,368.53,Consumer
+Office Supplies,9/13/2014,93.87,Corporate
+Office Supplies,9/14/2014,14.49,Consumer
+Furniture,9/15/2014,229.24,Consumer
+Furniture,9/15/2014,595.3,Home Office
+Office Supplies,9/15/2014,192.79,Consumer
+Office Supplies,9/15/2014,935.77,Corporate
+Office Supplies,9/15/2014,95.88,Home Office
+Technology,9/15/2014,230.92,Consumer
+Technology,9/15/2014,886.98,Corporate
+Technology,9/15/2014,982.66,Home Office
+Furniture,9/16/2014,"1,818.90",Consumer
+Furniture,9/16/2014,599.59,Corporate
+Furniture,9/16/2014,349.92,Home Office
+Office Supplies,9/16/2014,"3,063.95",Consumer
+Office Supplies,9/16/2014,121.8,Corporate
+Office Supplies,9/16/2014,38.23,Home Office
+Technology,9/16/2014,762.85,Consumer
+Technology,9/16/2014,399.9,Corporate
+Technology,9/16/2014,65.38,Home Office
+Furniture,9/17/2014,23.86,Consumer
+Office Supplies,9/17/2014,579.75,Consumer
+Office Supplies,9/17/2014,35.64,Corporate
+Office Supplies,9/17/2014,19.49,Home Office
+Technology,9/17/2014,172.43,Consumer
+Technology,9/17/2014,17.82,Home Office
+Furniture,9/18/2014,"1,189.50",Corporate
+Furniture,9/18/2014,927.69,Home Office
+Office Supplies,9/18/2014,44.66,Consumer
+Office Supplies,9/18/2014,469.6,Corporate
+Office Supplies,9/18/2014,107.39,Home Office
+Technology,9/18/2014,564.27,Consumer
+Technology,9/18/2014,"1,429.92",Home Office
+Furniture,9/19/2014,28.63,Corporate
+Office Supplies,9/19/2014,85.03,Consumer
+Office Supplies,9/19/2014,628.11,Corporate
+Office Supplies,9/19/2014,113.7,Home Office
+Technology,9/19/2014,108.43,Consumer
+Technology,9/19/2014,548.27,Corporate
+Furniture,9/20/2014,496.26,Corporate
+Office Supplies,9/20/2014,67,Consumer
+Office Supplies,9/20/2014,138.77,Corporate
+Office Supplies,9/20/2014,43.46,Home Office
+Technology,9/20/2014,567.12,Consumer
+Technology,9/20/2014,355.6,Corporate
+Furniture,9/21/2014,"4,946.56",Consumer
+Office Supplies,9/21/2014,114.96,Consumer
+Technology,9/21/2014,"1,854.92",Consumer
+Office Supplies,9/22/2014,155.34,Consumer
+Office Supplies,9/22/2014,14.27,Corporate
+Technology,9/22/2014,144.36,Consumer
+Furniture,9/23/2014,12.19,Consumer
+Furniture,9/23/2014,217.76,Home Office
+Office Supplies,9/23/2014,"5,089.31",Consumer
+Office Supplies,9/23/2014,379.34,Corporate
+Office Supplies,9/23/2014,104.63,Home Office
+Technology,9/23/2014,"1,704.15",Consumer
+Technology,9/23/2014,183.28,Corporate
+Furniture,9/24/2014,752.14,Consumer
+Furniture,9/24/2014,27.28,Corporate
+Office Supplies,9/24/2014,"1,036.95",Consumer
+Office Supplies,9/24/2014,8.88,Corporate
+Office Supplies,9/24/2014,12.92,Home Office
+Technology,9/24/2014,620.47,Consumer
+Furniture,9/25/2014,716.29,Consumer
+Furniture,9/25/2014,519.37,Corporate
+Office Supplies,9/25/2014,339.42,Consumer
+Office Supplies,9/25/2014,104.36,Home Office
+Technology,9/25/2014,16.09,Consumer
+Technology,9/25/2014,"3,040.14",Corporate
+Technology,9/25/2014,"1,397.02",Home Office
+Furniture,9/26/2014,692.93,Consumer
+Office Supplies,9/26/2014,195.96,Consumer
+Office Supplies,9/26/2014,277.03,Corporate
+Technology,9/26/2014,110.36,Consumer
+Furniture,9/27/2014,10.16,Corporate
+Furniture,9/27/2014,406.56,Home Office
+Office Supplies,9/27/2014,"1,024.30",Corporate
+Office Supplies,9/27/2014,2,Home Office
+Furniture,9/29/2014,8.32,Consumer
+Furniture,9/29/2014,34.09,Home Office
+Office Supplies,9/29/2014,1.62,Consumer
+Office Supplies,9/29/2014,13.67,Corporate
+Office Supplies,9/29/2014,457.07,Home Office
+Technology,9/29/2014,56.56,Home Office
+Furniture,9/30/2014,123.29,Consumer
+Furniture,9/30/2014,364.78,Home Office
+Office Supplies,9/30/2014,618.39,Consumer
+Office Supplies,9/30/2014,54.42,Corporate
+Office Supplies,9/30/2014,54.54,Home Office
+Technology,9/30/2014,576.49,Home Office
+Office Supplies,10/1/2014,151.69,Consumer
+Office Supplies,10/1/2014,206.3,Corporate
+Office Supplies,10/1/2014,12.11,Home Office
+Technology,10/1/2014,159.98,Home Office
+Furniture,10/2/2014,106.44,Consumer
+Furniture,10/2/2014,433.11,Corporate
+Office Supplies,10/2/2014,393.62,Consumer
+Office Supplies,10/2/2014,193.07,Corporate
+Technology,10/2/2014,"1,918.22",Home Office
+Furniture,10/3/2014,357.6,Consumer
+Furniture,10/3/2014,9.04,Corporate
+Furniture,10/3/2014,"2,567.32",Home Office
+Office Supplies,10/3/2014,291.5,Consumer
+Office Supplies,10/3/2014,40.18,Corporate
+Office Supplies,10/3/2014,"1,511.75",Home Office
+Technology,10/3/2014,376.54,Consumer
+Technology,10/3/2014,67.31,Corporate
+Technology,10/3/2014,92.41,Home Office
+Furniture,10/4/2014,147.31,Corporate
+Furniture,10/4/2014,85.6,Home Office
+Office Supplies,10/4/2014,"1,572.53",Consumer
+Office Supplies,10/4/2014,22.29,Corporate
+Office Supplies,10/4/2014,5.77,Home Office
+Technology,10/4/2014,394.29,Home Office
+Furniture,10/5/2014,17.98,Home Office
+Furniture,10/6/2014,907.73,Corporate
+Office Supplies,10/6/2014,31.62,Corporate
+Office Supplies,10/6/2014,203.54,Home Office
+Technology,10/6/2014,"5,348.71",Corporate
+Technology,10/6/2014,213.52,Home Office
+Furniture,10/7/2014,45.74,Home Office
+Office Supplies,10/7/2014,483.08,Consumer
+Office Supplies,10/7/2014,44.27,Corporate
+Office Supplies,10/7/2014,596.34,Home Office
+Technology,10/7/2014,329.56,Home Office
+Furniture,10/8/2014,286.13,Consumer
+Furniture,10/8/2014,137.74,Home Office
+Office Supplies,10/8/2014,89.76,Consumer
+Office Supplies,10/8/2014,591.56,Home Office
+Technology,10/8/2014,"1,231.85",Consumer
+Technology,10/8/2014,231.28,Home Office
+Furniture,10/9/2014,150.14,Consumer
+Office Supplies,10/9/2014,85.94,Corporate
+Technology,10/9/2014,379.15,Corporate
+Furniture,10/10/2014,568.41,Consumer
+Furniture,10/10/2014,810.88,Corporate
+Office Supplies,10/10/2014,141.98,Consumer
+Furniture,10/11/2014,222.6,Consumer
+Furniture,10/13/2014,"2,639.23",Consumer
+Furniture,10/13/2014,249.51,Home Office
+Office Supplies,10/13/2014,33.74,Consumer
+Office Supplies,10/13/2014,72.68,Corporate
+Office Supplies,10/13/2014,132.19,Home Office
+Technology,10/13/2014,476.03,Consumer
+Technology,10/13/2014,692.13,Corporate
+Technology,10/13/2014,"1,022.92",Home Office
+Furniture,10/14/2014,"1,424.10",Consumer
+Office Supplies,10/14/2014,"1,595.60",Consumer
+Office Supplies,10/14/2014,"5,614.20",Corporate
+Technology,10/14/2014,210.47,Corporate
+Furniture,10/15/2014,9.93,Consumer
+Office Supplies,10/15/2014,80.87,Home Office
+Technology,10/15/2014,41.72,Consumer
+Furniture,10/16/2014,580.93,Corporate
+Office Supplies,10/16/2014,15.47,Consumer
+Office Supplies,10/16/2014,416.74,Corporate
+Office Supplies,10/16/2014,87.04,Home Office
+Furniture,10/17/2014,"2,519.46",Corporate
+Office Supplies,10/17/2014,137.23,Consumer
+Office Supplies,10/17/2014,307.78,Corporate
+Technology,10/17/2014,19.27,Corporate
+Technology,10/17/2014,515.99,Home Office
+Office Supplies,10/18/2014,10.32,Consumer
+Office Supplies,10/18/2014,67.32,Corporate
+Technology,10/18/2014,52.26,Corporate
+Furniture,10/20/2014,398.69,Consumer
+Furniture,10/20/2014,118.18,Corporate
+Office Supplies,10/20/2014,40.45,Consumer
+Office Supplies,10/20/2014,235.5,Corporate
+Office Supplies,10/20/2014,"1,513.02",Home Office
+Technology,10/20/2014,18.35,Consumer
+Technology,10/20/2014,284.81,Corporate
+Furniture,10/21/2014,42.18,Consumer
+Furniture,10/21/2014,247.4,Corporate
+Office Supplies,10/21/2014,200,Consumer
+Office Supplies,10/21/2014,767.84,Corporate
+Office Supplies,10/21/2014,67.98,Home Office
+Technology,10/21/2014,15.34,Corporate
+Furniture,10/22/2014,507.19,Corporate
+Furniture,10/22/2014,981.84,Home Office
+Office Supplies,10/22/2014,108.08,Consumer
+Office Supplies,10/22/2014,828.77,Corporate
+Office Supplies,10/22/2014,172.63,Home Office
+Technology,10/22/2014,349.79,Consumer
+Technology,10/22/2014,25.84,Corporate
+Technology,10/22/2014,"1,281.53",Home Office
+Furniture,10/23/2014,770.15,Consumer
+Furniture,10/23/2014,166.59,Corporate
+Office Supplies,10/23/2014,369.88,Consumer
+Office Supplies,10/23/2014,32.95,Corporate
+Office Supplies,10/23/2014,97.33,Home Office
+Technology,10/23/2014,33.68,Corporate
+Technology,10/23/2014,"11,741.20",Home Office
+Furniture,10/24/2014,"1,050.19",Corporate
+Office Supplies,10/24/2014,254.95,Consumer
+Office Supplies,10/24/2014,90.31,Corporate
+Technology,10/24/2014,"1,777.90",Consumer
+Technology,10/24/2014,34.8,Corporate
+Furniture,10/25/2014,465.66,Consumer
+Office Supplies,10/25/2014,11.8,Consumer
+Furniture,10/27/2014,363.99,Consumer
+Office Supplies,10/27/2014,269.09,Consumer
+Office Supplies,10/27/2014,75.74,Corporate
+Office Supplies,10/27/2014,47.83,Home Office
+Technology,10/27/2014,152.5,Consumer
+Technology,10/27/2014,65.85,Corporate
+Furniture,10/28/2014,649.23,Corporate
+Office Supplies,10/28/2014,99.78,Corporate
+Office Supplies,10/28/2014,54.43,Home Office
+Technology,10/28/2014,161.09,Corporate
+Technology,10/28/2014,23.38,Home Office
+Furniture,10/29/2014,67.82,Consumer
+Office Supplies,10/29/2014,239.6,Consumer
+Office Supplies,10/29/2014,50.86,Corporate
+Technology,10/29/2014,54.69,Consumer
+Office Supplies,10/30/2014,43.67,Corporate
+Furniture,10/31/2014,"1,119.78",Consumer
+Furniture,10/31/2014,10.12,Corporate
+Furniture,10/31/2014,33.26,Home Office
+Office Supplies,10/31/2014,"2,060.15",Consumer
+Office Supplies,10/31/2014,162.49,Home Office
+Technology,10/31/2014,502.25,Consumer
+Office Supplies,11/1/2014,8.92,Corporate
+Office Supplies,11/1/2014,4.62,Home Office
+Technology,11/1/2014,498.59,Corporate
+Furniture,11/2/2014,"2,319.09",Consumer
+Office Supplies,11/2/2014,232.79,Consumer
+Furniture,11/3/2014,891.1,Corporate
+Furniture,11/3/2014,167.76,Home Office
+Office Supplies,11/3/2014,314.75,Consumer
+Office Supplies,11/3/2014,524.64,Corporate
+Office Supplies,11/3/2014,975.12,Home Office
+Technology,11/3/2014,"3,264.57",Corporate
+Furniture,11/4/2014,506.63,Consumer
+Furniture,11/4/2014,348.98,Corporate
+Furniture,11/4/2014,"1,723.38",Home Office
+Office Supplies,11/4/2014,208.38,Consumer
+Office Supplies,11/4/2014,189.14,Corporate
+Technology,11/4/2014,"1,023.37",Consumer
+Technology,11/4/2014,357.76,Corporate
+Technology,11/4/2014,171.79,Home Office
+Furniture,11/5/2014,450.44,Corporate
+Office Supplies,11/5/2014,8.41,Consumer
+Office Supplies,11/5/2014,390.74,Corporate
+Office Supplies,11/5/2014,111.76,Home Office
+Technology,11/5/2014,263.89,Consumer
+Technology,11/5/2014,"9,902.19",Corporate
+Furniture,11/6/2014,423.75,Consumer
+Office Supplies,11/6/2014,564.97,Consumer
+Office Supplies,11/6/2014,17.31,Corporate
+Office Supplies,11/6/2014,204.13,Home Office
+Technology,11/6/2014,461.29,Consumer
+Technology,11/6/2014,626.65,Corporate
+Furniture,11/7/2014,177.39,Consumer
+Furniture,11/7/2014,"2,561.02",Home Office
+Office Supplies,11/7/2014,"1,246.69",Consumer
+Office Supplies,11/7/2014,5.43,Corporate
+Office Supplies,11/7/2014,267.98,Home Office
+Technology,11/7/2014,130.95,Home Office
+Furniture,11/8/2014,367.87,Consumer
+Furniture,11/8/2014,300.27,Corporate
+Office Supplies,11/8/2014,172.15,Consumer
+Technology,11/8/2014,743.04,Consumer
+Technology,11/8/2014,739.36,Home Office
+Furniture,11/9/2014,244.04,Corporate
+Office Supplies,11/9/2014,105.5,Home Office
+Furniture,11/10/2014,40.99,Consumer
+Furniture,11/10/2014,628.46,Corporate
+Furniture,11/10/2014,91.7,Home Office
+Office Supplies,11/10/2014,"2,408.27",Corporate
+Technology,11/10/2014,982.21,Corporate
+Technology,11/10/2014,691.14,Home Office
+Furniture,11/11/2014,"1,327.97",Corporate
+Furniture,11/11/2014,210.04,Home Office
+Office Supplies,11/11/2014,468.26,Consumer
+Office Supplies,11/11/2014,956.08,Corporate
+Office Supplies,11/11/2014,20.09,Home Office
+Technology,11/11/2014,107.32,Consumer
+Technology,11/11/2014,"1,016.83",Corporate
+Furniture,11/12/2014,76.47,Consumer
+Furniture,11/12/2014,35.62,Home Office
+Office Supplies,11/12/2014,431.91,Consumer
+Office Supplies,11/12/2014,995.98,Corporate
+Office Supplies,11/12/2014,24.6,Home Office
+Technology,11/12/2014,30.96,Consumer
+Furniture,11/13/2014,272.83,Home Office
+Office Supplies,11/13/2014,"1,120.93",Consumer
+Office Supplies,11/13/2014,53.4,Corporate
+Office Supplies,11/13/2014,139.54,Home Office
+Technology,11/13/2014,415.54,Corporate
+Technology,11/13/2014,800.91,Home Office
+Furniture,11/14/2014,"2,140.19",Consumer
+Furniture,11/14/2014,321.24,Corporate
+Office Supplies,11/14/2014,"1,592.46",Consumer
+Office Supplies,11/14/2014,68.63,Corporate
+Office Supplies,11/14/2014,215.73,Home Office
+Technology,11/14/2014,369.01,Consumer
+Technology,11/14/2014,"1,276.42",Corporate
+Technology,11/14/2014,154.12,Home Office
+Furniture,11/15/2014,273.33,Corporate
+Office Supplies,11/15/2014,112.42,Consumer
+Office Supplies,11/15/2014,104.07,Corporate
+Office Supplies,11/15/2014,15.89,Home Office
+Technology,11/15/2014,259.1,Consumer
+Furniture,11/16/2014,553.61,Consumer
+Furniture,11/17/2014,309.86,Consumer
+Office Supplies,11/17/2014,"1,024.82",Consumer
+Office Supplies,11/17/2014,91.7,Corporate
+Office Supplies,11/17/2014,20.09,Home Office
+Technology,11/17/2014,218.71,Consumer
+Technology,11/17/2014,"2,545.53",Corporate
+Technology,11/17/2014,56.11,Home Office
+Furniture,11/18/2014,515.49,Consumer
+Office Supplies,11/18/2014,388.84,Consumer
+Office Supplies,11/18/2014,"1,413.84",Corporate
+Technology,11/18/2014,"9,942.27",Consumer
+Technology,11/18/2014,294.67,Corporate
+Furniture,11/19/2014,131.21,Consumer
+Furniture,11/19/2014,5.99,Corporate
+Furniture,11/19/2014,17.98,Home Office
+Office Supplies,11/19/2014,322.95,Consumer
+Office Supplies,11/19/2014,707.5,Corporate
+Technology,11/19/2014,219.92,Consumer
+Furniture,11/20/2014,"1,334.79",Consumer
+Furniture,11/20/2014,880.15,Corporate
+Furniture,11/20/2014,81.57,Home Office
+Office Supplies,11/20/2014,"1,781.46",Consumer
+Office Supplies,11/20/2014,"2,323.46",Corporate
+Office Supplies,11/20/2014,111.92,Home Office
+Technology,11/20/2014,31.01,Consumer
+Furniture,11/21/2014,738.13,Consumer
+Furniture,11/21/2014,48.42,Corporate
+Furniture,11/21/2014,29.23,Home Office
+Office Supplies,11/21/2014,277.23,Consumer
+Technology,11/21/2014,"1,159.17",Consumer
+Technology,11/21/2014,532.85,Corporate
+Furniture,11/22/2014,92.5,Consumer
+Office Supplies,11/22/2014,257.9,Consumer
+Office Supplies,11/22/2014,57.75,Corporate
+Office Supplies,11/22/2014,74.97,Home Office
+Technology,11/22/2014,"1,160.88",Consumer
+Technology,11/22/2014,600.58,Home Office
+Office Supplies,11/23/2014,34.28,Consumer
+Furniture,11/24/2014,31.43,Consumer
+Furniture,11/24/2014,146.81,Corporate
+Office Supplies,11/24/2014,17.07,Consumer
+Office Supplies,11/24/2014,465.19,Corporate
+Technology,11/24/2014,515.24,Consumer
+Furniture,11/25/2014,824.84,Consumer
+Furniture,11/25/2014,"1,065.25",Corporate
+Office Supplies,11/25/2014,585.02,Consumer
+Office Supplies,11/25/2014,734.08,Corporate
+Office Supplies,11/25/2014,"1,244.28",Home Office
+Technology,11/25/2014,230.29,Consumer
+Technology,11/25/2014,150.49,Corporate
+Furniture,11/26/2014,"2,072.96",Consumer
+Furniture,11/26/2014,737.06,Corporate
+Office Supplies,11/26/2014,161.61,Consumer
+Office Supplies,11/26/2014,32.04,Corporate
+Office Supplies,11/26/2014,466.68,Home Office
+Technology,11/26/2014,293.96,Consumer
+Technology,11/26/2014,35.16,Corporate
+Furniture,11/27/2014,243.29,Consumer
+Furniture,11/27/2014,"1,203.12",Home Office
+Office Supplies,11/27/2014,35.58,Consumer
+Office Supplies,11/27/2014,236.51,Corporate
+Office Supplies,11/27/2014,153.59,Home Office
+Technology,11/27/2014,"1,325.45",Consumer
+Technology,11/27/2014,"2,009.34",Home Office
+Furniture,11/28/2014,18.46,Consumer
+Furniture,11/28/2014,50.7,Corporate
+Office Supplies,11/28/2014,278.56,Consumer
+Office Supplies,11/28/2014,900.77,Corporate
+Technology,11/28/2014,60.45,Consumer
+Technology,11/28/2014,331.58,Corporate
+Furniture,11/29/2014,"4,193.23",Home Office
+Office Supplies,11/29/2014,166.56,Consumer
+Office Supplies,11/29/2014,83.96,Corporate
+Office Supplies,11/29/2014,45.94,Home Office
+Technology,11/29/2014,"1,801.70",Corporate
+Furniture,11/30/2014,482.05,Consumer
+Furniture,12/1/2014,"2,803.78",Consumer
+Furniture,12/1/2014,"1,256.04",Home Office
+Office Supplies,12/1/2014,365.32,Consumer
+Office Supplies,12/1/2014,976.91,Home Office
+Technology,12/1/2014,360.94,Consumer
+Technology,12/1/2014,98.86,Corporate
+Technology,12/1/2014,562.41,Home Office
+Furniture,12/2/2014,983.97,Consumer
+Furniture,12/2/2014,64.32,Corporate
+Furniture,12/2/2014,"1,365.71",Home Office
+Office Supplies,12/2/2014,632.22,Consumer
+Office Supplies,12/2/2014,539.15,Corporate
+Office Supplies,12/2/2014,129.08,Home Office
+Technology,12/2/2014,"1,435.75",Consumer
+Technology,12/2/2014,63.59,Home Office
+Furniture,12/3/2014,703.6,Consumer
+Furniture,12/3/2014,"3,070.30",Corporate
+Office Supplies,12/3/2014,"1,487.53",Consumer
+Office Supplies,12/3/2014,"1,102.86",Corporate
+Office Supplies,12/3/2014,41.09,Home Office
+Technology,12/3/2014,"3,598.31",Consumer
+Technology,12/3/2014,324.99,Corporate
+Furniture,12/4/2014,71.28,Consumer
+Furniture,12/4/2014,553.28,Home Office
+Office Supplies,12/4/2014,456.89,Consumer
+Technology,12/4/2014,389.55,Consumer
+Furniture,12/5/2014,513.09,Consumer
+Furniture,12/5/2014,539.15,Corporate
+Office Supplies,12/5/2014,145.56,Consumer
+Office Supplies,12/5/2014,41.71,Corporate
+Technology,12/5/2014,"1,215.59",Consumer
+Technology,12/5/2014,243.17,Corporate
+Furniture,12/6/2014,42.38,Consumer
+Furniture,12/6/2014,85.99,Corporate
+Furniture,12/6/2014,187.91,Home Office
+Office Supplies,12/6/2014,277.94,Consumer
+Office Supplies,12/6/2014,231.96,Corporate
+Office Supplies,12/6/2014,265.97,Home Office
+Technology,12/6/2014,90.44,Consumer
+Technology,12/6/2014,184.53,Corporate
+Technology,12/6/2014,29.31,Home Office
+Office Supplies,12/7/2014,11,Corporate
+Furniture,12/8/2014,79.91,Consumer
+Office Supplies,12/8/2014,336.67,Consumer
+Office Supplies,12/8/2014,"1,737.28",Corporate
+Office Supplies,12/8/2014,46.54,Home Office
+Technology,12/8/2014,582.08,Consumer
+Furniture,12/9/2014,"3,570.36",Consumer
+Office Supplies,12/9/2014,"1,485.18",Consumer
+Office Supplies,12/9/2014,275.5,Corporate
+Office Supplies,12/9/2014,586.81,Home Office
+Technology,12/9/2014,"1,510.66",Consumer
+Furniture,12/10/2014,882.65,Corporate
+Furniture,12/10/2014,919.23,Home Office
+Office Supplies,12/10/2014,684.85,Consumer
+Office Supplies,12/10/2014,582.16,Corporate
+Office Supplies,12/10/2014,208.17,Home Office
+Technology,12/10/2014,"1,823.59",Consumer
+Furniture,12/11/2014,"1,920.50",Consumer
+Furniture,12/11/2014,15.35,Corporate
+Office Supplies,12/11/2014,506.03,Consumer
+Office Supplies,12/11/2014,445.79,Corporate
+Office Supplies,12/11/2014,78.73,Home Office
+Technology,12/11/2014,97.94,Consumer
+Technology,12/11/2014,48.59,Corporate
+Technology,12/11/2014,549.49,Home Office
+Furniture,12/12/2014,608.92,Consumer
+Furniture,12/12/2014,857.46,Corporate
+Office Supplies,12/12/2014,736.9,Consumer
+Office Supplies,12/12/2014,21.73,Corporate
+Office Supplies,12/12/2014,12.17,Home Office
+Technology,12/12/2014,147.54,Consumer
+Technology,12/12/2014,341.04,Corporate
+Furniture,12/14/2014,188.98,Consumer
+Furniture,12/14/2014,276.46,Corporate
+Office Supplies,12/14/2014,94.68,Consumer
+Furniture,12/15/2014,"1,362.55",Consumer
+Furniture,12/15/2014,543.77,Home Office
+Office Supplies,12/15/2014,94.28,Consumer
+Office Supplies,12/15/2014,198.44,Home Office
+Technology,12/15/2014,38.09,Consumer
+Technology,12/15/2014,194.32,Corporate
+Technology,12/15/2014,"1,584.28",Home Office
+Furniture,12/16/2014,20.72,Home Office
+Office Supplies,12/16/2014,81.01,Consumer
+Office Supplies,12/16/2014,9.58,Corporate
+Technology,12/16/2014,198.74,Consumer
+Furniture,12/17/2014,217.48,Corporate
+Office Supplies,12/17/2014,11.23,Consumer
+Office Supplies,12/17/2014,99.42,Corporate
+Office Supplies,12/17/2014,220.03,Home Office
+Technology,12/17/2014,302.51,Corporate
+Furniture,12/18/2014,591.5,Consumer
+Office Supplies,12/18/2014,706.07,Consumer
+Office Supplies,12/18/2014,543.7,Corporate
+Office Supplies,12/18/2014,34.37,Home Office
+Furniture,12/19/2014,"1,216.69",Consumer
+Furniture,12/19/2014,92.95,Corporate
+Office Supplies,12/19/2014,"2,258.76",Consumer
+Office Supplies,12/19/2014,17.21,Corporate
+Office Supplies,12/19/2014,5.3,Home Office
+Technology,12/19/2014,130.78,Consumer
+Technology,12/19/2014,29.05,Corporate
+Furniture,12/20/2014,123.45,Consumer
+Office Supplies,12/20/2014,"1,940.80",Consumer
+Office Supplies,12/21/2014,339.96,Corporate
+Furniture,12/22/2014,14.17,Home Office
+Office Supplies,12/22/2014,802.91,Consumer
+Office Supplies,12/22/2014,"1,070.02",Corporate
+Technology,12/22/2014,370.62,Consumer
+Furniture,12/23/2014,"3,239.46",Consumer
+Furniture,12/23/2014,238.66,Corporate
+Furniture,12/23/2014,143.38,Home Office
+Office Supplies,12/23/2014,"1,019.94",Consumer
+Office Supplies,12/23/2014,679.59,Corporate
+Technology,12/23/2014,"1,551.65",Consumer
+Technology,12/23/2014,65.03,Corporate
+Furniture,12/24/2014,72.7,Consumer
+Furniture,12/24/2014,167.39,Corporate
+Furniture,12/24/2014,29.11,Home Office
+Office Supplies,12/24/2014,271.87,Consumer
+Office Supplies,12/24/2014,796.76,Corporate
+Technology,12/24/2014,425.67,Corporate
+Furniture,12/25/2014,529.88,Consumer
+Furniture,12/25/2014,38.69,Corporate
+Furniture,12/25/2014,748.81,Home Office
+Office Supplies,12/25/2014,"1,202.50",Consumer
+Office Supplies,12/25/2014,56.24,Corporate
+Office Supplies,12/25/2014,82.34,Home Office
+Technology,12/25/2014,499.17,Consumer
+Technology,12/25/2014,"3,052.75",Home Office
+Furniture,12/26/2014,790.49,Consumer
+Furniture,12/26/2014,35.67,Corporate
+Office Supplies,12/26/2014,339.28,Consumer
+Office Supplies,12/26/2014,376.66,Corporate
+Office Supplies,12/26/2014,619.48,Home Office
+Technology,12/26/2014,316.94,Consumer
+Technology,12/26/2014,92.29,Home Office
+Office Supplies,12/27/2014,41.17,Consumer
+Office Supplies,12/27/2014,789.71,Corporate
+Office Supplies,12/27/2014,2.72,Home Office
+Office Supplies,12/28/2014,12.32,Corporate
+Technology,12/28/2014,162.74,Corporate
+Furniture,12/29/2014,85.95,Consumer
+Furniture,12/29/2014,410.99,Corporate
+Office Supplies,12/29/2014,293.62,Consumer
+Office Supplies,12/29/2014,699.56,Corporate
+Office Supplies,12/29/2014,81.98,Home Office
+Technology,12/29/2014,15.74,Consumer
+Furniture,12/30/2014,"2,073.53",Consumer
+Furniture,12/30/2014,85.95,Corporate
+Office Supplies,12/30/2014,71.29,Consumer
+Office Supplies,12/30/2014,188.73,Corporate
+Technology,12/30/2014,269.11,Consumer
+Furniture,12/31/2014,284.36,Consumer
+Office Supplies,12/31/2014,60.82,Consumer
+Office Supplies,12/31/2014,29.43,Corporate
+Office Supplies,12/31/2014,198.84,Home Office
+Technology,12/31/2014,80.02,Consumer
